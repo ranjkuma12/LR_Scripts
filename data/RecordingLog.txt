@@ -1,0 +1,1363 @@
+[API Trapper      (1244: db8)] Recording in 64-bit mode: C:\Program Files\Internet Explorer\IEXPLORE.EXE
+[API Trapper      (200c:142c)] Recording in 32-bit mode: C:\Program Files (x86)\Internet Explorer\IEXPLORE.EXE
+[Network Analyzer (200c:2494)] ------------------------------------------------------------------------------------------
+[Network Analyzer (200c:2494)] Load Network Traffic Analyzers:
+[Network Analyzer (200c:2494)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (200c:2494)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter.dll)
+[Network Analyzer (200c:2494)]     + Network Analyzer: api_http_filter.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (200c:2494)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter.dll
+[Network Analyzer (200c:2494)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer.dll)
+[Network Analyzer (200c:2494)]     + Network Analyzer: WebSocketAnalyzer.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (200c:2494)]     Analyzer Module: local_server (value=)
+[Network Analyzer (200c:2494)] ------------------------------------------------------------------------------------------
+[Network Analyzer (200c: 2ac)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Network Analyzer (200c:20b8)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Network Analyzer (200c:2494)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Network Analyzer (200c:37ac)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Network Analyzer (200c:2494)] Request Connection: Remote Server @ 172.217.166.202:80   (Service=)  (Sid=  1)  PROXIED!
+[Network Analyzer (200c:20b8)] Request Connection: Remote Server @ 172.217.160.238:80   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer (200c:37ac)] Request Connection: Remote Server @ 162.241.225.105:80   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer (200c:37ac)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Network Analyzer (200c:14d8)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Network Analyzer (200c:1900)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Network Analyzer (200c:273c)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Web Request      (200c: 2ac)] "GET /"   
+[Network Analyzer (200c: 2ac)]   (Sid:  3) Client -> Server @ : 426 bytes (Service=HTTP)
+[Network Analyzer (200c:14d8)] Request Connection: Remote Server @ 104.24.11.93:80   (Service=)  (Sid=  4)  PROXIED!
+[Network Analyzer (200c:1900)] Request Connection: Remote Server @ 104.24.11.93:80   (Service=)  (Sid=  5)  PROXIED!
+[Network Analyzer (200c:273c)] Request Connection: Remote Server @ 104.24.11.93:80   (Service=)  (Sid=  6)  PROXIED!
+[Network Analyzer (200c:37ac)] Request Connection: Remote Server @ 162.241.225.105:80   (Service=)  (Sid=  7)  PROXIED!
+[Network Analyzer (200c:37ac)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Network Analyzer (200c:37ac)] Request Connection: Remote Server @ 162.241.225.105:80   (Service=)  (Sid=  8)  PROXIED!
+[Network Analyzer (200c:37ac)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Network Analyzer (200c:37ac)] Request Connection: Remote Server @ 162.241.225.105:80   (Service=)  (Sid=  9)  PROXIED!
+[Network Analyzer (200c:37ac)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Network Analyzer (200c:37ac)] Request Connection: Remote Server @ 162.241.225.105:80   (Service=)  (Sid= 10)  PROXIED!
+[Network Analyzer (200c:37ac)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Network Analyzer (200c: 2ac)]   (Sid:  3) Server -> Client : 2920 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid:  3) Server -> Client : 11034 bytes  (Service=HTTP)
+[Network Analyzer (200c:37ac)] Request Connection: Remote Server @ 162.241.225.105:80   (Service=)  (Sid= 11)  PROXIED!
+[Web Request      (200c: 2ac)] "GET /wp-content/plugins/wysija-newsletters/css/validationEngine.jquery.css?ver=2.7.8"   
+[Network Analyzer (200c: 2ac)]   (Sid:  7) Client -> Server @ : 826 bytes (Service=HTTP)
+[Web Request      (200c: 2ac)] "GET /wp-includes/css/dist/block-library/style.min.css?ver=9c8e13199db1dc0a9c27c778740aa6e2"   
+[Network Analyzer (200c: 2ac)]   (Sid:  8) Client -> Server @ : 832 bytes (Service=HTTP)
+[Web Request      (200c: 2ac)] "GET /wp-content/plugins/font/css/fontsforwebstyle.css?pver=7.5.1&ver=9c8e13199db1dc0a9c27c778740aa6e2"   
+[Network Analyzer (200c: 2ac)]   (Sid:  9) Client -> Server @ : 843 bytes (Service=HTTP)
+[Web Request      (200c: 2ac)] "GET /wp-content/plugins/font/css/start/jquery-ui-1.8.14.custom.css?ver=9c8e13199db1dc0a9c27c778740aa6e2"   
+[Network Analyzer (200c: 2ac)]   (Sid: 10) Client -> Server @ : 845 bytes (Service=HTTP)
+[Web Request      (200c: 2ac)] "GET /wp-content/plugins/font/css/colorpicker.css?ver=9c8e13199db1dc0a9c27c778740aa6e2"   
+[Network Analyzer (200c: 2ac)]   (Sid: 11) Client -> Server @ : 827 bytes (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid:  3) Server -> Client : 1460 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid:  3) Server -> Client : 5333 bytes  (Service=HTTP)
+[Web Request      (200c: 2ac)] "GET /wp-includes/js/wp-emoji-release.min.js?ver=9c8e13199db1dc0a9c27c778740aa6e2"   
+[Network Analyzer (200c: 2ac)]   (Sid:  3) Client -> Server @ : 865 bytes (Service=HTTP)
+[Web Request      (200c: 2ac)] "GET /translate_a/element.js?cb=GoogleLanguageTranslatorInit"   
+[Network Analyzer (200c: 2ac)]   (Sid:  2) Client -> Server @ : 340 bytes (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid:  7) Server -> Client : 1460 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid:  7) Server -> Client : 227 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid:  8) Server -> Client : 5981 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid:  9) Server -> Client : 6136 bytes  (Service=HTTP)
+[Web Request      (200c: 2ac)] "GET /wp-content/plugins/google-language-translator/css/style.css?ver=5.0.48"   
+[Network Analyzer (200c: 2ac)]   (Sid:  7) Client -> Server @ : 817 bytes (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 11) Server -> Client : 1121 bytes  (Service=HTTP)
+[Web Request      (200c: 2ac)] "GET /wp-content/plugins/google-language-translator/css/toolbar.css?ver=5.0.48"   
+[Network Analyzer (200c: 2ac)]   (Sid:  8) Client -> Server @ : 819 bytes (Service=HTTP)
+[Web Request      (200c: 2ac)] "GET /wp-content/plugins/likebtn-like-button/public/css/style.css?ver=9c8e13199db1dc0a9c27c778740aa6e2"   
+[Network Analyzer (200c: 2ac)]   (Sid:  9) Client -> Server @ : 843 bytes (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 10) Server -> Client : 9181 bytes  (Service=HTTP)
+[Web Request      (200c: 2ac)] "GET /wp-content/themes/salt/css/bootstrap.min.css?ver=3.3.7"   
+[Network Analyzer (200c: 2ac)]   (Sid: 11) Client -> Server @ : 801 bytes (Service=HTTP)
+[Web Request      (200c: 2ac)] "GET /wp-content/themes/salt/css/font-awesome.min.css?ver=4.2.1"   
+[Network Analyzer (200c: 2ac)]   (Sid: 10) Client -> Server @ : 804 bytes (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid:  2) Server -> Client : 1140 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid:  3) Server -> Client : 1460 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid:  3) Server -> Client : 3574 bytes  (Service=HTTP)
+[Web Request      (200c: 2ac)] "GET /wp-content/themes/salt/css/main.css?ver=1.1.0"   
+[Network Analyzer (200c: 2ac)]   (Sid:  3) Client -> Server @ : 792 bytes (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid:  8) Server -> Client : 2651 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid:  9) Server -> Client : 1223 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid:  7) Server -> Client : 13511 bytes  (Service=HTTP)
+[Web Request      (200c: 2ac)] "GET /wp-content/themes/salt/css/social.css?ver=1.0.3"   
+[Network Analyzer (200c: 2ac)]   (Sid:  8) Client -> Server @ : 794 bytes (Service=HTTP)
+[Web Request      (200c: 2ac)] "GET /wp-content/plugins/newsletter/style.css?ver=5.7.4"   
+[Network Analyzer (200c: 2ac)]   (Sid:  9) Client -> Server @ : 796 bytes (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 10) Server -> Client : 1460 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 10) Server -> Client : 5608 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 11) Server -> Client : 13954 bytes  (Service=HTTP)
+[Web Request      (200c: 2ac)] "GET /wp-content/uploads/pum/pum-site-styles.css?generated=1540899901&ver=1.7.30"   
+[Network Analyzer (200c: 2ac)]   (Sid: 10) Client -> Server @ : 821 bytes (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid:  7) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (200c: 2ac)] "GET /wp-includes/js/jquery/jquery.js?ver=1.12.4"   
+[Network Analyzer (200c: 2ac)]   (Sid:  7) Client -> Server @ : 809 bytes (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid:  3) Server -> Client : 5840 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid:  3) Server -> Client : 7924 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid:  8) Server -> Client : 1619 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 11) Server -> Client : 13647 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid:  9) Server -> Client : 2202 bytes  (Service=HTTP)
+[Web Request      (200c: 2ac)] "GET /wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"   
+[Network Analyzer (200c: 2ac)]   (Sid:  8) Client -> Server @ : 820 bytes (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 10) Server -> Client : 4653 bytes  (Service=HTTP)
+[Web Request      (200c: 2ac)] "GET /wp-content/plugins/cleantalk-spam-protect/js/apbct-public.js?ver=5.107"   
+[Network Analyzer (200c: 2ac)]   (Sid: 11) Client -> Server @ : 837 bytes (Service=HTTP)
+[Web Request      (200c: 2ac)] "GET /wp-content/plugins/cleantalk-spam-protect/js/apbct-public--gdpr.js?ver=5.107"   
+[Network Analyzer (200c: 2ac)]   (Sid:  3) Client -> Server @ : 843 bytes (Service=HTTP)
+[Web Request      (200c: 2ac)] "GET /wp-content/plugins/cleantalk-spam-protect/inc/cleantalk_nocache.js?ver=5.107"   
+[Network Analyzer (200c: 2ac)]   (Sid:  9) Client -> Server @ : 843 bytes (Service=HTTP)
+[Web Request      (200c: 2ac)] "GET /wp-content/plugins/font/js/jquery.fcarousel.min.js?ver=9c8e13199db1dc0a9c27c778740aa6e2"   
+[Network Analyzer (200c: 2ac)]   (Sid: 10) Client -> Server @ : 854 bytes (Service=HTTP)
+[Web Request      (200c: 2ac)] "GET /css?family=Acme|Montserrat"   
+[Network Analyzer (200c: 2ac)]   (Sid:  1) Client -> Server @ : 292 bytes (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid:  1) Server -> Client : 586 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid:  1) Server -> Client : 20 bytes  (Service=HTTP)
+[Network Analyzer (200c:14d8)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Network Analyzer (200c: 2ac)]   (Sid:  7) Server -> Client : 1460 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid:  7) Server -> Client : 15144 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid:  7) Server -> Client : 8186 bytes  (Service=HTTP)
+[Network Analyzer (200c:14d8)] Request Connection: Remote Server @ 172.217.31.14:443   (Service=)  (Sid= 12)  PROXIED!
+[Network Analyzer (200c: 2ac)]   (Sid:  8) Server -> Client : 1460 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid:  8) Server -> Client : 3357 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid:  3) Server -> Client : 842 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid:  9) Server -> Client : 2472 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 10) Server -> Client : 5772 bytes  (Service=HTTP)
+[Web Request      (200c: 2ac)] "GET /wp-includes/js/jquery/ui/core.min.js?ver=1.11.4"   
+[Network Analyzer (200c: 2ac)]   (Sid:  8) Client -> Server @ : 814 bytes (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 11) Server -> Client : 2167 bytes  (Service=HTTP)
+[Web Request      (200c: 2ac)] "GET /wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4"   
+[Network Analyzer (200c: 2ac)]   (Sid:  3) Client -> Server @ : 816 bytes (Service=HTTP)
+[Web Request      (200c: 2ac)] "GET /wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4"   
+[Network Analyzer (200c: 2ac)]   (Sid:  9) Client -> Server @ : 815 bytes (Service=HTTP)
+[Web Request      (200c: 2ac)] "GET /wp-includes/js/jquery/ui/draggable.min.js?ver=1.11.4"   
+[Network Analyzer (200c: 2ac)]   (Sid: 10) Client -> Server @ : 819 bytes (Service=HTTP)
+[Web Request      (200c: 2ac)] "GET /wp-includes/js/jquery/ui/slider.min.js?ver=1.11.4"   
+[Network Analyzer (200c: 2ac)]   (Sid: 11) Client -> Server @ : 816 bytes (Service=HTTP)
+[Network Analyzer (200c:2794)]   (Sid: 12) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (200c: 2ac)]   (Sid:  7) Server -> Client : 1460 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid:  7) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid:  7) Server -> Client : 570 bytes  (Service=HTTP)
+[Web Request      (200c: 2ac)] "GET /wp-content/plugins/font/js/colorpicker.js?ver=9c8e13199db1dc0a9c27c778740aa6e2"   
+[Network Analyzer (200c: 2ac)]   (Sid:  7) Client -> Server @ : 845 bytes (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid:  8) Server -> Client : 1460 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid:  8) Server -> Client : 818 bytes  (Service=HTTP)
+[Web Request      (200c: 2ac)] "GET /wp-includes/js/jquery/ui/sortable.min.js?ver=1.11.4"   
+[Network Analyzer (200c: 2ac)]   (Sid:  8) Client -> Server @ : 818 bytes (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid:  3) Server -> Client : 1460 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid:  3) Server -> Client : 1814 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid:  9) Server -> Client : 1501 bytes  (Service=HTTP)
+[Web Request      (200c: 2ac)] "GET /wp-content/plugins/font/js/jquery.fontPlugin.js?pver=7.5.1&ver=9c8e13199db1dc0a9c27c778740aa6e2"   
+[Network Analyzer (200c: 2ac)]   (Sid:  3) Client -> Server @ : 862 bytes (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 10) Server -> Client : 6598 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 11) Server -> Client : 4079 bytes  (Service=HTTP)
+[Web Request      (200c: 2ac)] "GET /wp-content/plugins/font/js/pluginscripts.js?pver=7.5.1&ver=9c8e13199db1dc0a9c27c778740aa6e2"   
+[Network Analyzer (200c: 2ac)]   (Sid:  9) Client -> Server @ : 858 bytes (Service=HTTP)
+[Web Request      (200c: 2ac)] "GET /wp-content/plugins/likebtn-like-button/public/js/frontend.js?ver=9c8e13199db1dc0a9c27c778740aa6e2"   
+[Network Analyzer (200c: 2ac)]   (Sid: 10) Client -> Server @ : 864 bytes (Service=HTTP)
+[Web Request      (200c: 2ac)] "GET /wp-content/plugins/google-language-translator/js/scripts.js?ver=5.0.48"   
+[Network Analyzer (200c: 2ac)]   (Sid: 11) Client -> Server @ : 860 bytes (Service=HTTP)
+[Network Analyzer (200c:2494)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Network Analyzer (200c:2494)] Request Connection: Remote Server @ 216.58.221.35:80   (Service=)  (Sid= 13)  PROXIED!
+[Network Analyzer (200c: 2ac)]   (Sid:  7) Server -> Client : 5334 bytes  (Service=HTTP)
+[Web Request      (200c: 2ac)] "GET /gts1o1/MFEwTzBNMEswSTAJBgUrDgMCGgUABBR0AkbyWlxCEiC1vV12Caa6XKNH3wQUJPIuTg%2B9yvc%2BKVXKco1ph1ZE6XoCEGegGIHEFzkxCAAAAAAdia0%3D"   
+[Network Analyzer (200c: 2ac)]   (Sid: 13) Client -> Server @ : 239 bytes (Service=HTTP)
+[Web Request      (200c: 2ac)] "GET /wp-content/themes/salt/js/respond.min.js?ver=1.4.2"   
+[Network Analyzer (200c: 2ac)]   (Sid:  7) Client -> Server @ : 840 bytes (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid:  8) Server -> Client : 1460 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid:  8) Server -> Client : 7286 bytes  (Service=HTTP)
+[Web Request      (200c: 2ac)] "GET /wp-content/themes/salt/js/global.js?ver=1.0.1"   
+[Network Analyzer (200c: 2ac)]   (Sid:  8) Client -> Server @ : 835 bytes (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid:  3) Server -> Client : 1460 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid:  3) Server -> Client : 14898 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 10) Server -> Client : 1460 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid:  9) Server -> Client : 3522 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 10) Server -> Client : 1617 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 11) Server -> Client : 4063 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 13) Server -> Client : 231 bytes  (Service=HTTP)
+[Web Request      (200c: 2ac)] "GET /wp-content/plugins/newsletter/subscription/validate.js?ver=5.7.4"   
+[Network Analyzer (200c: 2ac)]   (Sid: 11) Client -> Server @ : 854 bytes (Service=HTTP)
+[Web Request      (200c: 2ac)] "GET /wp-includes/js/jquery/ui/position.min.js?ver=1.11.4"   
+[Network Analyzer (200c: 2ac)]   (Sid: 10) Client -> Server @ : 841 bytes (Service=HTTP)
+[Web Request      (200c: 2ac)] "GET /wp-content/uploads/pum/pum-site-scripts.js?defer&generated=1540899901&ver=1.7.30"   
+[Network Analyzer (200c: 2ac)]   (Sid:  9) Client -> Server @ : 870 bytes (Service=HTTP)
+[Web Request      (200c: 2ac)] "GET /gts1o1/MFEwTzBNMEswSTAJBgUrDgMCGgUABBR0AkbyWlxCEiC1vV12Caa6XKNH3wQUJPIuTg%2B9yvc%2BKVXKco1ph1ZE6XoCEGegGIHEFzkxCAAAAAAdia0%3D"   
+[Network Analyzer (200c: 2ac)]   (Sid: 13) Client -> Server @ : 282 bytes (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 13) Server -> Client : 239 bytes  (Service=HTTP)
+[Network Analyzer (200c:2494)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Network Analyzer (200c:2494)] Request Connection: Remote Server @ 216.58.221.35:80   (Service=)  (Sid= 14)  PROXIED!
+[Network Analyzer (200c: 2ac)]   (Sid:  7) Server -> Client : 1460 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid:  7) Server -> Client : 1307 bytes  (Service=HTTP)
+[Web Request      (200c: 2ac)] "GET /GTS1O1.crl"   
+[Network Analyzer (200c: 2ac)]   (Sid: 14) Client -> Server @ : 204 bytes (Service=HTTP)
+[Web Request      (200c: 2ac)] "GET /wp-includes/js/wp-embed.min.js?ver=9c8e13199db1dc0a9c27c778740aa6e2"   
+[Network Analyzer (200c: 2ac)]   (Sid:  7) Client -> Server @ : 857 bytes (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 14) Server -> Client : 116 bytes  (Service=HTTP)
+[Web Request      (200c: 2ac)] "GET /GTS1O1.crl"   
+[Network Analyzer (200c: 2ac)]   (Sid: 14) Client -> Server @ : 216 bytes (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid:  8) Server -> Client : 515 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid:  3) Server -> Client : 1154 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 14) Server -> Client : 116 bytes  (Service=HTTP)
+[Web Request      (200c: 2ac)] "GET /js/w/widget.js"   
+[Network Analyzer (200c: 2ac)]   (Sid:  4) Client -> Server @ : 355 bytes (Service=HTTP)
+[Network Analyzer (200c:2494)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Network Analyzer (200c:2494)] Request Connection: Remote Server @ 157.240.198.15:443   (Service=)  (Sid= 15)  PROXIED!
+[Network Analyzer (200c: 2ac)]   (Sid: 10) Server -> Client : 1460 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 10) Server -> Client : 1617 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 11) Server -> Client : 746 bytes  (Service=HTTP)
+[Net An. Error    (200c:2794)] SSLAccept(ssl_id = 249696344 = 0EE21058) Failed, ctx = 08ED1ED0, err = "SSLv3/TLS write server done", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    (200c:2794)]   (Sid: 12) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (200c: 2ac)]   (Sid:  9) Server -> Client : 13946 bytes  (Service=HTTP)
+[Web Request      (200c: 2ac)] "GET /wp-content/themes/salt/fonts/fontawesome-webfont.eot?"   
+[Network Analyzer (200c: 2ac)]   (Sid: 10) Client -> Server @ : 927 bytes (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 12) Connection Terminated (by Client)
+[Network Analyzer (200c:273c)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Network Analyzer (200c:273c)] Request Connection: Remote Server @ 172.217.31.14:443   (Service=)  (Sid= 16)  PROXIED!
+[Network Analyzer (200c:2494)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Network Analyzer (200c:1900)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Network Analyzer (200c:2494)] Request Connection: Remote Server @ 172.217.166.234:443   (Service=)  (Sid= 17)  PROXIED!
+[Network Analyzer (200c:2c90)]   (Sid: 15) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-ECDSA-AES128-GCM-SHA256)
+[Network Analyzer (200c:1900)] Request Connection: Remote Server @ 172.217.166.234:443   (Service=)  (Sid= 18)  PROXIED!
+[Network Analyzer (200c: 2ac)]   (Sid:  4) Server -> Client : 1460 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid:  4) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid:  4) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid:  4) Server -> Client : 552 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid:  7) Server -> Client : 1122 bytes  (Service=HTTP)
+[Network Analyzer (200c:1f7c)]   (Sid: 16) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Web Request      (200c: 2ac)] "GET /css/w/widget.css?v=38"   
+[Network Analyzer (200c: 2ac)]   (Sid:  4) Client -> Server @ : 342 bytes (Service=HTTP)
+[Network Analyzer (200c:1f7c)]   (Sid: 16) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (200c: 2ac)]   (Sid:  4) Server -> Client : 2920 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid:  4) Server -> Client : 16384 bytes  (Service=HTTP)
+[Web Request      (200c: 2ac)] "GET /analytics.js"   
+[Network Analyzer (200c: 2ac)]   (Sid: 16) Client -> Server @ : 302 bytes (SSL)(Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid:  4) Server -> Client : 9552 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid:  9) Server -> Client : 4052 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 16) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 16) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 16) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 16) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: ce4)]   (Sid: 17) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-ECDSA-AES128-GCM-SHA256)
+[Network Analyzer (200c: 2ac)]   (Sid: 16) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 16) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 16) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 16) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c:37ac)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Network Analyzer (200c: 2ac)]   (Sid: 16) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 16) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 16) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 16) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 16) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 16) Server -> Client : 183 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 10) Server -> Client : 2920 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 10) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 10) Server -> Client : 479 bytes  (Service=HTTP)
+[Network Analyzer (200c:37ac)] Request Connection: Remote Server @ 117.18.237.29:80   (Service=)  (Sid= 19)  PROXIED!
+[Network Analyzer (200c:2e2c)]   (Sid: 18) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-ECDSA-AES128-GCM-SHA256)
+[Web Request      (200c: 2ac)] "GET /gts1o1/MFEwTzBNMEswSTAJBgUrDgMCGgUABBR0AkbyWlxCEiC1vV12Caa6XKNH3wQUJPIuTg%2B9yvc%2BKVXKco1ph1ZE6XoCEEuV215zoiuyCAAAAAAdigs%3D"   
+[Network Analyzer (200c: 2ac)]   (Sid: 13) Client -> Server @ : 239 bytes (Service=HTTP)
+[Web Request      (200c: 2ac)] "GET /MFEwTzBNMEswSTAJBgUrDgMCGgUABBR0AkbyWlxCEiC1vV12Caa6XKNH3wQUJPIuTg%2B9yvc%2BKVXKco1ph1ZE6XoCEARz0IQIZE3fqX4wm1v0YMM%3D"   
+[Network Analyzer (200c: 2ac)]   (Sid: 19) Client -> Server @ : 236 bytes (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 19) Server -> Client : 765 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 13) Server -> Client : 231 bytes  (Service=HTTP)
+[Web Request      (200c: 2ac)] "GET /MFEwTzBNMEswSTAJBgUrDgMCGgUABBR0AkbyWlxCEiC1vV12Caa6XKNH3wQUJPIuTg%2B9yvc%2BKVXKco1ph1ZE6XoCEARz0IQIZE3fqX4wm1v0YMM%3D"   
+[Network Analyzer (200c: 2ac)]   (Sid: 19) Client -> Server @ : 279 bytes (Service=HTTP)
+[Web Request      (200c: 2ac)] "GET /collect?v=1&_v=j79&aip=1&a=319993307&t=pageview&_s=1&dl=http%3A%2F%2Flifecharger.org%2F&ul=en-us&de=utf-8&dt=Life%20Charger%20%E2%80%93%20%E2%80%A6%20a%20new%20beginning&sd=24-bit&sr=1280x1024&vp=784x554&je=1&fl=32.0%20r0&_u=QCCAgUQAC~&jid=759358860&gjid=992935051&cid=1417406969.1575350714&tid=UA-71929327-1&_gid=1302636320.1575350714&z=168692159"   
+[Network Analyzer (200c: 2ac)]   (Sid: 16) Client -> Server @ : 665 bytes (SSL)(Service=HTTP)
+[Web Request      (200c: 2ac)] "GET /gts1o1/MFEwTzBNMEswSTAJBgUrDgMCGgUABBR0AkbyWlxCEiC1vV12Caa6XKNH3wQUJPIuTg%2B9yvc%2BKVXKco1ph1ZE6XoCEEuV215zoiuyCAAAAAAdigs%3D"   
+[Network Analyzer (200c: 2ac)]   (Sid: 13) Client -> Server @ : 282 bytes (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 19) Server -> Client : 788 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 10) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 10) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 10) Server -> Client : 8112 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 16) Server -> Client : 567 bytes (SSL) (Service=HTTP)
+[Web Request      (200c: 2ac)] "GET /?nc=.php&t=1575351887180&h=lifecharger.org"   
+[Network Analyzer (200c: 2ac)]   (Sid:  6) Client -> Server @ : 412 bytes (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 13) Server -> Client : 239 bytes  (Service=HTTP)
+[Web Request      (200c: 2ac)] "GET /w/i/?s=%7B%22h%22%3A%22lifecharger.org%22%2C%22s%22%3A%22%22%2C%22i%22%3A%5B%2230a372efe501%22%2C%226ddd3264f934%22%2C%220cc801851931%22%2C%22e3400474fd1e%22%2C%2265f379085453%22%2C%228b4319ec1f5e%22%2C%224715a2e29eb8%22%2C%224b302f0c1bd3%22%2C%22a60cb9361a46%22%2C%22864bdf86dab3%22%2C%223a9de53c8db1%22%5D%7D&lb=lb_json"   
+[Network Analyzer (200c: 2ac)]   (Sid:  5) Client -> Server @ : 663 bytes (Service=HTTP)
+[Network Analyzer (200c:30d0)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Net An. Error    (200c: ce4)] SSLAccept(ssl_id = 249585744 = 0EE06050) Failed, ctx = 0EE0FB50, err = "SSLv3/TLS write server done", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    (200c:2e2c)] SSLAccept(ssl_id = 186991336 = 0B2542E8) Failed, ctx = 0EE0FB50, err = "SSLv3/TLS write server done", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    (200c: ce4)]   (Sid: 17) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (200c:2e2c)]   (Sid: 18) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (200c:20b8)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Network Analyzer (200c: 2ac)]   (Sid: 17) Connection Terminated (by Client)
+[Network Analyzer (200c: 2ac)]   (Sid: 18) Connection Terminated (by Client)
+[Network Analyzer (200c:30d0)] Request Connection: Remote Server @ 117.18.237.29:80   (Service=)  (Sid= 20)  PROXIED!
+[Web Request      (200c: 2ac)] "GET /sha2-ha-server-g6.crl"   
+[Network Analyzer (200c: 2ac)]   (Sid: 20) Client -> Server @ : 139 bytes (Service=HTTP)
+[Network Analyzer (200c:20b8)] Request Connection: Remote Server @ 172.217.166.234:443   (Service=)  (Sid= 21)  PROXIED!
+[Network Analyzer (200c:273c)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Network Analyzer (200c:273c)] Request Connection: Remote Server @ 172.217.166.234:443   (Service=)  (Sid= 22)  PROXIED!
+[Network Analyzer (200c: 2ac)]   (Sid: 20) Server -> Client : 1460 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 20) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 20) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 20) Server -> Client : 9572 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 20) Server -> Client : 1460 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 20) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 20) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 20) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 20) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 20) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c:1ea0)]   (Sid: 21) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-ECDSA-AES128-GCM-SHA256)
+[Network Analyzer (200c: 2ac)]   (Sid: 20) Server -> Client : 4220 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 20) Server -> Client : 1460 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 20) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 20) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 20) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 20) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 20) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 10) Server -> Client : 16190 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 20) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 20) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 20) Server -> Client : 13792 bytes  (Service=HTTP)
+[Network Analyzer (200c:1ea0)]   (Sid: 21) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (200c: 2ac)]   (Sid: 20) Server -> Client : 1460 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 20) Server -> Client : 16384 bytes  (Service=HTTP)
+[Web Request      (200c: 2ac)] "GET /translate_static/css/translateelement.css"   
+[Network Analyzer (200c: 2ac)]   (Sid: 21) Client -> Server @ : 311 bytes (SSL)(Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 20) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 20) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 20) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 20) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 20) Server -> Client : 5953 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 21) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 21) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 21) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 21) Server -> Client : 1 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c:143c)]   (Sid: 22) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-ECDSA-AES128-GCM-SHA256)
+[Web Request      (200c: 2ac)] "GET /sha2-ha-server-g6.crl"   
+[Network Analyzer (200c: 2ac)]   (Sid: 20) Client -> Server @ : 182 bytes (Service=HTTP)
+[Network Analyzer (200c:143c)]   (Sid: 22) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (200c: 2ac)]   (Sid: 20) Server -> Client : 1460 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 20) Server -> Client : 16384 bytes  (Service=HTTP)
+[Web Request      (200c: 2ac)] "GET /translate_static/js/element/main.js"   
+[Network Analyzer (200c: 2ac)]   (Sid: 22) Client -> Server @ : 325 bytes (SSL)(Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 20) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 20) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 20) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 20) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 20) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 20) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 22) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid:  5) Server -> Client : 712 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 20) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 22) Server -> Client : 719 bytes (SSL) (Service=HTTP)
+[Web Request      (200c: 2ac)] "GET /wp-content/plugins/google-language-translator/images/flags.png"   
+[Network Analyzer (200c: 2ac)]   (Sid: 10) Client -> Server @ : 1031 bytes (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 20) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 20) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 20) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid:  6) Server -> Client : 345 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 20) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 20) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 20) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 20) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 20) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 20) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 20) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 20) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 20) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 20) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 20) Server -> Client : 5149 bytes  (Service=HTTP)
+[Web Request      (200c: 2ac)] "GET /element/TE_20190916_00/e/js/element/element_main.js"   
+[Network Analyzer (200c: 2ac)]   (Sid: 22) Client -> Server @ : 341 bytes (SSL)(Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 22) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 22) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 22) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 22) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 22) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 22) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 22) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 22) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 22) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 22) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c:273c)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Network Analyzer (200c: 2ac)]   (Sid: 22) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 22) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 22) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 22) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 22) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 22) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 22) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 22) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 22) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 22) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 22) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 22) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 22) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 22) Server -> Client : 1143 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 22) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 22) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 22) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 22) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 22) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 22) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 22) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 22) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 22) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c:273c)] Request Connection: Remote Server @ 117.18.237.29:80   (Service=)  (Sid= 23)  PROXIED!
+[Network Analyzer (200c: 2ac)]   (Sid: 22) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 22) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 22) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Web Request      (200c: 2ac)] "GET /sha2-ha-server-g6.crl"   
+[Network Analyzer (200c: 2ac)]   (Sid: 23) Client -> Server @ : 139 bytes (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 22) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 22) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 22) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 22) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 22) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 22) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 22) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 22) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 22) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 22) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 22) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 22) Server -> Client : 545 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 22) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 22) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 22) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 22) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 22) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 22) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 23) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 22) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 23) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 22) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 23) Server -> Client : 11032 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 22) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 22) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 22) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 22) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 22) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 22) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 22) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 23) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 10) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 22) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 23) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 10) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 22) Server -> Client : 53 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 23) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 10) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 23) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 10) Server -> Client : 6159 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 23) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 23) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 23) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 23) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 23) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 23) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 23) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 23) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 23) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 23) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 23) Server -> Client : 15904 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 23) Server -> Client : 7300 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 23) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 23) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 23) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 23) Server -> Client : 5141 bytes  (Service=HTTP)
+[Web Request      (200c: 2ac)] "GET /sha2-ha-server-g6.crl"   
+[Network Analyzer (200c: 2ac)]   (Sid: 23) Client -> Server @ : 182 bytes (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 23) Server -> Client : 7300 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 23) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 23) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 23) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 23) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 23) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 23) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 23) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 23) Server -> Client : 652 bytes  (Service=HTTP)
+[Web Request      (200c: 2ac)] "GET /translate_a/l?client=te&alpha=true&hl=en&cb=_callbacks____0k3pfu8io"   
+[Network Analyzer (200c: 2ac)]   (Sid: 22) Client -> Server @ : 357 bytes (SSL)(Service=HTTP)
+[Network Analyzer (200c:37ac)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Network Analyzer (200c: 2ac)]   (Sid: 23) Server -> Client : 1460 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 23) Server -> Client : 16384 bytes  (Service=HTTP)
+[Web Request      (200c: 2ac)] "GET /wp-content/plugins/google-language-translator/images/flags22.png"   
+[Network Analyzer (200c:30d0)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Network Analyzer (200c: 2ac)]   (Sid: 10) Client -> Server @ : 1033 bytes (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 23) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 23) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 23) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c:37ac)] Request Connection: Remote Server @ 216.58.196.99:443   (Service=)  (Sid= 24)  PROXIED!
+[Network Analyzer (200c: 2ac)]   (Sid: 23) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 23) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 23) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 23) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c:20b8)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Network Analyzer (200c: 2ac)]   (Sid: 23) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c:30d0)] Request Connection: Remote Server @ 216.58.196.99:443   (Service=)  (Sid= 25)  PROXIED!
+[Network Analyzer (200c: 2ac)]   (Sid: 23) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 23) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 23) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 23) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 23) Server -> Client : 13581 bytes  (Service=HTTP)
+[Network Analyzer (200c:20b8)] Request Connection: Remote Server @ 216.58.196.99:443   (Service=)  (Sid= 26)  PROXIED!
+[Network Analyzer (200c: 2ac)]   (Sid: 22) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 22) Server -> Client : 503 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 22) Server -> Client : 97 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 22) Server -> Client : 5 bytes (SSL) (Service=HTTP)
+[Net An. Error    (200c:2c90)] SSLAccept(ssl_id = 250851256 = 0EF3AFB8) Failed, ctx = 08ECF3B0, err = "SSLv3/TLS write server done", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Network Analyzer (200c:2928)]   (Sid: 24) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-ECDSA-AES128-GCM-SHA256)
+[Net An. Error    (200c:2c90)]   (Sid: 15) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (200c:2494)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Network Analyzer (200c: 2ac)]   (Sid: 15) Connection Terminated (by Client)
+[Network Analyzer (200c:2494)] Request Connection: Remote Server @ 157.240.198.15:443   (Service=)  (Sid= 27)  PROXIED!
+[Network Analyzer (200c: 324)]   (Sid: 25) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-ECDSA-AES128-GCM-SHA256)
+[Web Request      (200c: 2ac)] "GET /gts1o1/MFEwTzBNMEswSTAJBgUrDgMCGgUABBR0AkbyWlxCEiC1vV12Caa6XKNH3wQUJPIuTg%2B9yvc%2BKVXKco1ph1ZE6XoCECHdu%2Bj7Q2AJCAAAAAAdikY%3D"   
+[Network Analyzer (200c: 2ac)]   (Sid: 13) Client -> Server @ : 241 bytes (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 10) Server -> Client : 1460 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 10) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 10) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 10) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 10) Server -> Client : 4123 bytes  (Service=HTTP)
+[Network Analyzer (200c:28fc)]   (Sid: 26) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-ECDSA-AES128-GCM-SHA256)
+[Network Analyzer (200c:23e8)]   (Sid: 27) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-ECDSA-AES128-GCM-SHA256)
+[Network Analyzer (200c: 2ac)]   (Sid: 13) Server -> Client : 231 bytes  (Service=HTTP)
+[Network Analyzer (200c:23e8)]   (Sid: 27) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Web Request      (200c: 2ac)] "GET /gts1o1/MFEwTzBNMEswSTAJBgUrDgMCGgUABBR0AkbyWlxCEiC1vV12Caa6XKNH3wQUJPIuTg%2B9yvc%2BKVXKco1ph1ZE6XoCECHdu%2Bj7Q2AJCAAAAAAdikY%3D"   
+[Network Analyzer (200c: 2ac)]   (Sid: 13) Client -> Server @ : 284 bytes (Service=HTTP)
+[Web Request      (200c: 2ac)] "GET /en_US/sdk.js"   
+[Network Analyzer (200c: 2ac)]   (Sid: 27) Client -> Server @ : 298 bytes (SSL)(Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 27) Server -> Client : 810 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 13) Server -> Client : 239 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 27) Server -> Client : 377 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 27) Server -> Client : 1400 bytes (SSL) (Service=HTTP)
+[Web Request      (200c: 2ac)] "GET /en_US/sdk.js?hash=ca07cbfc462ea859edaf7f91c80dd0a1"   
+[Network Analyzer (200c: 2ac)]   (Sid: 27) Client -> Server @ : 336 bytes (SSL)(Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 27) Server -> Client : 825 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 27) Server -> Client : 8000 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 27) Server -> Client : 8000 bytes (SSL) (Service=HTTP)
+[Net An. Error    (200c:28fc)] SSLAccept(ssl_id = 185079048 = 0B081508) Failed, ctx = 0EEB3DE0, err = "SSLv3/TLS write server done", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    (200c: 324)] SSLAccept(ssl_id = 250490944 = 0EEE3040) Failed, ctx = 0EEB3DE0, err = "SSLv3/TLS write server done", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    (200c:2928)] SSLAccept(ssl_id = 252760072 = 0F10D008) Failed, ctx = 0EEB3DE0, err = "SSLv3/TLS write server done", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    (200c:28fc)]   (Sid: 26) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (200c: 324)]   (Sid: 25) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (200c:2928)]   (Sid: 24) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (200c: 2ac)]   (Sid: 27) Server -> Client : 8000 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 24) Connection Terminated (by Client)
+[Network Analyzer (200c: 2ac)]   (Sid: 25) Connection Terminated (by Client)
+[Network Analyzer (200c: 2ac)]   (Sid: 26) Connection Terminated (by Client)
+[Network Analyzer (200c: 2ac)]   (Sid: 27) Server -> Client : 8000 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 27) Server -> Client : 8000 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c:20b8)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Network Analyzer (200c: 2ac)]   (Sid: 27) Server -> Client : 8000 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 27) Server -> Client : 8000 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c:273c)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Network Analyzer (200c: 2ac)]   (Sid: 27) Server -> Client : 3552 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c:2494)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Network Analyzer (200c: 2ac)]   (Sid: 27) Server -> Client : 1400 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c:20b8)] Request Connection: Remote Server @ 216.58.196.99:443   (Service=)  (Sid= 28)  PROXIED!
+[Network Analyzer (200c:273c)] Request Connection: Remote Server @ 216.58.196.99:443   (Service=)  (Sid= 29)  PROXIED!
+[Network Analyzer (200c:2494)] Request Connection: Remote Server @ 216.58.196.99:443   (Service=)  (Sid= 30)  PROXIED!
+[Network Analyzer (200c:1bb4)]   (Sid: 28) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-ECDSA-AES128-GCM-SHA256)
+[Network Analyzer (200c:1bb4)]   (Sid: 28) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (200c:20b8)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Web Request      (200c: 2ac)] "GET /images/branding/googlelogo/1x/googlelogo_color_42x16dp.png"   
+[Network Analyzer (200c: 2ac)]   (Sid: 28) Client -> Server @ : 367 bytes (SSL)(Service=HTTP)
+[Network Analyzer (200c:20b8)] Request Connection: Remote Server @ 157.240.198.15:443   (Service=)  (Sid= 31)  PROXIED!
+[Network Analyzer (200c: 704)]   (Sid: 29) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-ECDSA-AES128-GCM-SHA256)
+[Network Analyzer (200c: 2ac)]   (Sid: 28) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 28) Server -> Client : 36 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 704)]   (Sid: 29) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (200c:2a6c)]   (Sid: 30) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-ECDSA-AES128-GCM-SHA256)
+[Network Analyzer (200c:2fa0)]   (Sid: 31) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-ECDSA-AES128-GCM-SHA256)
+[Network Analyzer (200c:2a6c)]   (Sid: 30) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (200c:14d8)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Net An. Error    (200c:2fa0)] SSLAccept(ssl_id = 253496872 = 0F1C0E28) Failed, ctx = 08ECF3B0, err = "SSLv3/TLS write server done", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    (200c:2fa0)]   (Sid: 31) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Web Request      (200c: 2ac)] "GET /images/branding/product/1x/translate_24dp.png"   
+[Network Analyzer (200c: 2ac)]   (Sid: 29) Client -> Server @ : 354 bytes (SSL)(Service=HTTP)
+[Web Request      (200c: 2ac)] "GET /images/branding/product/2x/translate_24dp.png"   
+[Network Analyzer (200c: 2ac)]   (Sid: 30) Client -> Server @ : 354 bytes (SSL)(Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 31) Connection Terminated (by Client)
+[Network Analyzer (200c:14d8)] Request Connection: Remote Server @ 172.217.194.155:443   (Service=)  (Sid= 32)  PROXIED!
+[Network Analyzer (200c: 2ac)]   (Sid: 29) Server -> Client : 1352 bytes (SSL) (Service=HTTP)
+[Web Request      (200c: 2ac)] "GET /archives/"   
+[Network Analyzer (200c: 2ac)]   (Sid: 10) Client -> Server @ : 1021 bytes (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 30) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 30) Connection Terminated (by Client)
+[Network Analyzer (200c:37ac)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Network Analyzer (200c:37ac)] Request Connection: Remote Server @ 157.240.198.15:443   (Service=)  (Sid= 33)  PROXIED!
+[Network Analyzer (200c:2acc)]   (Sid: 32) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-ECDSA-AES128-GCM-SHA256)
+[Network Analyzer (200c: d04)]   (Sid: 33) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-ECDSA-AES128-GCM-SHA256)
+[Network Analyzer (200c: d04)]   (Sid: 33) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Web Request      (200c: 2ac)] "GET /connect/xd_arbiter.php?version=44"   
+[Network Analyzer (200c: 2ac)]   (Sid: 33) Client -> Server @ : 335 bytes (SSL)(Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 33) Server -> Client : 1129 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 33) Server -> Client : 8000 bytes (SSL) (Service=HTTP)
+[Web Request      (200c: 2ac)] "GET /gts1o1/MFEwTzBNMEswSTAJBgUrDgMCGgUABBR0AkbyWlxCEiC1vV12Caa6XKNH3wQUJPIuTg%2B9yvc%2BKVXKco1ph1ZE6XoCEF4aoWnQlLBmCAAAAAAdiaw%3D"   
+[Network Analyzer (200c: 2ac)]   (Sid: 13) Client -> Server @ : 239 bytes (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 33) Server -> Client : 2994 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 33) Server -> Client : 1400 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 13) Server -> Client : 231 bytes  (Service=HTTP)
+[Web Request      (200c: 2ac)] "GET /gts1o1/MFEwTzBNMEswSTAJBgUrDgMCGgUABBR0AkbyWlxCEiC1vV12Caa6XKNH3wQUJPIuTg%2B9yvc%2BKVXKco1ph1ZE6XoCEF4aoWnQlLBmCAAAAAAdiaw%3D"   
+[Network Analyzer (200c: 2ac)]   (Sid: 13) Client -> Server @ : 282 bytes (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 13) Server -> Client : 239 bytes  (Service=HTTP)
+[Net An. Error    (200c:2acc)] SSLAccept(ssl_id = 253386376 = 0F1A5E88) Failed, ctx = 0B2053C0, err = "SSLv3/TLS write server done", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    (200c:2acc)]   (Sid: 32) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (200c: 2ac)]   (Sid: 32) Connection Terminated (by Client)
+[Network Analyzer (200c:30d0)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Network Analyzer (200c:30d0)] Request Connection: Remote Server @ 172.217.194.155:443   (Service=)  (Sid= 34)  PROXIED!
+[Network Analyzer (200c: d0c)]   (Sid: 34) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-ECDSA-AES128-GCM-SHA256)
+[Network Analyzer (200c: d0c)]   (Sid: 34) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Web Request      (200c: 2ac)] "GET /r/collect?t=dc&aip=1&_r=3&v=1&_v=j79&tid=UA-71929327-1&cid=1417406969.1575350714&jid=759358860&gjid=992935051&_gid=1302636320.1575350714&_u=QCCAgUQAC~&z=39275757"   
+[Network Analyzer (200c: 2ac)]   (Sid: 34) Client -> Server @ : 478 bytes (SSL)(Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 29) Connection Terminated (by Client)
+[Network Analyzer (200c: 2ac)]   (Sid: 34) Server -> Client : 626 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 10) Server -> Client : 14823 bytes  (Service=HTTP)
+[Web Request      (200c: 2ac)] "GET /translate_a/element.js?cb=GoogleLanguageTranslatorInit"   
+[Network Analyzer (200c: 2ac)]   (Sid:  2) Client -> Server @ : 349 bytes (Service=HTTP)
+[Web Request      (200c: 2ac)] "GET /wp-includes/js/comment-reply.min.js?ver=9c8e13199db1dc0a9c27c778740aa6e2"   
+[Network Analyzer (200c: 2ac)]   (Sid: 10) Client -> Server @ : 1329 bytes (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid:  2) Server -> Client : 1140 bytes  (Service=HTTP)
+[Web Request      (200c: 2ac)] "GET /collect?v=1&_v=j79&aip=1&a=184990216&t=pageview&_s=1&dl=http%3A%2F%2Flifecharger.org%2Farchives%2F&ul=en-us&de=utf-8&dt=Archives%20%E2%80%93%20Life%20Charger&sd=24-bit&sr=1280x1024&vp=784x554&je=1&fl=32.0%20r0&_u=QCCAgUQAC~&jid=&gjid=&cid=1417406969.1575350714&tid=UA-71929327-1&_gid=1302636320.1575350714&z=389895229"   
+[Network Analyzer (200c: 2ac)]   (Sid: 16) Client -> Server @ : 644 bytes (SSL)(Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 16) Server -> Client : 567 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 10) Server -> Client : 1510 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid:  3) Connection Terminated (by Server)
+[Web Request      (200c: 2ac)] "GET /wp-content/uploads/2016/01/rising_sun_white_background-150x112.png"   
+[Network Analyzer (200c: 2ac)]   (Sid: 10) Client -> Server @ : 991 bytes (Service=HTTP)
+[Web Request      (200c: 2ac)] "GET /connect/xd_arbiter.php?version=44"   
+[Network Analyzer (200c: 2ac)]   (Sid: 33) Client -> Server @ : 344 bytes (SSL)(Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 33) Server -> Client : 1129 bytes (SSL) (Service=HTTP)
+[Web Request      (200c: 2ac)] "GET /?nc=.php&t=1575351891412&h=lifecharger.org"   
+[Network Analyzer (200c: 2ac)]   (Sid:  6) Client -> Server @ : 421 bytes (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid:  8) Connection Terminated (by Server)
+[Network Analyzer (200c: 2ac)]   (Sid: 33) Server -> Client : 8000 bytes (SSL) (Service=HTTP)
+[Web Request      (200c: 2ac)] "GET /w/i/?s=%7B%22h%22%3A%22lifecharger.org%22%2C%22s%22%3A%22%22%2C%22i%22%3A%5B%22aaa8d00854b6%22%5D%7D&lb=lb_json"   
+[Network Analyzer (200c: 2ac)]   (Sid:  5) Client -> Server @ : 462 bytes (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 33) Server -> Client : 2994 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 33) Server -> Client : 1400 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 11) Connection Terminated (by Server)
+[Network Analyzer (200c: 2ac)]   (Sid:  9) Connection Terminated (by Server)
+[Network Analyzer (200c:14d8)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Network Analyzer (200c:14d8)] Request Connection: Remote Server @ 157.240.198.35:443   (Service=)  (Sid= 35)  PROXIED!
+[Web Request      (200c: 2ac)] "GET /images/branding/product/1x/translate_24dp.png"   
+[Network Analyzer (200c: 2ac)]   (Sid: 28) Client -> Server @ : 363 bytes (SSL)(Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid:  7) Connection Terminated (by Server)
+[Web Request      (200c: 2ac)] "GET /translate_a/l?client=te&alpha=true&hl=en&cb=_callbacks____0k3pfub4t"   
+[Network Analyzer (200c: 2ac)]   (Sid: 22) Client -> Server @ : 366 bytes (SSL)(Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 28) Server -> Client : 1352 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 10) Server -> Client : 1460 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 10) Server -> Client : 10437 bytes  (Service=HTTP)
+[Web Request      (200c: 2ac)] "GET /images/branding/product/2x/translate_24dp.png"   
+[Network Analyzer (200c: 2ac)]   (Sid: 28) Client -> Server @ : 363 bytes (SSL)(Service=HTTP)
+[Network Analyzer (200c: f04)]   (Sid: 35) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-ECDSA-AES128-GCM-SHA256)
+[Network Analyzer (200c: 2ac)]   (Sid:  6) Server -> Client : 345 bytes  (Service=HTTP)
+[API Trapper      (2258: 840)] Recording in 32-bit mode: C:\Program Files (x86)\Internet Explorer\IEXPLORE.EXE
+[Network Analyzer (200c: 2ac)]   (Sid:  5) Server -> Client : 571 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 22) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 28) Server -> Client : 1401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 22) Server -> Client : 460 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 28) Server -> Client : 974 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 22) Server -> Client : 34 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 22) Server -> Client : 5 bytes (SSL) (Service=HTTP)
+[Net An. Error    (200c: f04)] SSLAccept(ssl_id = 151703280 = 090ACEF0) Failed, ctx = 08ECF3B0, err = "SSLv3/TLS write server done", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    (200c: f04)]   (Sid: 35) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (200c:14d8)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Network Analyzer (200c: 2ac)]   (Sid: 35) Connection Terminated (by Client)
+[Network Analyzer (200c:14d8)] Request Connection: Remote Server @ 157.240.198.35:443   (Service=)  (Sid= 36)  PROXIED!
+[Network Analyzer (200c:1920)]   (Sid: 36) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-ECDSA-AES128-GCM-SHA256)
+[Network Analyzer (200c:1920)]   (Sid: 36) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (2258:34c0)] ------------------------------------------------------------------------------------------
+[Network Analyzer (2258:34c0)] Load Network Traffic Analyzers:
+[Network Analyzer (2258:34c0)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (2258:34c0)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter.dll)
+[Network Analyzer (2258:34c0)]     + Network Analyzer: api_http_filter.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (2258:34c0)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter.dll
+[Network Analyzer (2258:34c0)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer.dll)
+[Network Analyzer (2258:34c0)]     + Network Analyzer: WebSocketAnalyzer.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (2258:34c0)]     Analyzer Module: local_server (value=)
+[Network Analyzer (2258:34c0)] ------------------------------------------------------------------------------------------
+[Network Analyzer (2258:2f84)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Web Request      (200c: 2ac)] "GET /v2.0/plugins/like.php?action=like&app_id=&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D44%23cb%3Df10a38e221793c6%26domain%3Dlifecharger.org%26origin%3Dhttp%253A%252F%252Flifecharger.org%252Ff1690838ab3e4b4%26relation%3Dparent.parent&container_width=450&href=http%3A%2F%2Flifecharger.org%2Farchives%2F&layout=button_count&locale=en_US&sdk=joey&share=true&show_faces=true&size=large&width=450"   
+[Network Analyzer (200c: 2ac)]   (Sid: 36) Client -> Server @ : 734 bytes (SSL)(Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 36) Server -> Client : 1500 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 36) Server -> Client : 1500 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 36) Server -> Client : 8000 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 36) Server -> Client : 6001 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 36) Server -> Client : 1500 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 36) Server -> Client : 1500 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 36) Server -> Client : 8000 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 36) Server -> Client : 5384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 36) Server -> Client : 1500 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 36) Server -> Client : 1500 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 36) Server -> Client : 8000 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 36) Server -> Client : 5384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 36) Server -> Client : 1493 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 36) Server -> Client : 1500 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 36) Server -> Client : 8000 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 36) Server -> Client : 5399 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 36) Server -> Client : 130 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c:14d8)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Network Analyzer (200c:14d8)] Request Connection: Remote Server @ 157.240.198.15:443   (Service=)  (Sid= 37)  PROXIED!
+[Network Analyzer (200c:14d8)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Network Analyzer (2258:1484)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Network Analyzer (2258:34c0)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Network Analyzer (2258:1484)] Request Connection: Remote Server @ 104.101.18.78:443   (Service=)  (Sid=  1)  PROXIED!
+[Network Analyzer (200c:14d8)] Request Connection: Remote Server @ 157.240.198.15:443   (Service=)  (Sid= 38)  PROXIED!
+[Network Analyzer (2258:34c0)] Request Connection: Remote Server @ 104.101.18.78:443   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer (200c: ba0)]   (Sid: 37) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-ECDSA-AES128-GCM-SHA256)
+[Network Analyzer (2258:2378)]   (Sid:  1) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (2258:2a40)]   (Sid:  2) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Net An. Error    (200c: ba0)] SSLAccept(ssl_id = 257297864 = 0F560DC8) Failed, ctx = 08ECF3B0, err = "SSLv3/TLS write server done", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    (200c: ba0)]   (Sid: 37) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (200c:30d0)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Network Analyzer (200c: 2ac)]   (Sid: 37) Connection Terminated (by Client)
+[Network Analyzer (200c:30d0)] Request Connection: Remote Server @ 157.240.198.15:443   (Service=)  (Sid= 39)  PROXIED!
+[Network Analyzer (200c: 470)]   (Sid: 38) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-ECDSA-AES128-GCM-SHA256)
+[Network Analyzer (200c:1c3c)]   (Sid: 39) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-ECDSA-AES128-GCM-SHA256)
+[Network Analyzer (200c:1c3c)]   (Sid: 39) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Net An. Error    (200c: 470)] SSLAccept(ssl_id = 257286056 = 0F55DFA8) Failed, ctx = 08ECF3B0, err = "SSLv3/TLS write server done", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    (200c: 470)]   (Sid: 38) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (2258:2ae0)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Network Analyzer (2258:2ae0)] Request Connection: Remote Server @ 104.18.25.243:80   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer (200c: 2ac)]   (Sid: 38) Connection Terminated (by Client)
+[Web Request      (200c: 2ac)] "GET /rsrc.php/v3/y5/r/OqOE21UvWe3.png"   
+[Network Analyzer (200c: 2ac)]   (Sid: 39) Client -> Server @ : 775 bytes (SSL)(Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 39) Server -> Client : 525 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 39) Server -> Client : 399 bytes (SSL) (Service=HTTP)
+[Web Request      (2258:2f84)] "GET /MFQwUjBQME4wTDAJBgUrDgMCGgUABBR0AkbyWlxCEiC1vV12Caa6XKNH3wQUJPIuTg%2B9yvc%2BKVXKco1ph1ZE6XoCEy0ACwMLwm2XbN9AkjQAAAALAws%3D"   
+[Network Analyzer (2258:2f84)]   (Sid:  3) Client -> Server @ : 238 bytes (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  3) Server -> Client : 2590 bytes  (Service=HTTP)
+[Web Request      (2258:2f84)] "GET /MFQwUjBQME4wTDAJBgUrDgMCGgUABBR0AkbyWlxCEiC1vV12Caa6XKNH3wQUJPIuTg%2B9yvc%2BKVXKco1ph1ZE6XoCEy0ACwMLwm2XbN9AkjQAAAALAws%3D"   
+[Network Analyzer (2258:2f84)]   (Sid:  3) Client -> Server @ : 281 bytes (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  3) Server -> Client : 2597 bytes  (Service=HTTP)
+[Network Analyzer (2258: 528)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Network Analyzer (2258: 528)] Request Connection: Remote Server @ 117.18.232.200:80   (Service=)  (Sid=  4)  PROXIED!
+[Network Analyzer (200c: 2ac)]   (Sid: 10) Connection Terminated (by Server)
+[Web Request      (2258:2f84)] "GET /pki/mscorp/crl/Microsoft%20IT%20TLS%20CA%205.crl"   
+[Network Analyzer (2258:2f84)]   (Sid:  4) Client -> Server @ : 168 bytes (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  4) Server -> Client : 7300 bytes  (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  4) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  4) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  4) Server -> Client : 3732 bytes  (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  4) Server -> Client : 13672 bytes  (Service=HTTP)
+[Web Request      (2258:2f84)] "GET /pki/mscorp/crl/Microsoft%20IT%20TLS%20CA%205.crl"   
+[Network Analyzer (2258:2f84)]   (Sid:  4) Client -> Server @ : 211 bytes (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  4) Server -> Client : 10220 bytes  (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  4) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  4) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  4) Server -> Client : 14484 bytes  (Service=HTTP)
+[Network Analyzer (2258:2ae0)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Network Analyzer (2258:2ae0)] Request Connection: Remote Server @ 112.196.151.208:80   (Service=)  (Sid=  5)  PROXIED!
+[Web Request      (2258:2f84)] "GET /pki/mscorp/crl/Microsoft%20IT%20TLS%20CA%205.crl"   
+[Network Analyzer (2258:2f84)]   (Sid:  5) Client -> Server @ : 166 bytes (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  5) Server -> Client : 2920 bytes  (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  5) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  5) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  5) Server -> Client : 11032 bytes  (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  5) Server -> Client : 2920 bytes  (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  5) Server -> Client : 2920 bytes  (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  5) Server -> Client : 2920 bytes  (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  5) Server -> Client : 2008 bytes  (Service=HTTP)
+[Web Request      (2258:2f84)] "GET /pki/mscorp/crl/Microsoft%20IT%20TLS%20CA%205.crl"   
+[Network Analyzer (2258:2f84)]   (Sid:  5) Client -> Server @ : 209 bytes (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  5) Server -> Client : 2920 bytes  (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  5) Server -> Client : 2920 bytes  (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  5) Server -> Client : 2920 bytes  (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  5) Server -> Client : 1460 bytes  (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  5) Server -> Client : 1460 bytes  (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  5) Server -> Client : 2920 bytes  (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  5) Server -> Client : 2920 bytes  (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  5) Server -> Client : 2920 bytes  (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  5) Server -> Client : 2920 bytes  (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  5) Server -> Client : 2920 bytes  (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  5) Server -> Client : 2920 bytes  (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  5) Server -> Client : 2920 bytes  (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  5) Server -> Client : 2920 bytes  (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  5) Server -> Client : 1460 bytes  (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  5) Server -> Client : 1460 bytes  (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  5) Server -> Client : 2920 bytes  (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  5) Server -> Client : 2920 bytes  (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  5) Server -> Client : 2920 bytes  (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  5) Server -> Client : 2920 bytes  (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  5) Server -> Client : 2920 bytes  (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  5) Server -> Client : 4928 bytes  (Service=HTTP)
+[Net An. Error    (2258:2378)] SSLAccept(ssl_id = 165450808 = 09DC9438) Failed, ctx = 09C58048, err = "SSLv3/TLS write server done", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    (2258:2378)]   (Sid:  1) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (2258:2a40)] SSLAccept(ssl_id = 165648744 = 09DF9968) Failed, ctx = 09C58048, err = "SSLv3/TLS write server done", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    (2258:2a40)]   (Sid:  2) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (2258:1484)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Network Analyzer (2258:2f84)]   (Sid:  1) Connection Terminated (by Client)
+[Network Analyzer (2258:2f84)]   (Sid:  2) Connection Terminated (by Client)
+[Network Analyzer (2258:1484)] Request Connection: Remote Server @ 104.101.18.78:443   (Service=)  (Sid=  6)  PROXIED!
+[Network Analyzer (2258:3218)]   (Sid:  6) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (2258:3218)]   (Sid:  6) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Web Request      (2258:2f84)] "GET /fwlink/?LinkId=838604"   
+[Network Analyzer (2258:2f84)]   (Sid:  6) Client -> Server @ : 514 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  6) Server -> Client : 480 bytes (SSL) (Service=HTTP)
+[Web Request      (2258:2f84)] "GET /fwlink/?LinkId=517287"   
+[Network Analyzer (2258:2f84)]   (Sid:  6) Client -> Server @ : 514 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  6) Server -> Client : 478 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2258:1484)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Network Analyzer (2258:34c0)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Network Analyzer (2258:1484)] Request Connection: Remote Server @ 49.44.151.82:443   (Service=)  (Sid=  7)  PROXIED!
+[Network Analyzer (2258:34c0)] Request Connection: Remote Server @ 49.44.151.82:443   (Service=)  (Sid=  8)  PROXIED!
+[Network Analyzer (2258:3398)]   (Sid:  7) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Web Request      (2258:2f84)] "GET /MFQwUjBQME4wTDAJBgUrDgMCGgUABBR0AkbyWlxCEiC1vV12Caa6XKNH3wQUJPIuTg%2B9yvc%2BKVXKco1ph1ZE6XoCEy0ADDcVYsQdk5QIf2gAAAAMNxU%3D"   
+[Network Analyzer (2258:2f84)]   (Sid:  3) Client -> Server @ : 238 bytes (Service=HTTP)
+[Network Analyzer (2258: a78)]   (Sid:  8) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (2258:2f84)]   (Sid:  3) Server -> Client : 2590 bytes  (Service=HTTP)
+[Web Request      (2258:2f84)] "GET /MFQwUjBQME4wTDAJBgUrDgMCGgUABBR0AkbyWlxCEiC1vV12Caa6XKNH3wQUJPIuTg%2B9yvc%2BKVXKco1ph1ZE6XoCEy0ADDcVYsQdk5QIf2gAAAAMNxU%3D"   
+[Network Analyzer (2258:2f84)]   (Sid:  3) Client -> Server @ : 281 bytes (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  3) Server -> Client : 2597 bytes  (Service=HTTP)
+[Net An. Error    (2258: a78)] SSLAccept(ssl_id = 199280584 = 0BE0C7C8) Failed, ctx = 0BD2E720, err = "SSLv3/TLS write server done", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    (2258:3398)] SSLAccept(ssl_id = 165094352 = 09D723D0) Failed, ctx = 0BD2E720, err = "SSLv3/TLS write server done", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    (2258: a78)]   (Sid:  8) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (2258:3398)]   (Sid:  7) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (2258:2ae0)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Network Analyzer (2258:2f84)]   (Sid:  7) Connection Terminated (by Client)
+[Network Analyzer (2258:2f84)]   (Sid:  8) Connection Terminated (by Client)
+[Network Analyzer (2258:2ae0)] Request Connection: Remote Server @ 49.44.151.82:443   (Service=)  (Sid=  9)  PROXIED!
+[Network Analyzer (2258:2290)]   (Sid:  9) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (2258:2290)]   (Sid:  9) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Web Request      (2258:2f84)] "GET /en-us/welcomeie11/"   
+[Network Analyzer (2258:2f84)]   (Sid:  9) Client -> Server @ : 765 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  9) Server -> Client : 267 bytes (SSL) (Service=HTTP)
+[Web Request      (2258:2f84)] "GET /en-us/welcomeie11/welcomeie11"   
+[Network Analyzer (2258:2f84)]   (Sid:  9) Client -> Server @ : 776 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  9) Server -> Client : 1965 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  9) Server -> Client : 200 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  9) Server -> Client : 14336 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  9) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  9) Server -> Client : 1882 bytes (SSL) (Service=HTTP)
+[Web Request      (2258:2f84)] "GET /mwf/css/MWF_20191031_19325328/west-european/default/alert/areaheading/autosuggest/feature/featuregroup/glyph/heading/highlightfeature/image/list/pagebehaviors/skiptomain/typographicintro?apiVersion=1.0&include_base=true"   
+[Network Analyzer (2258:2f84)]   (Sid:  9) Client -> Server @ : 893 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2258:2ae0)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Network Analyzer (2258:34c0)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Network Analyzer (2258:2f84)]   (Sid:  9) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  9) Server -> Client : 9098 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  9) Server -> Client : 4073 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2258:34c0)] Request Connection: Remote Server @ 49.44.151.82:443   (Service=)  (Sid= 10)  PROXIED!
+[Network Analyzer (2258:1bdc)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Network Analyzer (2258:2ae0)] Request Connection: Remote Server @ 49.44.151.82:443   (Service=)  (Sid= 11)  PROXIED!
+[Network Analyzer (2258:1bdc)] Request Connection: Remote Server @ 49.44.151.82:443   (Service=)  (Sid= 12)  PROXIED!
+[Network Analyzer (2258:17b0)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Network Analyzer (2258: 528)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Network Analyzer (2258:18c0)]   (Sid: 10) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (2258:18c0)]   (Sid: 10) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (2258:17b0)] Request Connection: Remote Server @ 112.196.161.51:443   (Service=)  (Sid= 13)  PROXIED!
+[Network Analyzer (2258: 528)] Request Connection: Remote Server @ 112.196.161.51:443   (Service=)  (Sid= 14)  PROXIED!
+[Web Request      (2258:2f84)] "GET /onerfstatics/marketingsites-neu-prod/_h/46c44584/coreui.statics/externalscripts/jquery/jquery-3.3.1.min.js"   
+[Network Analyzer (2258:2f84)]   (Sid: 10) Client -> Server @ : 835 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid: 10) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid: 10) Server -> Client : 9109 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid: 10) Server -> Client : 5782 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2258:30b8)]   (Sid: 11) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (2258:30b8)]   (Sid: 11) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (2258:155c)]   (Sid: 12) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (2258:155c)]   (Sid: 12) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (2258:2db0)]   (Sid: 13) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-ECDSA-AES256-GCM-SHA384)
+[Network Analyzer (2258: 9cc)]   (Sid: 14) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-ECDSA-AES256-GCM-SHA384)
+[Network Analyzer (2258:35fc)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Network Analyzer (2258:1484)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Web Request      (2258:2f84)] "GET /onerfstatics/marketingsites-neu-prod/west-european/welcomeie11/_scrf/css/themes=default.device=uplevel_web_pc_ie/5f-45ce81/bb-57b92e/c0-271f35?ver=2.0"   
+[Network Analyzer (2258:2f84)]   (Sid: 11) Client -> Server @ : 824 bytes (SSL)(Service=HTTP)
+[Web Request      (2258:2f84)] "GET /onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif"   
+[Network Analyzer (2258:2f84)]   (Sid: 12) Client -> Server @ : 805 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2258:35fc)] Request Connection: Remote Server @ 23.213.66.254:443   (Service=)  (Sid= 15)  PROXIED!
+[Network Analyzer (2258:1484)] Request Connection: Remote Server @ 23.213.66.254:443   (Service=)  (Sid= 16)  PROXIED!
+[Network Analyzer (2258:17b0)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Network Analyzer (2258:2f84)]   (Sid: 11) Server -> Client : 12522 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid: 12) Server -> Client : 897 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2258:3790)]   (Sid: 15) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (2258:17b0)] Request Connection: Remote Server @ 117.18.237.29:80   (Service=)  (Sid= 17)  PROXIED!
+[Network Analyzer (2258:10ac)]   (Sid: 16) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Web Request      (2258:2f84)] "GET /MFQwUjBQME4wTDAJBgUrDgMCGgUABBR0AkbyWlxCEiC1vV12Caa6XKNH3wQUJPIuTg%2B9yvc%2BKVXKco1ph1ZE6XoCEyAAAgJJDGT70c8dVL8AAAACAkk%3D"   
+[Network Analyzer (2258:2f84)]   (Sid:  3) Client -> Server @ : 238 bytes (Service=HTTP)
+[Web Request      (2258:2f84)] "GET /MFEwTzBNMEswSTAJBgUrDgMCGgUABBR0AkbyWlxCEiC1vV12Caa6XKNH3wQUJPIuTg%2B9yvc%2BKVXKco1ph1ZE6XoCEAEtFb9WSoYoUJ2SojPdais%3D"   
+[Network Analyzer (2258:2f84)]   (Sid: 17) Client -> Server @ : 236 bytes (Service=HTTP)
+[Web Request      (2258:2f84)] "GET /mwf/_h/v3.54/mwf.app/fonts/mwfmdl2-v3.54.woff"   
+[Network Analyzer (2258:2f84)]   (Sid: 12) Client -> Server @ : 744 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid: 12) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid: 12) Server -> Client : 9073 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid: 12) Server -> Client : 1712 bytes (SSL) (Service=HTTP)
+[Web Request      (2258:2f84)] "GET /onerfstatics/marketingsites-neu-prod/welcomeie11/_scrf/js/themes=default/2f-63ce8f/2d-7a9063/dc-7e9864/4f-5115f8/7d-266f10/4a-abd94b/78-4c7d22/38-74a735/16-4c1a9d/cd-23d3b0/6d-1e7ed0/b7-cadaa7/ca-40b7b0/4e-ee3a55/3e-f5c39b/c3-6454d7/f9-7592d3/92-10345d/f8-73a5f2/79-499886/7e-cda2d3/62-95a6e7/93-283c2d/91-97a04f/1f-100dea/33-abe4df/d6-c4d640/e3-082b89?ver=2.0"   
+[Network Analyzer (2258:2f84)]   (Sid: 12) Client -> Server @ : 1054 bytes (SSL)(Service=HTTP)
+[Web Request      (2258:2f84)] "GET /onerfstatics/marketingsites-neu-prod/welcomeie11/_scrf/js/themes=default/78-6f121b/1e-fd610f?ver=2.0"   
+[Network Analyzer (2258:2f84)]   (Sid: 11) Client -> Server @ : 794 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid: 17) Server -> Client : 571 bytes  (Service=HTTP)
+[Web Request      (2258:2f84)] "GET /mwf/js/MWF_20191031_19325328/alert/areaheading/autosuggest/feature/featuregroup/glyph/heading/highlightfeature/image/list/pagebehaviors/skiptomain/typographicintro?apiVersion=1.0"   
+[Network Analyzer (2258:2f84)]   (Sid: 10) Client -> Server @ : 872 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid: 11) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid: 11) Server -> Client : 5683 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid: 12) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid: 10) Server -> Client : 15319 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid: 12) Server -> Client : 9202 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid: 12) Server -> Client : 3115 bytes (SSL) (Service=HTTP)
+[Web Request      (2258:2f84)] "GET /MFEwTzBNMEswSTAJBgUrDgMCGgUABBR0AkbyWlxCEiC1vV12Caa6XKNH3wQUJPIuTg%2B9yvc%2BKVXKco1ph1ZE6XoCEAEtFb9WSoYoUJ2SojPdais%3D"   
+[Network Analyzer (2258:2f84)]   (Sid: 17) Client -> Server @ : 279 bytes (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  3) Server -> Client : 1460 bytes  (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  3) Server -> Client : 1130 bytes  (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid: 17) Server -> Client : 594 bytes  (Service=HTTP)
+[Web Request      (2258:2f84)] "GET /MFQwUjBQME4wTDAJBgUrDgMCGgUABBR0AkbyWlxCEiC1vV12Caa6XKNH3wQUJPIuTg%2B9yvc%2BKVXKco1ph1ZE6XoCEyAAAgJJDGT70c8dVL8AAAACAkk%3D"   
+[Network Analyzer (2258:2f84)]   (Sid:  3) Client -> Server @ : 281 bytes (Service=HTTP)
+[Network Analyzer (2258:2ae0)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Network Analyzer (2258:2f84)]   (Sid:  3) Server -> Client : 1460 bytes  (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  3) Server -> Client : 1137 bytes  (Service=HTTP)
+[Web Request      (2258:2f84)] "GET /pki/mscorp/crl/Microsoft%20IT%20TLS%20CA%202.crl"   
+[Network Analyzer (2258:2f84)]   (Sid:  4) Client -> Server @ : 168 bytes (Service=HTTP)
+[Network Analyzer (2258:2ae0)] Request Connection: Remote Server @ 117.18.237.29:80   (Service=)  (Sid= 18)  PROXIED!
+[Network Analyzer (2258:2f84)]   (Sid:  4) Server -> Client : 1460 bytes  (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  4) Server -> Client : 16384 bytes  (Service=HTTP)
+[Web Request      (2258:2f84)] "GET /DigiCertSecureSiteECCCA-1.crl"   
+[Network Analyzer (2258:2f84)]   (Sid: 18) Client -> Server @ : 147 bytes (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  4) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  4) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  4) Server -> Client : 2648 bytes  (Service=HTTP)
+[Network Analyzer (2258:2ae0)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Network Analyzer (2258:34c0)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Web Request      (2258:2f84)] "GET /pki/mscorp/crl/Microsoft%20IT%20TLS%20CA%202.crl"   
+[Network Analyzer (2258:2f84)]   (Sid:  4) Client -> Server @ : 211 bytes (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid: 18) Server -> Client : 1389 bytes  (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  4) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  4) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (2258:2ae0)] Request Connection: Remote Server @ 111.221.29.254:443   (Service=)  (Sid= 19)  PROXIED!
+[Network Analyzer (2258:2f84)]   (Sid:  4) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  4) Server -> Client : 4108 bytes  (Service=HTTP)
+[Network Analyzer (2258:34c0)] Request Connection: Remote Server @ 111.221.29.254:443   (Service=)  (Sid= 20)  PROXIED!
+[Web Request      (2258:2f84)] "GET /DigiCertSecureSiteECCCA-1.crl"   
+[Network Analyzer (2258:2f84)]   (Sid: 18) Client -> Server @ : 190 bytes (Service=HTTP)
+[Web Request      (2258:2f84)] "GET /pki/mscorp/crl/Microsoft%20IT%20TLS%20CA%202.crl"   
+[Network Analyzer (2258:2f84)]   (Sid:  5) Client -> Server @ : 166 bytes (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  5) Server -> Client : 2920 bytes  (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  5) Server -> Client : 11680 bytes  (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  5) Server -> Client : 5840 bytes  (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  5) Server -> Client : 2920 bytes  (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  5) Server -> Client : 5840 bytes  (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  5) Server -> Client : 2920 bytes  (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid: 18) Server -> Client : 1389 bytes  (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  5) Server -> Client : 16060 bytes  (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  5) Server -> Client : 5096 bytes  (Service=HTTP)
+[Web Request      (2258:2f84)] "GET /pki/mscorp/crl/Microsoft%20IT%20TLS%20CA%202.crl"   
+[Network Analyzer (2258:2f84)]   (Sid:  5) Client -> Server @ : 209 bytes (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  5) Server -> Client : 1460 bytes  (Service=HTTP)
+[Network Analyzer (2258:3220)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Network Analyzer (2258:2f84)]   (Sid:  5) Server -> Client : 16060 bytes  (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  5) Server -> Client : 11680 bytes  (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  5) Server -> Client : 11680 bytes  (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  5) Server -> Client : 11680 bytes  (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  5) Server -> Client : 716 bytes  (Service=HTTP)
+[Net An. Error    (2258:10ac)] SSLAccept(ssl_id = 252941152 = 0F139360) Failed, ctx = 0BD2C180, err = "SSLv3/TLS write server done", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    (2258:3790)] SSLAccept(ssl_id = 253047848 = 0F153428) Failed, ctx = 0BD2C180, err = "SSLv3/TLS write server done", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    (2258:10ac)]   (Sid: 16) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (2258:3790)]   (Sid: 15) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (2258:2f84)]   (Sid: 15) Connection Terminated (by Client)
+[Network Analyzer (2258:2f84)]   (Sid: 16) Connection Terminated (by Client)
+[Network Analyzer (2258:3220)] Request Connection: Remote Server @ 117.18.237.29:80   (Service=)  (Sid= 21)  PROXIED!
+[Web Request      (2258:2f84)] "GET /DigiCertSecureSiteECCCA-1.crl"   
+[Network Analyzer (2258:2f84)]   (Sid: 21) Client -> Server @ : 147 bytes (Service=HTTP)
+[Network Analyzer (2258:34c0)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Network Analyzer (2258:34c0)] Request Connection: Remote Server @ 23.213.66.254:443   (Service=)  (Sid= 22)  PROXIED!
+[Network Analyzer (2258:2f84)]   (Sid: 21) Server -> Client : 1389 bytes  (Service=HTTP)
+[Network Analyzer (2258:2128)]   (Sid: 19) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Web Request      (2258:2f84)] "GET /DigiCertSecureSiteECCCA-1.crl"   
+[Network Analyzer (2258:2f84)]   (Sid: 21) Client -> Server @ : 190 bytes (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid: 21) Server -> Client : 1389 bytes  (Service=HTTP)
+[Net An. Error    (2258: 9cc)] SSLAccept(ssl_id = 201707184 = 0C05CEB0) Failed, ctx = 0BD2B8E0, err = "SSLv3/TLS write server done", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    (2258:2db0)] SSLAccept(ssl_id = 201566360 = 0C03A898) Failed, ctx = 0BD2B8E0, err = "SSLv3/TLS write server done", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    (2258: 9cc)]   (Sid: 14) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (2258:2db0)]   (Sid: 13) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Web Request      (2258:2f84)] "GET /MFQwUjBQME4wTDAJBgUrDgMCGgUABBR0AkbyWlxCEiC1vV12Caa6XKNH3wQUJPIuTg%2B9yvc%2BKVXKco1ph1ZE6XoCEy0AAfNUIrMwfuyVArUAAAAB81Q%3D"   
+[Network Analyzer (2258:2f84)]   (Sid:  3) Client -> Server @ : 238 bytes (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid: 13) Connection Terminated (by Client)
+[Network Analyzer (2258:2f84)]   (Sid: 14) Connection Terminated (by Client)
+[Network Analyzer (2258: 528)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Network Analyzer (2258:34c0)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Network Analyzer (2258: 528)] Request Connection: Remote Server @ 112.196.161.51:443   (Service=)  (Sid= 23)  PROXIED!
+[Network Analyzer (2258:34c0)] Request Connection: Remote Server @ 112.196.161.51:443   (Service=)  (Sid= 24)  PROXIED!
+[Network Analyzer (2258:2550)]   (Sid: 20) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (2258:2fa8)]   (Sid: 22) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (2258:1de8)]   (Sid: 23) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-ECDSA-AES256-GCM-SHA384)
+[Network Analyzer (2258:2fa8)]   (Sid: 22) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (2258:1de8)]   (Sid: 23) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (2258:2f84)]   (Sid:  3) Server -> Client : 2590 bytes  (Service=HTTP)
+[Web Request      (2258:2f84)] "GET /meversion?partner=RetailStore2&market=en-us&uhf=1"   
+[Network Analyzer (2258:2f84)]   (Sid: 22) Client -> Server @ : 357 bytes (SSL)(Service=HTTP)
+[Web Request      (2258:2f84)] "GET /cms/api/am/imageFileData/RE1Mu3b?ver=5c31"   
+[Network Analyzer (2258:2f84)]   (Sid: 23) Client -> Server @ : 410 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid: 23) Server -> Client : 4760 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid: 22) Server -> Client : 9582 bytes (SSL) (Service=HTTP)
+[Web Request      (2258:2f84)] "GET /MFQwUjBQME4wTDAJBgUrDgMCGgUABBR0AkbyWlxCEiC1vV12Caa6XKNH3wQUJPIuTg%2B9yvc%2BKVXKco1ph1ZE6XoCEy0AAfNUIrMwfuyVArUAAAAB81Q%3D"   
+[Network Analyzer (2258:2f84)]   (Sid:  3) Client -> Server @ : 281 bytes (Service=HTTP)
+[Network Analyzer (2258:32b8)]   (Sid: 24) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-ECDSA-AES256-GCM-SHA384)
+[Network Analyzer (2258:2f84)]   (Sid:  3) Server -> Client : 1460 bytes  (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  3) Server -> Client : 1137 bytes  (Service=HTTP)
+[Network Analyzer (2258:32b8)]   (Sid: 24) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Net An. Error    (2258:2550)] SSLAccept(ssl_id = 253793080 = 0F209338) Failed, ctx = 0BD2E2D0, err = "SSLv3/TLS write server done", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    (2258:2128)] SSLAccept(ssl_id = 253804888 = 0F20C158) Failed, ctx = 0BD2E2D0, err = "SSLv3/TLS write server done", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    (2258:2550)]   (Sid: 20) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (2258:2128)]   (Sid: 19) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Web Request      (2258:2f84)] "GET /scripts/me/MeControl/10.19284.2/en-US/meBoot.min.js"   
+[Network Analyzer (2258:2f84)]   (Sid: 22) Client -> Server @ : 359 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid: 19) Connection Terminated (by Client)
+[Network Analyzer (2258:2f84)]   (Sid: 20) Connection Terminated (by Client)
+[Web Request      (2258:2f84)] "GET /cms/api/am/imageFileData/RWeTGO?ver=8c74&q=90&m=6&h=406&w=542&b=%23FFFFFFFF&l=f&o=t&aim=true"   
+[Network Analyzer (2258:2f84)]   (Sid: 24) Client -> Server @ : 461 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid: 22) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2258:34c0)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Network Analyzer (2258:2f84)]   (Sid: 22) Server -> Client : 8539 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid: 24) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid: 22) Server -> Client : 2535 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid: 24) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid: 24) Server -> Client : 2092 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid: 24) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid: 24) Server -> Client : 6000 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2258:34c0)] Request Connection: Remote Server @ 111.221.29.254:443   (Service=)  (Sid= 25)  PROXIED!
+[Network Analyzer (2258:2474)]   (Sid: 25) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (2258:2474)]   (Sid: 25) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (1244:1b50)] ------------------------------------------------------------------------------------------
+[Network Analyzer (1244:1b50)] Load Network Traffic Analyzers:
+[Network Analyzer (1244:1b50)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (1244:1b50)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer (1244:1b50)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (1244:1b50)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer (1244:1b50)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer (1244:1b50)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (1244:1b50)]     Analyzer Module: local_server (value=)
+[Network Analyzer (1244:1b50)] ------------------------------------------------------------------------------------------
+[Network Analyzer (1244:34e0)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Web Request      (2258:2f84)] "GET /collect/v1/t.js?ver='2.1'&name='Ms.Webi.PageView'&time='2019-12-03T05%3A45%3A05.249Z'&os='Windows'&appId='JS%3Awelcomeie11'&cV='1ZeB865tkkSBvIep.0'&-ver='1.0'&-impressionGuid='06be5f80-a688-43f7-8284-17099466f284'&-pageName='welcomeie11'&-uri='https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fwelcomeie11%2Fwelcomeie11'&-market='en-us'&-pageType='Authoring.AllModules'&-resHeight=1024&-resWidth=1280&-pageTags='%7B%22browserGroup%22%3A%22uplevel.web.pc.ie%22%2C%22isTentedPage%22%3Afalse%2C%22tasId%22%3A%228c1df773-5852-4eec-9683-f9adcdbfb8cc%22%2C%22tasMuid%22%3A%222725464B6DC76C86260C4B9F6CC16D90%22%2C%22pageVersion%22%3A%220.1%22%2C%22isCachedPage%22%3Afalse%2C%22enabledFeatures%22%3A%22uhf_retailstore2%3A1%2CUhfPb%3A1%2CUhfUsePh%3A1%2CEnableLocaleDetection%3A1%2CUhfSwp%3A1%2Cuhfgreenid%3A1%2Ccore_cookiecompliance_enabled%3A1%2Ccore_akamai_im_enabled%3A1%2Ccoreui_hero_image_resize_90%3A1%2Cuhf_as_iris%3A1%2Ccore_use_coreui_mwf%3A1%2Ccoreui_makeimagebackgroundtransparent%3A1%2Ccore_BypassJWTValidation%3A1%2CMSADisableForceSignin%3A1%2CIsRtoRuleDisabled%3A1%2CDisableToSkipMarketdetectionforUknownRoutes%3A1%2Cf_video_uselegacyservice%3A1%2Cuhf_magic_triangle%3A1%2CRelevanceOverride%3A1%2CEnableAzureActiveDirectory20%3A1%2CIsIrisV4Enabled%3A1%2Cf_video_useadaptive%3A1%2Ccore_uhf_access_policy%3A1%2Cuhf_st_enabled%3A1%2Cjquery_latest%3A1%2CDisableOneRFSearchRoute%3A1%2CResolveDataProviderByPartnerNameSpace%3A1%2Ccore_disable_extensibility%3A1%2CInvokeLoginAuthorizeAndRedirect%3A1%2CAllowIncludeExclusivityArguments%3A1%2Cuhf_stick_footer_to_bottom%3A1%2CEnableFetchOfKnownDocument%3A1%2Cboomerang_disabled%3A1%2CretailServerFromTenantConfig%3A1%2Cnode_scnr_blob%3A1%2Crushmore_gzip_html%3A1%2CDisableTATToken%3A1%2Cnode_legacy_getactiveprices%3A1%2Cuhf_enable_domain_check%3A1%2Cnode_disable_cors%3A1%2Cuhf_enable_promo_banner%3A1%2Ccore_useAfsRestApiForStatics%3A1%2CEnableNonceCookieMiddleware%3A1%22%2C%22pageSubType%22%3A%22RETVK5%22%2C%22canvasType%22%3A%22Web%22%2C%22deviceFamily%22%3Anull%2C%22isOneRf%22%3Atrue%2C%22isCorpNet%22%3Afalse%2C%22dataVersion%22%3A%2210%2F22%2F2018%204%3A31%3A56%20PM%20%2B00%3A00%22%2C%22serviceName%22%3A%22marketingsites-prod-odnortheurope%22%2C%22metaTags%22%3A%7B%7D%2C%22scripts%22%3A%22JQuery%22%7D'&-behavior=0&*baseType='Ms.Content.PageView'&*cookieEnabled=true&*isJs=true&*title='Internet%20Explorer%20Welcome'&*isLoggedIn=false&*serverImpressionGuid='8c1df773-5852-4eec-9683-f9adcdbfb8cc'&ext-app-env='onerf_prod'&ext-app-expId='EX%3Asfwaab%2CEX%3A1786t1a%2CEX%3A969t2%2CEX%3Atasmigration010%2CEX%3Acartemberpl%2CEX%3Adisablenorefunds'&ext-javascript-ver='1.1'&ext-javascript-libVer='4.2.8'&ext-javascript-domain='www.microsoft.com'&ext-javascript-userConsent=false&ext-user-localId='t%3A2725464B6DC76C86260C4B9F6CC16D90'&$mscomCookies=true"   
+[Network Analyzer (2258:2f84)]   (Sid: 25) Client -> Server @ : 3356 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid: 25) Server -> Client : 772 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid: 25) Client -> Server @ : 837 bytes (SSL)(Service=HTTP)
+[Web Request      (2258:2f84)] "POST /collect/v1?$mscomCookies=true&ext-javascript-msfpc='GUID%3Dd8cfa6e4cba6460cb6bb872bae9ec89c%26HASH%3Dd8cf%26LV%3D201909%26V%3D4%26LU%3D1568168537676'"   
+[Network Analyzer (2258:2f84)]   (Sid: 25) Client -> Server @ : 3319 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2258:3220)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Network Analyzer (2258:1484)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Network Analyzer (2258:3220)] Request Connection: Remote Server @ 104.101.17.143:443   (Service=)  (Sid= 26)  PROXIED!
+[Network Analyzer (2258:1484)] Request Connection: Remote Server @ 104.101.17.143:443   (Service=)  (Sid= 27)  PROXIED!
+[Network Analyzer (2258:2ae0)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Network Analyzer (2258:17b0)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Network Analyzer (2258:1bdc)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Network Analyzer (2258: 528)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Network Analyzer (2258:2f84)]   (Sid: 25) Server -> Client : 664 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2258:31d4)]   (Sid: 26) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (1244:1b50)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Network Analyzer (2258:1144)]   (Sid: 27) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (1244:1b50)] Request Connection: Remote Server @ 117.18.232.200:443   (Service=)  (Sid=  1)  PROXIED!
+[Net An. Error    (2258:31d4)] SSLAccept(ssl_id = 253790128 = 0F2087B0) Failed, ctx = 0BD2E720, err = "SSLv3/TLS write server done", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    (2258:31d4)]   (Sid: 26) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (2258:2f84)]   (Sid: 26) Connection Terminated (by Client)
+[Network Analyzer (2258:1bdc)] Request Connection: Remote Server @ 40.81.31.55:443   (Service=)  (Sid= 28)  PROXIED!
+[Network Analyzer (2258: 528)] Request Connection: Remote Server @ 40.81.31.55:443   (Service=)  (Sid= 29)  PROXIED!
+[Network Analyzer (2258:2ae0)] Request Connection: Remote Server @ 111.221.29.254:443   (Service=)  (Sid= 30)  PROXIED!
+[Network Analyzer (2258:17b0)] Request Connection: Remote Server @ 111.221.29.254:443   (Service=)  (Sid= 31)  PROXIED!
+[Net An. Error    (2258:1144)] SSLAccept(ssl_id = 253977296 = 0F2362D0) Failed, ctx = 0BD2E720, err = "SSLv3/TLS write server done", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    (2258:1144)]   (Sid: 27) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Web Request      (2258:2f84)] "GET /store/buy/cartcount"   
+[Network Analyzer (2258:2f84)]   (Sid: 12) Client -> Server @ : 852 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid: 27) Connection Terminated (by Client)
+[Network Analyzer (2258:1bdc)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Network Analyzer (2258:2f84)]   (Sid: 12) Server -> Client : 1210 bytes (SSL) (Service=HTTP)
+[Web Request      (2258:2f84)] "GET /scripts/me/MeControl/10.19284.2/en-US/meCore.min.js"   
+[Network Analyzer (2258:2f84)]   (Sid: 22) Client -> Server @ : 359 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2258:1bdc)] Request Connection: Remote Server @ 104.101.17.143:443   (Service=)  (Sid= 32)  PROXIED!
+[Network Analyzer (2258:2f84)]   (Sid: 22) Server -> Client : 13844 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2258:1f98)]   (Sid: 30) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (2258:1f98)]   (Sid: 30) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (2258:2f84)]   (Sid: 25) Client -> Server @ : 837 bytes (SSL)(Service=HTTP)
+[Web Request      (2258:2f84)] "POST /collect/v1?$mscomCookies=true&ext-javascript-msfpc='GUID%3Dd8cfa6e4cba6460cb6bb872bae9ec89c%26HASH%3Dd8cf%26LV%3D201909%26V%3D4%26LU%3D1568168537676'"   
+[Network Analyzer (2258:2f84)]   (Sid: 25) Client -> Server @ : 3832 bytes (SSL)(Service=HTTP)
+[Web Request      (2258:2f84)] "GET /collect/v1/t.gif?ver='2.1'&name='Ms.Webi.ContentUpdate'&time='2019-12-03T05%3A45%3A06.582Z'&os='Windows'&appId='JS%3Awelcomeie11'&cV='1ZeB865tkkSBvIep.0'&-ver='1.0'&-impressionGuid='06be5f80-a688-43f7-8284-17099466f284'&-pageName='welcomeie11'&-uri='https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fwelcomeie11%2Fwelcomeie11'&-market='en-us'&-pageTags='%7B%22browserGroup%22%3A%22uplevel.web.pc.ie%22%2C%22isTentedPage%22%3Afalse%2C%22tasId%22%3A%228c1df773-5852-4eec-9683-f9adcdbfb8cc%22%2C%22tasMuid%22%3A%222725464B6DC76C86260C4B9F6CC16D90%22%2C%22pageVersion%22%3A%220.1%22%2C%22isCachedPage%22%3Afalse%2C%22enabledFeatures%22%3A%22uhf_retailstore2%3A1%2CUhfPb%3A1%2CUhfUsePh%3A1%2CEnableLocaleDetection%3A1%2CUhfSwp%3A1%2Cuhfgreenid%3A1%2Ccore_cookiecompliance_enabled%3A1%2Ccore_akamai_im_enabled%3A1%2Ccoreui_hero_image_resize_90%3A1%2Cuhf_as_iris%3A1%2Ccore_use_coreui_mwf%3A1%2Ccoreui_makeimagebackgroundtransparent%3A1%2Ccore_BypassJWTValidation%3A1%2CMSADisableForceSignin%3A1%2CIsRtoRuleDisabled%3A1%2CDisableToSkipMarketdetectionforUknownRoutes%3A1%2Cf_video_uselegacyservice%3A1%2Cuhf_magic_triangle%3A1%2CRelevanceOverride%3A1%2CEnableAzureActiveDirectory20%3A1%2CIsIrisV4Enabled%3A1%2Cf_video_useadaptive%3A1%2Ccore_uhf_access_policy%3A1%2Cuhf_st_enabled%3A1%2Cjquery_latest%3A1%2CDisableOneRFSearchRoute%3A1%2CResolveDataProviderByPartnerNameSpace%3A1%2Ccore_disable_extensibility%3A1%2CInvokeLoginAuthorizeAndRedirect%3A1%2CAllowIncludeExclusivityArguments%3A1%2Cuhf_stick_footer_to_bottom%3A1%2CEnableFetchOfKnownDocument%3A1%2Cboomerang_disabled%3A1%2CretailServerFromTenantConfig%3A1%2Cnode_scnr_blob%3A1%2Crushmore_gzip_html%3A1%2CDisableTATToken%3A1%2Cnode_legacy_getactiveprices%3A1%2Cuhf_enable_domain_check%3A1%2Cnode_disable_cors%3A1%2Cuhf_enable_promo_banner%3A1%2Ccore_useAfsRestApiForStatics%3A1%2CEnableNonceCookieMiddleware%3A1%22%2C%22pageSubType%22%3A%22RETVK5%22%2C%22canvasType%22%3A%22Web%22%2C%22deviceFamily%22%3Anull%2C%22isOneRf%22%3Atrue%2C%22isCorpNet%22%3Afalse%2C%22dataVersion%22%3A%2210%2F22%2F2018%204%3A31%3A56%20PM%20%2B00%3A00%22%2C%22serviceName%22%3A%22marketingsites-prod-odnortheurope%22%2C%22metaTags%22%3A%7B%7D%7D'&-pageHeight=1361&-vpHeight=554&-vpWidth=784&-behavior=0&-vScrollOffset=0&-hScrollOffset=0&-contentVer='2.0'&-content='%5B%7B%22cN%22%3A%22headerArea%201%22%2C%22cT%22%3A%22Area_coreuiArea%22%2C%22id%22%3A%22a1Body%22%2C%22sN%22%3A1%2C%22aN%22%3A%22Body%22%7D%2C%7B%22cN%22%3A%22headerRegion%201%22%2C%22cT%22%3A%22Region_coreui-region%22%2C%22id%22%3A%22r1a1%22%2C%22sN%22%3A1%2C%22aN%22%3A%22a1%22%7D%2C%7B%22cN%22%3A%22header1%201%22%2C%22cT%22%3A%22Module_coreui-universalheader%22%2C%22id%22%3A%22m1r1a1%22%2C%22sN%22%3A1%2C%22aN%22%3A%22r1a1%22%7D%2C%7B%22cN%22%3A%22Universal%20Header_cont%22%2C%22cT%22%3A%22Container%22%2C%22id%22%3A%22c2m1r1a1%22%2C%22sN%22%3A2%2C%22aN%22%3A%22m1r1a1%22%7D%2C%7B%22cN%22%3A%22Mobile%20menu%20button_nonnav%22%2C%22id%22%3A%22nn1c2m1r1a1%22%2C%22sN%22%3A1%2C%22aN%22%3A%22c2m1r1a1%22%7D%2C%7B%22cN%22%3A%22GlobalNav_Logo_cont%22%2C%22cT%22%3A%22Container%22%2C%22id%22%3A%22c3c2m1r1a1%22%2C%22sN%22%3A3%2C%22aN%22%3A%22c2m1r1a1%22%7D%2C%7B%22cN%22%3A%22Store_nonnav%22%2C%22id%22%3A%22nn7c2m1r1a1%22%2C%22sN%22%3A7%2C%22aN%22%3A%22c2m1r1a1%22%7D%2C%7B%22cN%22%3A%22Header%20actions_cont%22%2C%22cT%22%3A%22Container%22%2C%22id%22%3A%22c9c2m1r1a1%22%2C%22sN%22%3A9%2C%22aN%22%3A%22c2m1r1a1%22%7D%2C%7B%22cN%22%3A%22GlobalNav_Cart_nav%22%2C%22bhvr%22%3A82%2C%22id%22%3A%22n5c1c9c2m1r1a1%22%2C%22sN%22%3A5%2C%22aN%22%3A%22c1c9c2m1r1a1%22%7D%2C%7B%22cN%22%3A%22GlobalNav_Account_cont%22%2C%22cT%22%3A%22Container%22%2C%22id%22%3A%22c7c1c9c2m1r1a1%22%2C%22sN%22%3A7%2C%22aN%22%3A%22c1c9c2m1r1a1%22%7D%2C%7B%22cN%22%3A%22primaryArea%201%22%2C%22cT%22%3A%22Area_coreuiArea%22%2C%22id%22%3A%22a2Body%22%2C%22sN%22%3A2%2C%22aN%22%3A%22Body%22%7D%2C%7B%22cN%22%3A%22primaryR1%201%22%2C%22cT%22%3A%22Region_coreui-region%22%2C%22id%22%3A%22r1a2%22%2C%22sN%22%3A1%2C%22aN%22%3A%22a2%22%7D%2C%7B%22cN%22%3A%22R1TypographicIntro%201%22%2C%22cT%22%3A%22Module_coreui-typographicintro%22%2C%22id%22%3A%22m1r1a2%22%2C%22sN%22%3A1%2C%22aN%22%3A%22r1a2%22%7D%2C%7B%22cN%22%3A%22R1Feature%201%22%2C%22cT%22%3A%22Module_coreui-feature%22%2C%22id%22%3A%22m2r1a2%22%2C%22sN%22%3A2%2C%22aN%22%3A%22r1a2%22%7D%2C%7B%22cN%22%3A%22PromotionalItem%22%2C%22cT%22%3A%22Container%22%2C%22id%22%3A%22c1m2r1a2%22%2C%22sN%22%3A1%2C%22aN%22%3A%22m2r1a2%22%7D%5D'&*baseType='Ms.Content.ContentUpdate'&*timings='%7B%22HeadDuration%22%3A555%2C%22HtmlDuration%22%3A2326%2C%22BodyDuration%22%3A1771%2C%22HeaderAreaDuration%22%3A23%2C%22MainAreaDuration%22%3A31%2C%22FooterAreaDuration%22%3A2%2C%22PostFooterDuration%22%3A1714%7D'&*title='Internet%20Explorer%20Welcome'&*cookieEnabled=true&*isJs=true&*isManual=true&*isDomComplete=false&*isLoggedIn=false&*serverImpressionGuid='8c1df773-5852-4eec-9683-f9adcdbfb8cc'&ext-app-env='onerf_prod'&ext-app-expId='EX%3Asfwaab%2CEX%3A1786t1a%2CEX%3A969t2%2CEX%3Atasmigration010%2CEX%3Acartemberpl%2CEX%3Adisablenorefunds'&ext-javascript-ver='1.1'&ext-javascript-libVer='4.2.8'&ext-javascript-domain='www.microsoft.com'&ext-javascript-msfpc='GUID%3Dd8cfa6e4cba6460cb6bb872bae9ec89c%26HASH%3Dd8cf%26LV%3D201909%26V%3D4%26LU%3D1568168537676'&ext-javascript-userConsent=false&ext-user-localId='t%3A2725464B6DC76C86260C4B9F6CC16D90'&$mscomCookies=true"   
+[Network Analyzer (2258:2f84)]   (Sid: 30) Client -> Server @ : 5977 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2258:1bdc)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Network Analyzer (2258: 528)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Network Analyzer (2258:2f84)]   (Sid: 25) Server -> Client : 664 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid: 30) Server -> Client : 392 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2258:2978)]   (Sid: 28) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Web Request      (2258:2f84)] "GET /MFQwUjBQME4wTDAJBgUrDgMCGgUABBR0AkbyWlxCEiC1vV12Caa6XKNH3wQUJPIuTg%2B9yvc%2BKVXKco1ph1ZE6XoCE3sAAtl9pYPg3%2FNh%2FfIAAAAC2X0%3D"   
+[Network Analyzer (2258:2f84)]   (Sid:  3) Client -> Server @ : 242 bytes (Service=HTTP)
+[Network Analyzer (2258: 528)] Request Connection: Remote Server @ 40.90.22.191:443   (Service=)  (Sid= 33)  PROXIED!
+[Network Analyzer (2258:1bdc)] Request Connection: Remote Server @ 40.90.22.191:443   (Service=)  (Sid= 34)  PROXIED!
+[Network Analyzer (2258:284c)]   (Sid: 29) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (2258:2f84)]   (Sid:  3) Server -> Client : 1460 bytes  (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  3) Server -> Client : 1130 bytes  (Service=HTTP)
+[Network Analyzer (2258:1940)]   (Sid: 31) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (2258:1940)]   (Sid: 31) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (2258:1300)]   (Sid: 32) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Web Request      (2258:2f84)] "GET /MFQwUjBQME4wTDAJBgUrDgMCGgUABBR0AkbyWlxCEiC1vV12Caa6XKNH3wQUJPIuTg%2B9yvc%2BKVXKco1ph1ZE6XoCE3sAAtl9pYPg3%2FNh%2FfIAAAAC2X0%3D"   
+[Network Analyzer (2258:2f84)]   (Sid:  3) Client -> Server @ : 285 bytes (Service=HTTP)
+[Network Analyzer (1244:3014)]   (Sid:  1) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Web Request      (2258:2f84)] "GET /collect/v1/t.gif?ver='2.1'&name='Ms.Webi.ContentUpdate'&time='2019-12-03T05%3A45%3A09.370Z'&os='Windows'&appId='JS%3Awelcomeie11'&cV='1ZeB865tkkSBvIep.0'&-ver='1.0'&-impressionGuid='06be5f80-a688-43f7-8284-17099466f284'&-pageName='welcomeie11'&-uri='https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fwelcomeie11%2Fwelcomeie11'&-market='en-us'&-pageTags='%7B%22browserGroup%22%3A%22uplevel.web.pc.ie%22%2C%22isTentedPage%22%3Afalse%2C%22tasId%22%3A%228c1df773-5852-4eec-9683-f9adcdbfb8cc%22%2C%22tasMuid%22%3A%222725464B6DC76C86260C4B9F6CC16D90%22%2C%22pageVersion%22%3A%220.1%22%2C%22isCachedPage%22%3Afalse%2C%22enabledFeatures%22%3A%22uhf_retailstore2%3A1%2CUhfPb%3A1%2CUhfUsePh%3A1%2CEnableLocaleDetection%3A1%2CUhfSwp%3A1%2Cuhfgreenid%3A1%2Ccore_cookiecompliance_enabled%3A1%2Ccore_akamai_im_enabled%3A1%2Ccoreui_hero_image_resize_90%3A1%2Cuhf_as_iris%3A1%2Ccore_use_coreui_mwf%3A1%2Ccoreui_makeimagebackgroundtransparent%3A1%2Ccore_BypassJWTValidation%3A1%2CMSADisableForceSignin%3A1%2CIsRtoRuleDisabled%3A1%2CDisableToSkipMarketdetectionforUknownRoutes%3A1%2Cf_video_uselegacyservice%3A1%2Cuhf_magic_triangle%3A1%2CRelevanceOverride%3A1%2CEnableAzureActiveDirectory20%3A1%2CIsIrisV4Enabled%3A1%2Cf_video_useadaptive%3A1%2Ccore_uhf_access_policy%3A1%2Cuhf_st_enabled%3A1%2Cjquery_latest%3A1%2CDisableOneRFSearchRoute%3A1%2CResolveDataProviderByPartnerNameSpace%3A1%2Ccore_disable_extensibility%3A1%2CInvokeLoginAuthorizeAndRedirect%3A1%2CAllowIncludeExclusivityArguments%3A1%2Cuhf_stick_footer_to_bottom%3A1%2CEnableFetchOfKnownDocument%3A1%2Cboomerang_disabled%3A1%2CretailServerFromTenantConfig%3A1%2Cnode_scnr_blob%3A1%2Crushmore_gzip_html%3A1%2CDisableTATToken%3A1%2Cnode_legacy_getactiveprices%3A1%2Cuhf_enable_domain_check%3A1%2Cnode_disable_cors%3A1%2Cuhf_enable_promo_banner%3A1%2Ccore_useAfsRestApiForStatics%3A1%2CEnableNonceCookieMiddleware%3A1%22%2C%22pageSubType%22%3A%22RETVK5%22%2C%22canvasType%22%3A%22Web%22%2C%22deviceFamily%22%3Anull%2C%22isOneRf%22%3Atrue%2C%22isCorpNet%22%3Afalse%2C%22dataVersion%22%3A%2210%2F22%2F2018%204%3A31%3A56%20PM%20%2B00%3A00%22%2C%22serviceName%22%3A%22marketingsites-prod-odnortheurope%22%2C%22metaTags%22%3A%7B%7D%2C%22timing%22%3A%22%7B%5C%22navigationStart%5C%22%3A1575351904171%2C%5C%22unloadEventStart%5C%22%3A0%2C%5C%22unloadEventEnd%5C%22%3A0%2C%5C%22redirectStart%5C%22%3A0%2C%5C%22redirectEnd%5C%22%3A0%2C%5C%22fetchStart%5C%22%3A1575351904171%2C%5C%22domainLookupStart%5C%22%3A1575351904172%2C%5C%22domainLookupEnd%5C%22%3A1575351904172%2C%5C%22connectStart%5C%22%3A1575351904172%2C%5C%22connectEnd%5C%22%3A1575351904172%2C%5C%22requestStart%5C%22%3A1575351904172%2C%5C%22responseStart%5C%22%3A1575351904172%2C%5C%22responseEnd%5C%22%3A1575351904205%2C%5C%22domLoading%5C%22%3A1575351904172%2C%5C%22domInteractive%5C%22%3A1575351906497%2C%5C%22domContentLoadedEventStart%5C%22%3A1575351906515%2C%5C%22domContentLoadedEventEnd%5C%22%3A1575351906581%2C%5C%22domComplete%5C%22%3A1575351909202%2C%5C%22loadEventStart%5C%22%3A1575351909203%2C%5C%22loadEventEnd%5C%22%3A1575351909276%2C%5C%22msFirstPaint%5C%22%3A1575351904965%7D%22%7D'&-pageHeight=1435&-vpHeight=554&-vpWidth=784&-behavior=0&-vScrollOffset=0&-hScrollOffset=0&-contentVer='2.0'&-content='%5B%7B%22cN%22%3A%22headerArea%201%22%2C%22cT%22%3A%22Area_coreuiArea%22%2C%22id%22%3A%22a1Body%22%2C%22sN%22%3A1%2C%22aN%22%3A%22Body%22%7D%2C%7B%22cN%22%3A%22headerRegion%201%22%2C%22cT%22%3A%22Region_coreui-region%22%2C%22id%22%3A%22r1a1%22%2C%22sN%22%3A1%2C%22aN%22%3A%22a1%22%7D%2C%7B%22cN%22%3A%22header1%201%22%2C%22cT%22%3A%22Module_coreui-universalheader%22%2C%22id%22%3A%22m1r1a1%22%2C%22sN%22%3A1%2C%22aN%22%3A%22r1a1%22%7D%2C%7B%22cN%22%3A%22Universal%20Header_cont%22%2C%22cT%22%3A%22Container%22%2C%22id%22%3A%22c2m1r1a1%22%2C%22sN%22%3A2%2C%22aN%22%3A%22m1r1a1%22%7D%2C%7B%22cN%22%3A%22Mobile%20menu%20button_nonnav%22%2C%22id%22%3A%22nn1c2m1r1a1%22%2C%22sN%22%3A1%2C%22aN%22%3A%22c2m1r1a1%22%7D%2C%7B%22cN%22%3A%22GlobalNav_Logo_cont%22%2C%22cT%22%3A%22Container%22%2C%22id%22%3A%22c3c2m1r1a1%22%2C%22sN%22%3A3%2C%22aN%22%3A%22c2m1r1a1%22%7D%2C%7B%22cN%22%3A%22Store_nonnav%22%2C%22id%22%3A%22nn7c2m1r1a1%22%2C%22sN%22%3A7%2C%22aN%22%3A%22c2m1r1a1%22%7D%2C%7B%22cN%22%3A%22Header%20actions_cont%22%2C%22cT%22%3A%22Container%22%2C%22id%22%3A%22c9c2m1r1a1%22%2C%22sN%22%3A9%2C%22aN%22%3A%22c2m1r1a1%22%7D%2C%7B%22cN%22%3A%22GlobalNav_Cart_nav%22%2C%22bhvr%22%3A82%2C%22id%22%3A%22n5c1c9c2m1r1a1%22%2C%22sN%22%3A5%2C%22aN%22%3A%22c1c9c2m1r1a1%22%7D%2C%7B%22cN%22%3A%22GlobalNav_Account_cont%22%2C%22cT%22%3A%22Container%22%2C%22id%22%3A%22c7c1c9c2m1r1a1%22%2C%22sN%22%3A7%2C%22aN%22%3A%22c1c9c2m1r1a1%22%7D%2C%7B%22cN%22%3A%22primaryArea%201%22%2C%22cT%22%3A%22Area_coreuiArea%22%2C%22id%22%3A%22a2Body%22%2C%22sN%22%3A2%2C%22aN%22%3A%22Body%22%7D%2C%7B%22cN%22%3A%22primaryR1%201%22%2C%22cT%22%3A%22Region_coreui-region%22%2C%22id%22%3A%22r1a2%22%2C%22sN%22%3A1%2C%22aN%22%3A%22a2%22%7D%2C%7B%22cN%22%3A%22R1TypographicIntro%201%22%2C%22cT%22%3A%22Module_coreui-typographicintro%22%2C%22id%22%3A%22m1r1a2%22%2C%22sN%22%3A1%2C%22aN%22%3A%22r1a2%22%7D%2C%7B%22cN%22%3A%22R1Feature%201%22%2C%22cT%22%3A%22Module_coreui-feature%22%2C%22id%22%3A%22m2r1a2%22%2C%22sN%22%3A2%2C%22aN%22%3A%22r1a2%22%7D%2C%7B%22cN%22%3A%22PromotionalItem%22%2C%22cT%22%3A%22Container%22%2C%22id%22%3A%22c1m2r1a2%22%2C%22sN%22%3A1%2C%22aN%22%3A%22m2r1a2%22%7D%5D'&*baseType='Ms.Content.ContentUpdate'&*title='Internet%20Explorer%20Welcome'&*cookieEnabled=true&*isJs=true&*isDomComplete=true&*isLoggedIn=false&*serverImpressionGuid='8c1df773-5852-4eec-9683-f9adcdbfb8cc'&*pageLoadTime=5032&ext-app-env='onerf_prod'&ext-app-expId='EX%3Asfwaab%2CEX%3A1786t1a%2CEX%3A969t2%2CEX%3Atasmigration010%2CEX%3Acartemberpl%2CEX%3Adisablenorefunds'&ext-javascript-ver='1.1'&ext-javascript-libVer='4.2.8'&ext-javascript-domain='www.microsoft.com'&ext-javascript-msfpc='GUID%3Dd8cfa6e4cba6460cb6bb872bae9ec89c%26HASH%3Dd8cf%26LV%3D201909%26V%3D4%26LU%3D1568168537676'&ext-javascript-userConsent=false&ext-user-localId='t%3A2725464B6DC76C86260C4B9F6CC16D90'&$mscomCookies=true"   
+[Network Analyzer (2258:2f84)]   (Sid: 31) Client -> Server @ : 6677 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2258:1300)]   (Sid: 32) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (2258:2f84)]   (Sid:  3) Server -> Client : 1460 bytes  (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  3) Server -> Client : 1137 bytes  (Service=HTTP)
+[Web Request      (2258:2f84)] "GET /favicon.ico?v2"   
+[Network Analyzer (2258:2f84)]   (Sid: 32) Client -> Server @ : 209 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid: 32) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Web Request      (2258:2f84)] "GET /pki/mscorp/crl/Microsoft%20IT%20TLS%20CA%201.crl"   
+[Network Analyzer (2258:2f84)]   (Sid:  4) Client -> Server @ : 168 bytes (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid: 31) Server -> Client : 392 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid: 32) Server -> Client : 1429 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  4) Server -> Client : 5840 bytes  (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  4) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  4) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  4) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  4) Server -> Client : 2116 bytes  (Service=HTTP)
+[Web Request      (2258:2f84)] "GET /pki/mscorp/crl/Microsoft%20IT%20TLS%20CA%201.crl"   
+[Network Analyzer (2258:2f84)]   (Sid:  4) Client -> Server @ : 211 bytes (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  4) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  4) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  4) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  4) Server -> Client : 7956 bytes  (Service=HTTP)
+[Web Request      (2258:2f84)] "GET /pki/mscorp/crl/Microsoft%20IT%20TLS%20CA%201.crl"   
+[Network Analyzer (2258:2f84)]   (Sid:  5) Client -> Server @ : 166 bytes (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  5) Server -> Client : 1460 bytes  (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  5) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c:14d8)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Network Analyzer (2258:2f84)]   (Sid:  5) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  5) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  5) Server -> Client : 6512 bytes  (Service=HTTP)
+[Network Analyzer (2258: 5f8)]   (Sid: 33) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (200c:14d8)] Request Connection: Remote Server @ 117.18.232.200:443   (Service=)  (Sid= 40)  PROXIED!
+[Web Request      (2258:2f84)] "GET /pki/mscorp/crl/Microsoft%20IT%20TLS%20CA%201.crl"   
+[Network Analyzer (2258:2f84)]   (Sid:  5) Client -> Server @ : 209 bytes (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  5) Server -> Client : 5840 bytes  (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  5) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  5) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  5) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  5) Server -> Client : 2132 bytes  (Service=HTTP)
+[Net An. Error    (2258:284c)] SSLAccept(ssl_id = 253980248 = 0F236E58) Failed, ctx = 0BD2FED8, err = "SSLv3/TLS write server done", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    (2258: 5f8)] SSLAccept(ssl_id = 253989104 = 0F2390F0) Failed, ctx = 0F431D30, err = "SSLv3/TLS write server done", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    (2258:2978)] SSLAccept(ssl_id = 253986152 = 0F238568) Failed, ctx = 0BD2FED8, err = "SSLv3/TLS write server done", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    (2258:284c)]   (Sid: 29) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (2258: 5f8)]   (Sid: 33) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (2258:2978)]   (Sid: 28) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (2258: 528)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Network Analyzer (2258:3220)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Network Analyzer (2258:2f84)]   (Sid: 28) Connection Terminated (by Client)
+[Network Analyzer (2258:2f84)]   (Sid: 29) Connection Terminated (by Client)
+[Network Analyzer (2258:2f84)]   (Sid: 33) Connection Terminated (by Client)
+[Network Analyzer (2258: 528)] Request Connection: Remote Server @ 40.81.31.55:443   (Service=)  (Sid= 35)  PROXIED!
+[Network Analyzer (1244:37ec)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Network Analyzer (1244:37ec)] Request Connection: Remote Server @ 104.18.25.243:80   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer (2258:3220)] Request Connection: Remote Server @ 40.90.22.191:443   (Service=)  (Sid= 36)  PROXIED!
+[Network Analyzer (2258: 5c0)]   (Sid: 34) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Web Request      (2258:2f84)] "GET /MFQwUjBQME4wTDAJBgUrDgMCGgUABBR0AkbyWlxCEiC1vV12Caa6XKNH3wQUJPIuTg%2B9yvc%2BKVXKco1ph1ZE6XoCE3sAC2tOMudAkxOXjCYAAAALa04%3D"   
+[Network Analyzer (2258:2f84)]   (Sid:  3) Client -> Server @ : 238 bytes (Service=HTTP)
+[Network Analyzer (2258:2104)]   (Sid: 35) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (2258:2104)]   (Sid: 35) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (2258:2f84)]   (Sid:  3) Server -> Client : 2593 bytes  (Service=HTTP)
+[Web Request      (2258:2f84)] "GET /c.gif?DI=4050&did=1&t="   
+[Network Analyzer (2258:2f84)]   (Sid: 35) Client -> Server @ : 638 bytes (SSL)(Service=HTTP)
+[Web Request      (2258:2f84)] "GET /MFQwUjBQME4wTDAJBgUrDgMCGgUABBR0AkbyWlxCEiC1vV12Caa6XKNH3wQUJPIuTg%2B9yvc%2BKVXKco1ph1ZE6XoCE3sAC2tOMudAkxOXjCYAAAALa04%3D"   
+[Network Analyzer (2258:2f84)]   (Sid:  3) Client -> Server @ : 281 bytes (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  3) Server -> Client : 2597 bytes  (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid: 35) Server -> Client : 475 bytes (SSL) (Service=HTTP)
+[Net An. Error    (2258: 5c0)] SSLAccept(ssl_id = 253980248 = 0F236E58) Failed, ctx = 0F431D30, err = "SSLv3/TLS write server done", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    (2258: 5c0)]   (Sid: 34) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (2258:34c0)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Network Analyzer (2258: 528)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Network Analyzer (200c:20b0)]   (Sid: 40) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (2258:2f84)]   (Sid: 34) Connection Terminated (by Client)
+[Network Analyzer (2258:34c0)] Request Connection: Remote Server @ 204.79.197.200:443   (Service=)  (Sid= 37)  PROXIED!
+[Network Analyzer (2258: 528)] Request Connection: Remote Server @ 204.79.197.200:443   (Service=)  (Sid= 38)  PROXIED!
+[Network Analyzer (2258: a20)]   (Sid: 36) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (2258: a20)]   (Sid: 36) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (200c:273c)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Network Analyzer (200c:273c)] Request Connection: Remote Server @ 104.18.25.243:80   (Service=)  (Sid= 41)  PROXIED!
+[Network Analyzer (2258:2ef8)]   (Sid: 37) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Web Request      (1244:34e0)] "GET /MFQwUjBQME4wTDAJBgUrDgMCGgUABBR0AkbyWlxCEiC1vV12Caa6XKNH3wQUJPIuTg%2B9yvc%2BKVXKco1ph1ZE6XoCEyAAAnDMbSUzbKCBs1kAAAACcMw%3D"   
+[Network Analyzer (1244:34e0)]   (Sid:  2) Client -> Server @ : 238 bytes (Service=HTTP)
+[Network Analyzer (1244:34e0)]   (Sid:  2) Server -> Client : 1460 bytes  (Service=HTTP)
+[Network Analyzer (1244:34e0)]   (Sid:  2) Server -> Client : 1140 bytes  (Service=HTTP)
+[Web Request      (1244:34e0)] "GET /MFQwUjBQME4wTDAJBgUrDgMCGgUABBR0AkbyWlxCEiC1vV12Caa6XKNH3wQUJPIuTg%2B9yvc%2BKVXKco1ph1ZE6XoCEyAAAnDMbSUzbKCBs1kAAAACcMw%3D"   
+[Network Analyzer (1244:34e0)]   (Sid:  2) Client -> Server @ : 281 bytes (Service=HTTP)
+[Network Analyzer (2258:1450)]   (Sid: 38) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (1244:34e0)]   (Sid:  2) Server -> Client : 1460 bytes  (Service=HTTP)
+[Network Analyzer (1244:34e0)]   (Sid:  2) Server -> Client : 1140 bytes  (Service=HTTP)
+[Web Request      (2258:2f84)] "GET /MFQwUjBQME4wTDAJBgUrDgMCGgUABBR0AkbyWlxCEiC1vV12Caa6XKNH3wQUJPIuTg%2B9yvc%2BKVXKco1ph1ZE6XoCEyAABg8bjrHOQmNGg0IAAAAGDxs%3D"   
+[Network Analyzer (2258:2f84)]   (Sid:  3) Client -> Server @ : 238 bytes (Service=HTTP)
+[Web Request      (2258:2f84)] "GET /me.srf?wa=wsignin1.0&wreply=https%3A%2F%2Fwww.microsoft.com&uaid=614f7728-dec9-44c7-07c4-64e4d50e7019&partnerId=retailstore2"   
+[Network Analyzer (2258:2f84)]   (Sid: 36) Client -> Server @ : 7013 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1244:1964)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Network Analyzer (1244:1964)] Request Connection: Remote Server @ 117.18.232.200:80   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer (2258:2f84)]   (Sid:  3) Server -> Client : 2589 bytes  (Service=HTTP)
+[Web Request      (2258:2f84)] "GET /collect/v1/t.gif?ver='2.1'&name='Ms.Webi.PageUnload'&time='2019-12-03T05%3A45%3A12.786Z'&os='Windows'&appId='JS%3Awelcomeie11'&cV='1ZeB865tkkSBvIep.0'&-ver='1.0'&-impressionGuid='06be5f80-a688-43f7-8284-17099466f284'&-pageName='welcomeie11'&*baseType='Ms.Content.PageUnload'&*dwellTime=7581&*scrollDepth='0%2F1435'&*vScrollOffset=0&*pageHeight=1435&*vpHeight=554&*serverImpressionGuid='8c1df773-5852-4eec-9683-f9adcdbfb8cc'&ext-app-env='onerf_prod'&ext-app-expId='EX%3Asfwaab%2CEX%3A1786t1a%2CEX%3A969t2%2CEX%3Atasmigration010%2CEX%3Acartemberpl%2CEX%3Adisablenorefunds'&ext-javascript-ver='1.1'&ext-javascript-libVer='4.2.8'&ext-javascript-domain='www.microsoft.com'&ext-javascript-msfpc='GUID%3Dd8cfa6e4cba6460cb6bb872bae9ec89c%26HASH%3Dd8cf%26LV%3D201909%26V%3D4%26LU%3D1568168537676'&ext-javascript-userConsent=false&ext-user-localId='t%3A2725464B6DC76C86260C4B9F6CC16D90'&$mscomCookies=true"   
+[Network Analyzer (2258:2f84)]   (Sid: 31) Client -> Server @ : 1518 bytes (SSL)(Service=HTTP)
+[Web Request      (2258:2f84)] "GET /MFQwUjBQME4wTDAJBgUrDgMCGgUABBR0AkbyWlxCEiC1vV12Caa6XKNH3wQUJPIuTg%2B9yvc%2BKVXKco1ph1ZE6XoCEyAABg8bjrHOQmNGg0IAAAAGDxs%3D"   
+[Network Analyzer (2258:2f84)]   (Sid:  3) Client -> Server @ : 281 bytes (Service=HTTP)
+[Web Request      (2258:2f84)] "GET /collect/v1/t.gif?ver='2.1'&name='Ms.Webi.ContentUpdate'&time='2019-12-03T05%3A45%3A12.890Z'&os='Windows'&appId='JS%3Awelcomeie11'&cV='1ZeB865tkkSBvIep.0'&-ver='1.0'&-impressionGuid='06be5f80-a688-43f7-8284-17099466f284'&-pageName='welcomeie11'&-uri='https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fwelcomeie11%2Fwelcomeie11'&-market='en-us'&-pageTags='%7B%22browserGroup%22%3A%22uplevel.web.pc.ie%22%2C%22isTentedPage%22%3Afalse%2C%22tasId%22%3A%228c1df773-5852-4eec-9683-f9adcdbfb8cc%22%2C%22tasMuid%22%3A%222725464B6DC76C86260C4B9F6CC16D90%22%2C%22pageVersion%22%3A%220.1%22%2C%22isCachedPage%22%3Afalse%2C%22enabledFeatures%22%3A%22uhf_retailstore2%3A1%2CUhfPb%3A1%2CUhfUsePh%3A1%2CEnableLocaleDetection%3A1%2CUhfSwp%3A1%2Cuhfgreenid%3A1%2Ccore_cookiecompliance_enabled%3A1%2Ccore_akamai_im_enabled%3A1%2Ccoreui_hero_image_resize_90%3A1%2Cuhf_as_iris%3A1%2Ccore_use_coreui_mwf%3A1%2Ccoreui_makeimagebackgroundtransparent%3A1%2Ccore_BypassJWTValidation%3A1%2CMSADisableForceSignin%3A1%2CIsRtoRuleDisabled%3A1%2CDisableToSkipMarketdetectionforUknownRoutes%3A1%2Cf_video_uselegacyservice%3A1%2Cuhf_magic_triangle%3A1%2CRelevanceOverride%3A1%2CEnableAzureActiveDirectory20%3A1%2CIsIrisV4Enabled%3A1%2Cf_video_useadaptive%3A1%2Ccore_uhf_access_policy%3A1%2Cuhf_st_enabled%3A1%2Cjquery_latest%3A1%2CDisableOneRFSearchRoute%3A1%2CResolveDataProviderByPartnerNameSpace%3A1%2Ccore_disable_extensibility%3A1%2CInvokeLoginAuthorizeAndRedirect%3A1%2CAllowIncludeExclusivityArguments%3A1%2Cuhf_stick_footer_to_bottom%3A1%2CEnableFetchOfKnownDocument%3A1%2Cboomerang_disabled%3A1%2CretailServerFromTenantConfig%3A1%2Cnode_scnr_blob%3A1%2Crushmore_gzip_html%3A1%2CDisableTATToken%3A1%2Cnode_legacy_getactiveprices%3A1%2Cuhf_enable_domain_check%3A1%2Cnode_disable_cors%3A1%2Cuhf_enable_promo_banner%3A1%2Ccore_useAfsRestApiForStatics%3A1%2CEnableNonceCookieMiddleware%3A1%22%2C%22pageSubType%22%3A%22RETVK5%22%2C%22canvasType%22%3A%22Web%22%2C%22deviceFamily%22%3Anull%2C%22isOneRf%22%3Atrue%2C%22isCorpNet%22%3Afalse%2C%22dataVersion%22%3A%2210%2F22%2F2018%204%3A31%3A56%20PM%20%2B00%3A00%22%2C%22serviceName%22%3A%22marketingsites-prod-odnortheurope%22%2C%22metaTags%22%3A%7B%7D%7D'&-pageHeight=1435&-vpHeight=554&-vpWidth=784&-behavior=0&-vScrollOffset=0&-hScrollOffset=0&-contentVer='2.0'&-content='%5B%7B%22cN%22%3A%22headerArea%201%22%2C%22cT%22%3A%22Area_coreuiArea%22%2C%22id%22%3A%22a1Body%22%2C%22sN%22%3A1%2C%22aN%22%3A%22Body%22%7D%2C%7B%22cN%22%3A%22headerRegion%201%22%2C%22cT%22%3A%22Region_coreui-region%22%2C%22id%22%3A%22r1a1%22%2C%22sN%22%3A1%2C%22aN%22%3A%22a1%22%7D%2C%7B%22cN%22%3A%22header1%201%22%2C%22cT%22%3A%22Module_coreui-universalheader%22%2C%22id%22%3A%22m1r1a1%22%2C%22sN%22%3A1%2C%22aN%22%3A%22r1a1%22%7D%2C%7B%22cN%22%3A%22Universal%20Header_cont%22%2C%22cT%22%3A%22Container%22%2C%22id%22%3A%22c2m1r1a1%22%2C%22sN%22%3A2%2C%22aN%22%3A%22m1r1a1%22%7D%2C%7B%22cN%22%3A%22Mobile%20menu%20button_nonnav%22%2C%22id%22%3A%22nn1c2m1r1a1%22%2C%22sN%22%3A1%2C%22aN%22%3A%22c2m1r1a1%22%7D%2C%7B%22cN%22%3A%22GlobalNav_Logo_cont%22%2C%22cT%22%3A%22Container%22%2C%22id%22%3A%22c3c2m1r1a1%22%2C%22sN%22%3A3%2C%22aN%22%3A%22c2m1r1a1%22%7D%2C%7B%22cN%22%3A%22Store_nonnav%22%2C%22id%22%3A%22nn7c2m1r1a1%22%2C%22sN%22%3A7%2C%22aN%22%3A%22c2m1r1a1%22%7D%2C%7B%22cN%22%3A%22Header%20actions_cont%22%2C%22cT%22%3A%22Container%22%2C%22id%22%3A%22c9c2m1r1a1%22%2C%22sN%22%3A9%2C%22aN%22%3A%22c2m1r1a1%22%7D%2C%7B%22cN%22%3A%22GlobalNav_Cart_nav%22%2C%22bhvr%22%3A82%2C%22id%22%3A%22n5c1c9c2m1r1a1%22%2C%22sN%22%3A5%2C%22aN%22%3A%22c1c9c2m1r1a1%22%7D%2C%7B%22cN%22%3A%22GlobalNav_Account_cont%22%2C%22cT%22%3A%22Container%22%2C%22id%22%3A%22c7c1c9c2m1r1a1%22%2C%22sN%22%3A7%2C%22aN%22%3A%22c1c9c2m1r1a1%22%7D%2C%7B%22cN%22%3A%22primaryArea%201%22%2C%22cT%22%3A%22Area_coreuiArea%22%2C%22id%22%3A%22a2Body%22%2C%22sN%22%3A2%2C%22aN%22%3A%22Body%22%7D%2C%7B%22cN%22%3A%22primaryR1%201%22%2C%22cT%22%3A%22Region_coreui-region%22%2C%22id%22%3A%22r1a2%22%2C%22sN%22%3A1%2C%22aN%22%3A%22a2%22%7D%2C%7B%22cN%22%3A%22R1TypographicIntro%201%22%2C%22cT%22%3A%22Module_coreui-typographicintro%22%2C%22id%22%3A%22m1r1a2%22%2C%22sN%22%3A1%2C%22aN%22%3A%22r1a2%22%7D%2C%7B%22cN%22%3A%22R1Feature%201%22%2C%22cT%22%3A%22Module_coreui-feature%22%2C%22id%22%3A%22m2r1a2%22%2C%22sN%22%3A2%2C%22aN%22%3A%22r1a2%22%7D%2C%7B%22cN%22%3A%22PromotionalItem%22%2C%22cT%22%3A%22Container%22%2C%22id%22%3A%22c1m2r1a2%22%2C%22sN%22%3A1%2C%22aN%22%3A%22m2r1a2%22%7D%5D'&*baseType='Ms.Content.ContentUpdate'&*timings='%7B%22frameMarkerData%22%3A%5B%22m3%22%2C%2243%22%2C%222c%22%2C%2256%22%2C%22n%22%2C%225%22%2C%22d%3Bc%22%2C%22e%22%2C%22d%3Bh%22%2C%22e%22%2C%22d%3B8%22%2C%22e%22%2C%22d%3Bb%22%2C%22e%3B%22%2C%22d%3B4%22%2C%22e%22%2C%22h%22%2C%22a%22%2C%22d%3B8%22%2C%22e%22%2C%22d%3B7%22%2C%22j%22%2C%228%22%2C%22d%3B%22%2C%223g%22%2C%22a%22%2C%2215%22%2C%221%22%2C%22c%22%2C%22d%3Bb%22%2C%22e%22%2C%22d%22%2C%222t%22%2C%228%22%2C%221k%22%2C%229%22%2C%22c%22%2C%22e%22%2C%22d%3B5%22%2C%22e%22%2C%22d%3Bq%22%2C%22e%22%2C%22d%3Bd%22%2C%22e%22%2C%22h%22%2C%229%22%2C%22d%3B6%22%2C%22e%22%2C%22d%3B4%22%2C%22e%22%2C%22d%3B%22%2C%22e%22%2C%22d%3B8%22%2C%22e%22%2C%22d%22%2C%22e%22%2C%22d%3B4%22%2C%22e%22%2C%22d%3B%22%2C%22e%22%2C%22d%3B3%22%2C%22e%22%2C%22d%3B7%22%2C%22e%22%2C%22d%3Bc%22%2C%22e%22%2C%22d%3Bg%22%2C%22e%3B%22%2C%22d%22%2C%22e%22%2C%22d%3B%22%2C%22e%22%2C%22d%3B4%22%2C%22e%22%2C%22d%3B9%22%2C%22e%22%2C%22d%3B%22%2C%22e%22%2C%22d%3B4%22%2C%225p%22%2C%224r%22%2C%2262%22%2C%225%22%2C%2219%22%2C%22z%22%2C%220%22%2C%221z%22%2C%221%22%2C%229%22%2C%22d%3B3%22%2C%22e%3B%22%2C%22d%3B7%22%2C%22e%22%2C%22d%3Bc%22%2C%22e%22%2C%22d%3B3%22%2C%22e%22%2C%22f%22%2C%22c%22%2C%22d%22%2C%22e%22%2C%22d%3B5%22%2C%22e%3B%22%2C%22d%3B3%22%2C%22e%22%2C%22d%3B3%22%2C%22e%22%2C%22d%3B%22%2C%22e%22%2C%22d%22%2C%22e%22%2C%22d%3B%22%2C%22e%22%2C%22d%22%2C%22e%22%2C%22d%3B4%22%2C%22e%22%2C%22d%3B%22%2C%22e%22%2C%22d%3B%22%2C%22f%22%2C%22c%22%2C%22h%22%2C%229%22%2C%22d%22%2C%22e%22%2C%22d%3B4%22%2C%22e%22%2C%22d%3B4%22%2C%22e%22%2C%22d%3B7%22%2C%22e%22%2C%22d%3Bb%22%2C%22e%22%2C%22d%3Bb%22%2C%22e%22%2C%22d%3B3%22%2C%22e%22%2C%22d%3B5%22%2C%22e%22%2C%22d%3B%22%2C%22e%22%2C%22d%3Bl%22%2C%22e%22%2C%22d%3B3%22%2C%22e%22%2C%22d%3B%22%2C%22e%3B%22%2C%22d%3B%22%2C%22e%22%2C%22d%3B6%22%2C%22e%3B%22%2C%22d%3B7%22%2C%22e%22%2C%22d%3B4%22%2C%22e%22%2C%22d%3B5%22%2C%22e%22%2C%22d%3B6%22%2C%22e%22%2C%22d%3B4%22%2C%22e%22%2C%22d%3B7%22%2C%22e%22%2C%22d%3B%22%2C%22e%22%5D%2C%22wasPageHidden%22%3Afalse%2C%22didUserNavigateAway%22%3Atrue%2C%22frameMarkerBeaconOffset%22%3A8673%7D'&*title='Internet%20Explorer%20Welcome'&*cookieEnabled=true&*isJs=true&*isManual=true&*isDomComplete=false&*isLoggedIn=false&*serverImpressionGuid='8c1df773-5852-4eec-9683-f9adcdbfb8cc'&ext-app-env='onerf_prod'&ext-app-expId='EX%3Asfwaab%2CEX%3A1786t1a%2CEX%3A969t2%2CEX%3Atasmigration010%2CEX%3Acartemberpl%2CEX%3Adisablenorefunds'&ext-javascript-ver='1.1'&ext-javascript-libVer='4.2.8'&ext-javascript-domain='www.microsoft.com'&ext-javascript-msfpc='GUID%3Dd8cfa6e4cba6460cb6bb872bae9ec89c%26HASH%3Dd8cf%26LV%3D201909%26V%3D4%26LU%3D1568168537676'&ext-javascript-userConsent=false&ext-user-localId='t%3A2725464B6DC76C86260C4B9F6CC16D90'&$mscomCookies=true"   
+[Network Analyzer (2258:2f84)]   (Sid: 30) Client -> Server @ : 7815 bytes (SSL)(Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid: 36) Server -> Client : 4861 bytes (SSL) (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  3) Server -> Client : 1460 bytes  (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid:  3) Server -> Client : 1133 bytes  (Service=HTTP)
+[Network Analyzer (2258:2f84)]   (Sid: 30) Connection Terminated (by Client)
+[Network Analyzer (2258:2f84)]   (Sid: 31) Connection Terminated (by Client)
+[Net An. Error    (2258:2ef8)] SSLAccept(ssl_id = 253971392 = 0F234BC0) Failed, ctx = 0F4307A0, err = "SSLv3/TLS write server done", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    (2258:1450)] SSLAccept(ssl_id = 254000912 = 0F23BF10) Failed, ctx = 0F4307A0, err = "SSLv3/TLS write server done", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    (2258:2ef8)]   (Sid: 37) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    (2258:1450)]   (Sid: 38) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (2258:2f84)]   (Sid: 37) Connection Terminated (by Client)
+[Network Analyzer (2258:2f84)]   (Sid: 38) Connection Terminated (by Client)
+[Web Request      (200c: 2ac)] "GET /MFQwUjBQME4wTDAJBgUrDgMCGgUABBR0AkbyWlxCEiC1vV12Caa6XKNH3wQUJPIuTg%2B9yvc%2BKVXKco1ph1ZE6XoCEyAAAnDMbSUzbKCBs1kAAAACcMw%3D"   
+[Network Analyzer (200c: 2ac)]   (Sid: 41) Client -> Server @ : 238 bytes (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 41) Server -> Client : 1460 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 41) Server -> Client : 1140 bytes  (Service=HTTP)
+[Web Request      (200c: 2ac)] "GET /MFQwUjBQME4wTDAJBgUrDgMCGgUABBR0AkbyWlxCEiC1vV12Caa6XKNH3wQUJPIuTg%2B9yvc%2BKVXKco1ph1ZE6XoCEyAAAnDMbSUzbKCBs1kAAAACcMw%3D"   
+[Network Analyzer (200c: 2ac)]   (Sid: 41) Client -> Server @ : 281 bytes (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 41) Server -> Client : 1460 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 41) Server -> Client : 1140 bytes  (Service=HTTP)
+[Network Analyzer (200c:30d0)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Network Analyzer (200c:30d0)] Request Connection: Remote Server @ 117.18.232.200:80   (Service=)  (Sid= 42)  PROXIED!
+[Web Request      (1244:34e0)] "GET /pki/mscorp/crl/Microsoft%20IT%20TLS%20CA%202.crl"   
+[Network Analyzer (1244:34e0)]   (Sid:  3) Client -> Server @ : 168 bytes (Service=HTTP)
+[Network Analyzer (1244:34e0)]   (Sid:  3) Server -> Client : 1460 bytes  (Service=HTTP)
+[Network Analyzer (1244:34e0)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (1244:34e0)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (1244:34e0)]   (Sid:  3) Server -> Client : 9572 bytes  (Service=HTTP)
+[Network Analyzer (1244:34e0)]   (Sid:  3) Server -> Client : 7300 bytes  (Service=HTTP)
+[Network Analyzer (1244:34e0)]   (Sid:  3) Server -> Client : 2160 bytes  (Service=HTTP)
+[Web Request      (1244:34e0)] "GET /pki/mscorp/crl/Microsoft%20IT%20TLS%20CA%202.crl"   
+[Network Analyzer (1244:34e0)]   (Sid:  3) Client -> Server @ : 211 bytes (Service=HTTP)
+[Network Analyzer (1244:34e0)]   (Sid:  3) Server -> Client : 1460 bytes  (Service=HTTP)
+[Network Analyzer (1244:34e0)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (1244:34e0)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (1244:34e0)]   (Sid:  3) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (1244:34e0)]   (Sid:  3) Server -> Client : 2648 bytes  (Service=HTTP)
+[Network Analyzer (1244:16b0)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Network Analyzer (1244:16b0)] Request Connection: Remote Server @ 112.196.151.208:80   (Service=)  (Sid=  4)  PROXIED!
+[Web Request      (200c: 2ac)] "GET /pki/mscorp/crl/Microsoft%20IT%20TLS%20CA%202.crl"   
+[Network Analyzer (200c: 2ac)]   (Sid: 42) Client -> Server @ : 168 bytes (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 42) Server -> Client : 1460 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 42) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 42) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 42) Server -> Client : 9572 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 42) Server -> Client : 1460 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 42) Server -> Client : 8000 bytes  (Service=HTTP)
+[Web Request      (200c: 2ac)] "GET /pki/mscorp/crl/Microsoft%20IT%20TLS%20CA%202.crl"   
+[Network Analyzer (200c: 2ac)]   (Sid: 42) Client -> Server @ : 211 bytes (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 42) Server -> Client : 1460 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 42) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 42) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 42) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 42) Server -> Client : 2648 bytes  (Service=HTTP)
+[Network Analyzer (200c:20b8)] Address lookup for DESKTOP-6SJDACC = 192.168.1.10
+[Network Analyzer (200c:20b8)] Request Connection: Remote Server @ 112.196.151.208:80   (Service=)  (Sid= 43)  PROXIED!
+[Web Request      (1244:34e0)] "GET /pki/mscorp/crl/Microsoft%20IT%20TLS%20CA%202.crl"   
+[Network Analyzer (1244:34e0)]   (Sid:  4) Client -> Server @ : 166 bytes (Service=HTTP)
+[Network Analyzer (1244:34e0)]   (Sid:  4) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (1244:34e0)]   (Sid:  4) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (1244:34e0)]   (Sid:  4) Server -> Client : 13952 bytes  (Service=HTTP)
+[Network Analyzer (1244:34e0)]   (Sid:  4) Server -> Client : 1460 bytes  (Service=HTTP)
+[Network Analyzer (1244:34e0)]   (Sid:  4) Server -> Client : 5096 bytes  (Service=HTTP)
+[Web Request      (1244:34e0)] "GET /pki/mscorp/crl/Microsoft%20IT%20TLS%20CA%202.crl"   
+[Network Analyzer (1244:34e0)]   (Sid:  4) Client -> Server @ : 209 bytes (Service=HTTP)
+[Network Analyzer (1244:34e0)]   (Sid:  4) Server -> Client : 5840 bytes  (Service=HTTP)
+[Network Analyzer (1244:34e0)]   (Sid:  4) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (1244:34e0)]   (Sid:  4) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (1244:34e0)]   (Sid:  4) Server -> Client : 14668 bytes  (Service=HTTP)
+[Net An. Error    (1244:3014)] SSLAccept(ssl_id = 2229739004576 = 0000020726CD22A0) Failed, ctx = 0000020726D5BE60, err = "SSLv3/TLS write server done", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    (1244:3014)]   (Sid:  1) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Web Request      (200c: 2ac)] "GET /pki/mscorp/crl/Microsoft%20IT%20TLS%20CA%202.crl"   
+[Network Analyzer (200c: 2ac)]   (Sid: 43) Client -> Server @ : 166 bytes (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 43) Server -> Client : 1460 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 43) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 43) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 43) Server -> Client : 12492 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 43) Server -> Client : 2920 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 43) Server -> Client : 3636 bytes  (Service=HTTP)
+[Web Request      (200c: 2ac)] "GET /pki/mscorp/crl/Microsoft%20IT%20TLS%20CA%202.crl"   
+[Network Analyzer (200c: 2ac)]   (Sid: 43) Client -> Server @ : 209 bytes (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 43) Server -> Client : 1460 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 43) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 43) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (1244:34e0)]   (Sid:  1) Connection Terminated (by Client)
+[Network Analyzer (200c: 2ac)]   (Sid: 43) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 43) Server -> Client : 2664 bytes  (Service=HTTP)
+[Net An. Error    (200c:20b0)] SSLAccept(ssl_id = 257286056 = 0F55DFA8) Failed, ctx = 0EE03B30, err = "SSLv3/TLS write server done", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    (200c:20b0)]   (Sid: 40) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (200c: 2ac)]   (Sid: 40) Connection Terminated (by Client)
+[Web Request      (200c: 2ac)] "GET /rsrc.php/v3iRf94/y4/l/en_US/_9RZ3OZ6m80.js?_nc_x=Ij3Wp8lg5Kz"   
+[Network Analyzer (200c: 2ac)]   (Sid: 39) Client -> Server @ : 779 bytes (SSL)(Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 39) Server -> Client : 631 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 39) Server -> Client : 8000 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 39) Server -> Client : 8000 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 39) Server -> Client : 8000 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 39) Server -> Client : 8000 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 39) Server -> Client : 8000 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 39) Server -> Client : 8000 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 39) Server -> Client : 8000 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 39) Server -> Client : 8000 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 39) Server -> Client : 1535 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 39) Server -> Client : 8000 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 39) Server -> Client : 8000 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 39) Server -> Client : 8000 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 39) Server -> Client : 8000 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 39) Server -> Client : 8000 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 39) Server -> Client : 8000 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 39) Server -> Client : 8000 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 39) Server -> Client : 8000 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 39) Server -> Client : 1536 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 39) Server -> Client : 8000 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 39) Server -> Client : 8000 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 39) Server -> Client : 8000 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 39) Server -> Client : 8000 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 39) Server -> Client : 8000 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 39) Server -> Client : 8000 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 39) Server -> Client : 8000 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 39) Server -> Client : 8000 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 39) Server -> Client : 1536 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 39) Server -> Client : 8000 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 39) Server -> Client : 8000 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 39) Server -> Client : 8000 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 39) Server -> Client : 8000 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 39) Server -> Client : 8000 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 39) Server -> Client : 8000 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 39) Server -> Client : 8000 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 39) Server -> Client : 8000 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 39) Server -> Client : 1536 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 39) Server -> Client : 8000 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 39) Server -> Client : 8000 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 39) Server -> Client : 8000 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 39) Server -> Client : 8000 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 39) Server -> Client : 8000 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 39) Server -> Client : 8000 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 39) Server -> Client : 8000 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 39) Server -> Client : 8000 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 39) Server -> Client : 1536 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 39) Server -> Client : 8000 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 39) Server -> Client : 8000 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 39) Server -> Client : 8000 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 39) Server -> Client : 8000 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 39) Server -> Client : 2542 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 39) Server -> Client : 1400 bytes (SSL) (Service=HTTP)
+[Web Request      (200c: 2ac)] "GET /common/cavalry_endpoint.php?t_cstart=1575351893512&t_start=1575351893513&t_domcontent=1575351893564&t_layout=1575351923413&t_onload=1575351923413&t_paint=1575351923413&t_creport=1575351923413&t_tti=1575351893564&lid=6766084860283110711-0"   
+[Network Analyzer (200c: 2ac)]   (Sid: 36) Client -> Server @ : 977 bytes (SSL)(Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 36) Server -> Client : 649 bytes (SSL) (Service=HTTP)
+[Network Analyzer (200c: 2ac)]   (Sid: 36) Server -> Client : 20 bytes (SSL) (Service=HTTP)

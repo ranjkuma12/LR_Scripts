@@ -1,0 +1,1318 @@
+{
+  "FilterHeaders": [
+    {
+      "Header": "user-agent",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "origin",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "accept-language",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept-encoding",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept",
+      "IncludeInScript": false
+    }
+  ],
+  "FilterResources": [
+    {
+      "IsNonResource": true,
+      "type": "text/html"
+    },
+    {
+      "IsNonResource": false,
+      "type": "text/css"
+    },
+    {
+      "IsNonResource": false,
+      "type": "image/png"
+    },
+    {
+      "IsNonResource": false,
+      "type": "application/vnd.ms-fontobject"
+    },
+    {
+      "IsNonResource": false,
+      "type": "application/javascript"
+    }
+  ],
+  "GeneralInfo": {
+    "BrowserVersion": "",
+    "IsWinInetMode": false,
+    "MaxUsedConnections": 7,
+    "RecordedBrowser": "Internet Explorer",
+    "RecordingDate": "Dec-03-2019",
+    "RecordingDuration": 44718,
+    "RecordingMode": "N/A",
+    "RecordingTimeStamp": 1575351875,
+    "RecordingType": "Browser",
+    "TotalBytesReceived": 533044,
+    "TotalBytesSent": 39448,
+    "TotalRequests": 48,
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko"
+  },
+  "HostInfo": [
+    {
+      "DomainName": "s-microsoft.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "104.101.17.143",
+          "IncludeInScript": false,
+          "Name": "c.s-microsoft.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "image/x-icon",
+              "DownloadTime": 172,
+              "EventId": 852,
+              "HttpStatus": 200,
+              "Size": 17174,
+              "URL": "https://c.s-microsoft.com/favicon.ico?v2"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES256-GCM-SHA384",
+          "SSLVersion": "TLS1.2"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "microsoft.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "104.123.218.95",
+          "IncludeInScript": false,
+          "Name": "www.microsoft.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/html",
+              "DownloadTime": 46,
+              "EventId": 827,
+              "HttpStatus": 200,
+              "Size": 405,
+              "URL": "https://www.microsoft.com/store/buy/cartcount"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 62,
+              "EventId": 707,
+              "HttpStatus": 200,
+              "Size": 14399,
+              "URL": "https://www.microsoft.com/mwf/js/MWF_20191031_19325328/alert/areaheading/autosuggest/feature/featuregroup/glyph/heading/highlightfeature/image/list/pagebehaviors/skiptomain/typographicintro?apiVersion=1.0"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/javascript",
+              "DownloadTime": 62,
+              "EventId": 705,
+              "HttpStatus": 200,
+              "Size": 27691,
+              "URL": "https://www.microsoft.com/onerfstatics/marketingsites-neu-prod/welcomeie11/_scrf/js/themes=default/2f-63ce8f/2d-7a9063/dc-7e9864/4f-5115f8/7d-266f10/4a-abd94b/78-4c7d22/38-74a735/16-4c1a9d/cd-23d3b0/6d-1e7ed0/b7-cadaa7/ca-40b7b0/4e-ee3a55/3e-f5c39b/c3-6454d7/f9-7592d3/92-10345d/f8-73a5f2/79-499886/7e-cda2d3/62-95a6e7/93-283c2d/91-97a04f/1f-100dea/33-abe4df/d6-c4d640/e3-082b89?ver=2.0"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/javascript",
+              "DownloadTime": 32,
+              "EventId": 702,
+              "HttpStatus": 200,
+              "Size": 21064,
+              "URL": "https://www.microsoft.com/onerfstatics/marketingsites-neu-prod/welcomeie11/_scrf/js/themes=default/78-6f121b/1e-fd610f?ver=2.0"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/font-woff",
+              "DownloadTime": 47,
+              "EventId": 696,
+              "HttpStatus": 200,
+              "Size": 26288,
+              "URL": "https://www.microsoft.com/mwf/_h/v3.54/mwf.app/fonts/mwfmdl2-v3.54.woff"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 47,
+              "EventId": 693,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/9be151e5/coreui.statics/images/1x1clear.gif"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/css",
+              "DownloadTime": 31,
+              "EventId": 690,
+              "HttpStatus": 200,
+              "Size": 11514,
+              "URL": "https://www.microsoft.com/onerfstatics/marketingsites-neu-prod/west-european/welcomeie11/_scrf/css/themes=default.device=uplevel_web_pc_ie/5f-45ce81/bb-57b92e/c0-271f35?ver=2.0"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 31,
+              "EventId": 678,
+              "HttpStatus": 200,
+              "Size": 30358,
+              "URL": "https://www.microsoft.com/onerfstatics/marketingsites-neu-prod/_h/46c44584/coreui.statics/externalscripts/jquery/jquery-3.3.1.min.js"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/css",
+              "DownloadTime": 31,
+              "EventId": 664,
+              "HttpStatus": 200,
+              "Size": 28649,
+              "URL": "https://www.microsoft.com/mwf/css/MWF_20191031_19325328/west-european/default/alert/areaheading/autosuggest/feature/featuregroup/glyph/heading/highlightfeature/image/list/pagebehaviors/skiptomain/typographicintro?apiVersion=1.0&include_base=true"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/html",
+              "DownloadTime": 297,
+              "EventId": 656,
+              "HttpStatus": 200,
+              "Size": 33512,
+              "URL": "https://www.microsoft.com/en-us/welcomeie11/welcomeie11"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 47,
+              "EventId": 654,
+              "HttpStatus": 301,
+              "Size": 0,
+              "URL": "https://www.microsoft.com/en-us/welcomeie11/"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES256-GCM-SHA384",
+          "SSLVersion": "TLS1.2"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "111.221.29.254",
+          "IncludeInScript": false,
+          "Name": "web.vortex.data.microsoft.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 235,
+              "EventId": 854,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://web.vortex.data.microsoft.com/collect/v1/t.gif?ver='2.1'&name='Ms.Webi.ContentUpdate'&time='2019-12-03T05%3A45%3A09.370Z'&os='Windows'&appId='JS%3Awelcomeie11'&cV='1ZeB865tkkSBvIep.0'&-ver='1.0'&-impressionGuid='06be5f80-a688-43f7-8284-17099466f284'&-pageName='welcomeie11'&-uri='https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fwelcomeie11%2Fwelcomeie11'&-market='en-us'&-pageTags='%7B%22browserGroup%22%3A%22uplevel.web.pc.ie%22%2C%22isTentedPage%22%3Afalse%2C%22tasId%22%3A%228c1df773-5852-4eec-9683-f9adcdbfb8cc%22%2C%22tasMuid%22%3A%222725464B6DC76C86260C4B9F6CC16D90%22%2C%22pageVersion%22%3A%220.1%22%2C%22isCachedPage%22%3Afalse%2C%22enabledFeatures%22%3A%22uhf_retailstore2%3A1%2CUhfPb%3A1%2CUhfUsePh%3A1%2CEnableLocaleDetection%3A1%2CUhfSwp%3A1%2Cuhfgreenid%3A1%2Ccore_cookiecompliance_enabled%3A1%2Ccore_akamai_im_enabled%3A1%2Ccoreui_hero_image_resize_90%3A1%2Cuhf_as_iris%3A1%2Ccore_use_coreui_mwf%3A1%2Ccoreui_makeimagebackgroundtransparent%3A1%2Ccore_BypassJWTValidation%3A1%2CMSADisableForceSignin%3A1%2CIsRtoRuleDisabled%3A1%2CDisableToSkipMarketdetectionforUknownRoutes%3A1%2Cf_video_uselegacyservice%3A1%2Cuhf_magic_triangle%3A1%2CRelevanceOverride%3A1%2CEnableAzureActiveDirectory20%3A1%2CIsIrisV4Enabled%3A1%2Cf_video_useadaptive%3A1%2Ccore_uhf_access_policy%3A1%2Cuhf_st_enabled%3A1%2Cjquery_latest%3A1%2CDisableOneRFSearchRoute%3A1%2CResolveDataProviderByPartnerNameSpace%3A1%2Ccore_disable_extensibility%3A1%2CInvokeLoginAuthorizeAndRedirect%3A1%2CAllowIncludeExclusivityArguments%3A1%2Cuhf_stick_footer_to_bottom%3A1%2CEnableFetchOfKnownDocument%3A1%2Cboomerang_disabled%3A1%2CretailServerFromTenantConfig%3A1%2Cnode_scnr_blob%3A1%2Crushmore_gzip_html%3A1%2CDisableTATToken%3A1%2Cnode_legacy_getactiveprices%3A1%2Cuhf_enable_domain_check%3A1%2Cnode_disable_cors%3A1%2Cuhf_enable_promo_banner%3A1%2Ccore_useAfsRestApiForStatics%3A1%2CEnableNonceCookieMiddleware%3A1%22%2C%22pageSubType%22%3A%22RETVK5%22%2C%22canvasType%22%3A%22Web%22%2C%22deviceFamily%22%3Anull%2C%22isOneRf%22%3Atrue%2C%22isCorpNet%22%3Afalse%2C%22dataVersion%22%3A%2210%2F22%2F2018%204%3A31%3A56%20PM%20%2B00%3A00%22%2C%22serviceName%22%3A%22marketingsites-prod-odnortheurope%22%2C%22metaTags%22%3A%7B%7D%2C%22timing%22%3A%22%7B%5C%22navigationStart%5C%22%3A1575351904171%2C%5C%22unloadEventStart%5C%22%3A0%2C%5C%22unloadEventEnd%5C%22%3A0%2C%5C%22redirectStart%5C%22%3A0%2C%5C%22redirectEnd%5C%22%3A0%2C%5C%22fetchStart%5C%22%3A1575351904171%2C%5C%22domainLookupStart%5C%22%3A1575351904172%2C%5C%22domainLookupEnd%5C%22%3A1575351904172%2C%5C%22connectStart%5C%22%3A1575351904172%2C%5C%22connectEnd%5C%22%3A1575351904172%2C%5C%22requestStart%5C%22%3A1575351904172%2C%5C%22responseStart%5C%22%3A1575351904172%2C%5C%22responseEnd%5C%22%3A1575351904205%2C%5C%22domLoading%5C%22%3A1575351904172%2C%5C%22domInteractive%5C%22%3A1575351906497%2C%5C%22domContentLoadedEventStart%5C%22%3A1575351906515%2C%5C%22domContentLoadedEventEnd%5C%22%3A1575351906581%2C%5C%22domComplete%5C%22%3A1575351909202%2C%5C%22loadEventStart%5C%22%3A1575351909203%2C%5C%22loadEventEnd%5C%22%3A1575351909276%2C%5C%22msFirstPaint%5C%22%3A1575351904965%7D%22%7D'&-pageHeight=1435&-vpHeight=554&-vpWidth=784&-behavior=0&-vScrollOffset=0&-hScrollOffset=0&-contentVer='2.0'&-content='%5B%7B%22cN%22%3A%22headerArea%201%22%2C%22cT%22%3A%22Area_coreuiArea%22%2C%22id%22%3A%22a1Body%22%2C%22sN%22%3A1%2C%22aN%22%3A%22Body%22%7D%2C%7B%22cN%22%3A%22headerRegion%201%22%2C%22cT%22%3A%22Region_coreui-region%22%2C%22id%22%3A%22r1a1%22%2C%22sN%22%3A1%2C%22aN%22%3A%22a1%22%7D%2C%7B%22cN%22%3A%22header1%201%22%2C%22cT%22%3A%22Module_coreui-universalheader%22%2C%22id%22%3A%22m1r1a1%22%2C%22sN%22%3A1%2C%22aN%22%3A%22r1a1%22%7D%2C%7B%22cN%22%3A%22Universal%20Header_cont%22%2C%22cT%22%3A%22Container%22%2C%22id%22%3A%22c2m1r1a1%22%2C%22sN%22%3A2%2C%22aN%22%3A%22m1r1a1%22%7D%2C%7B%22cN%22%3A%22Mobile%20menu%20button_nonnav%22%2C%22id%22%3A%22nn1c2m1r1a1%22%2C%22sN%22%3A1%2C%22aN%22%3A%22c2m1r1a1%22%7D%2C%7B%22cN%22%3A%22GlobalNav_Logo_cont%22%2C%22cT%22%3A%22Container%22%2C%22id%22%3A%22c3c2m1r1a1%22%2C%22sN%22%3A3%2C%22aN%22%3A%22c2m1r1a1%22%7D%2C%7B%22cN%22%3A%22Store_nonnav%22%2C%22id%22%3A%22nn7c2m1r1a1%22%2C%22sN%22%3A7%2C%22aN%22%3A%22c2m1r1a1%22%7D%2C%7B%22cN%22%3A%22Header%20actions_cont%22%2C%22cT%22%3A%22Container%22%2C%22id%22%3A%22c9c2m1r1a1%22%2C%22sN%22%3A9%2C%22aN%22%3A%22c2m1r1a1%22%7D%2C%7B%22cN%22%3A%22GlobalNav_Cart_nav%22%2C%22bhvr%22%3A82%2C%22id%22%3A%22n5c1c9c2m1r1a1%22%2C%22sN%22%3A5%2C%22aN%22%3A%22c1c9c2m1r1a1%22%7D%2C%7B%22cN%22%3A%22GlobalNav_Account_cont%22%2C%22cT%22%3A%22Container%22%2C%22id%22%3A%22c7c1c9c2m1r1a1%22%2C%22sN%22%3A7%2C%22aN%22%3A%22c1c9c2m1r1a1%22%7D%2C%7B%22cN%22%3A%22primaryArea%201%22%2C%22cT%22%3A%22Area_coreuiArea%22%2C%22id%22%3A%22a2Body%22%2C%22sN%22%3A2%2C%22aN%22%3A%22Body%22%7D%2C%7B%22cN%22%3A%22primaryR1%201%22%2C%22cT%22%3A%22Region_coreui-region%22%2C%22id%22%3A%22r1a2%22%2C%22sN%22%3A1%2C%22aN%22%3A%22a2%22%7D%2C%7B%22cN%22%3A%22R1TypographicIntro%201%22%2C%22cT%22%3A%22Module_coreui-typographicintro%22%2C%22id%22%3A%22m1r1a2%22%2C%22sN%22%3A1%2C%22aN%22%3A%22r1a2%22%7D%2C%7B%22cN%22%3A%22R1Feature%201%22%2C%22cT%22%3A%22Module_coreui-feature%22%2C%22id%22%3A%22m2r1a2%22%2C%22sN%22%3A2%2C%22aN%22%3A%22r1a2%22%7D%2C%7B%22cN%22%3A%22PromotionalItem%22%2C%22cT%22%3A%22Container%22%2C%22id%22%3A%22c1m2r1a2%22%2C%22sN%22%3A1%2C%22aN%22%3A%22m2r1a2%22%7D%5D'&*baseType='Ms.Content.ContentUpdate'&*title='Internet%20Explorer%20Welcome'&*cookieEnabled=true&*isJs=true&*isDomComplete=true&*isLoggedIn=false&*serverImpressionGuid='8c1df773-5852-4eec-9683-f9adcdbfb8cc'&*pageLoadTime=5032&ext-app-env='onerf_prod'&ext-app-expId='EX%3Asfwaab%2CEX%3A1786t1a%2CEX%3A969t2%2CEX%3Atasmigration010%2CEX%3Acartemberpl%2CEX%3Adisablenorefunds'&ext-javascript-ver='1.1'&ext-javascript-libVer='4.2.8'&ext-javascript-domain='www.microsoft.com'&ext-javascript-msfpc='GUID%3Dd8cfa6e4cba6460cb6bb872bae9ec89c%26HASH%3Dd8cf%26LV%3D201909%26V%3D4%26LU%3D1568168537676'&ext-javascript-userConsent=false&ext-user-localId='t%3A2725464B6DC76C86260C4B9F6CC16D90'&$mscomCookies=true"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 157,
+              "EventId": 838,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://web.vortex.data.microsoft.com/collect/v1/t.gif?ver='2.1'&name='Ms.Webi.ContentUpdate'&time='2019-12-03T05%3A45%3A06.582Z'&os='Windows'&appId='JS%3Awelcomeie11'&cV='1ZeB865tkkSBvIep.0'&-ver='1.0'&-impressionGuid='06be5f80-a688-43f7-8284-17099466f284'&-pageName='welcomeie11'&-uri='https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fwelcomeie11%2Fwelcomeie11'&-market='en-us'&-pageTags='%7B%22browserGroup%22%3A%22uplevel.web.pc.ie%22%2C%22isTentedPage%22%3Afalse%2C%22tasId%22%3A%228c1df773-5852-4eec-9683-f9adcdbfb8cc%22%2C%22tasMuid%22%3A%222725464B6DC76C86260C4B9F6CC16D90%22%2C%22pageVersion%22%3A%220.1%22%2C%22isCachedPage%22%3Afalse%2C%22enabledFeatures%22%3A%22uhf_retailstore2%3A1%2CUhfPb%3A1%2CUhfUsePh%3A1%2CEnableLocaleDetection%3A1%2CUhfSwp%3A1%2Cuhfgreenid%3A1%2Ccore_cookiecompliance_enabled%3A1%2Ccore_akamai_im_enabled%3A1%2Ccoreui_hero_image_resize_90%3A1%2Cuhf_as_iris%3A1%2Ccore_use_coreui_mwf%3A1%2Ccoreui_makeimagebackgroundtransparent%3A1%2Ccore_BypassJWTValidation%3A1%2CMSADisableForceSignin%3A1%2CIsRtoRuleDisabled%3A1%2CDisableToSkipMarketdetectionforUknownRoutes%3A1%2Cf_video_uselegacyservice%3A1%2Cuhf_magic_triangle%3A1%2CRelevanceOverride%3A1%2CEnableAzureActiveDirectory20%3A1%2CIsIrisV4Enabled%3A1%2Cf_video_useadaptive%3A1%2Ccore_uhf_access_policy%3A1%2Cuhf_st_enabled%3A1%2Cjquery_latest%3A1%2CDisableOneRFSearchRoute%3A1%2CResolveDataProviderByPartnerNameSpace%3A1%2Ccore_disable_extensibility%3A1%2CInvokeLoginAuthorizeAndRedirect%3A1%2CAllowIncludeExclusivityArguments%3A1%2Cuhf_stick_footer_to_bottom%3A1%2CEnableFetchOfKnownDocument%3A1%2Cboomerang_disabled%3A1%2CretailServerFromTenantConfig%3A1%2Cnode_scnr_blob%3A1%2Crushmore_gzip_html%3A1%2CDisableTATToken%3A1%2Cnode_legacy_getactiveprices%3A1%2Cuhf_enable_domain_check%3A1%2Cnode_disable_cors%3A1%2Cuhf_enable_promo_banner%3A1%2Ccore_useAfsRestApiForStatics%3A1%2CEnableNonceCookieMiddleware%3A1%22%2C%22pageSubType%22%3A%22RETVK5%22%2C%22canvasType%22%3A%22Web%22%2C%22deviceFamily%22%3Anull%2C%22isOneRf%22%3Atrue%2C%22isCorpNet%22%3Afalse%2C%22dataVersion%22%3A%2210%2F22%2F2018%204%3A31%3A56%20PM%20%2B00%3A00%22%2C%22serviceName%22%3A%22marketingsites-prod-odnortheurope%22%2C%22metaTags%22%3A%7B%7D%7D'&-pageHeight=1361&-vpHeight=554&-vpWidth=784&-behavior=0&-vScrollOffset=0&-hScrollOffset=0&-contentVer='2.0'&-content='%5B%7B%22cN%22%3A%22headerArea%201%22%2C%22cT%22%3A%22Area_coreuiArea%22%2C%22id%22%3A%22a1Body%22%2C%22sN%22%3A1%2C%22aN%22%3A%22Body%22%7D%2C%7B%22cN%22%3A%22headerRegion%201%22%2C%22cT%22%3A%22Region_coreui-region%22%2C%22id%22%3A%22r1a1%22%2C%22sN%22%3A1%2C%22aN%22%3A%22a1%22%7D%2C%7B%22cN%22%3A%22header1%201%22%2C%22cT%22%3A%22Module_coreui-universalheader%22%2C%22id%22%3A%22m1r1a1%22%2C%22sN%22%3A1%2C%22aN%22%3A%22r1a1%22%7D%2C%7B%22cN%22%3A%22Universal%20Header_cont%22%2C%22cT%22%3A%22Container%22%2C%22id%22%3A%22c2m1r1a1%22%2C%22sN%22%3A2%2C%22aN%22%3A%22m1r1a1%22%7D%2C%7B%22cN%22%3A%22Mobile%20menu%20button_nonnav%22%2C%22id%22%3A%22nn1c2m1r1a1%22%2C%22sN%22%3A1%2C%22aN%22%3A%22c2m1r1a1%22%7D%2C%7B%22cN%22%3A%22GlobalNav_Logo_cont%22%2C%22cT%22%3A%22Container%22%2C%22id%22%3A%22c3c2m1r1a1%22%2C%22sN%22%3A3%2C%22aN%22%3A%22c2m1r1a1%22%7D%2C%7B%22cN%22%3A%22Store_nonnav%22%2C%22id%22%3A%22nn7c2m1r1a1%22%2C%22sN%22%3A7%2C%22aN%22%3A%22c2m1r1a1%22%7D%2C%7B%22cN%22%3A%22Header%20actions_cont%22%2C%22cT%22%3A%22Container%22%2C%22id%22%3A%22c9c2m1r1a1%22%2C%22sN%22%3A9%2C%22aN%22%3A%22c2m1r1a1%22%7D%2C%7B%22cN%22%3A%22GlobalNav_Cart_nav%22%2C%22bhvr%22%3A82%2C%22id%22%3A%22n5c1c9c2m1r1a1%22%2C%22sN%22%3A5%2C%22aN%22%3A%22c1c9c2m1r1a1%22%7D%2C%7B%22cN%22%3A%22GlobalNav_Account_cont%22%2C%22cT%22%3A%22Container%22%2C%22id%22%3A%22c7c1c9c2m1r1a1%22%2C%22sN%22%3A7%2C%22aN%22%3A%22c1c9c2m1r1a1%22%7D%2C%7B%22cN%22%3A%22primaryArea%201%22%2C%22cT%22%3A%22Area_coreuiArea%22%2C%22id%22%3A%22a2Body%22%2C%22sN%22%3A2%2C%22aN%22%3A%22Body%22%7D%2C%7B%22cN%22%3A%22primaryR1%201%22%2C%22cT%22%3A%22Region_coreui-region%22%2C%22id%22%3A%22r1a2%22%2C%22sN%22%3A1%2C%22aN%22%3A%22a2%22%7D%2C%7B%22cN%22%3A%22R1TypographicIntro%201%22%2C%22cT%22%3A%22Module_coreui-typographicintro%22%2C%22id%22%3A%22m1r1a2%22%2C%22sN%22%3A1%2C%22aN%22%3A%22r1a2%22%7D%2C%7B%22cN%22%3A%22R1Feature%201%22%2C%22cT%22%3A%22Module_coreui-feature%22%2C%22id%22%3A%22m2r1a2%22%2C%22sN%22%3A2%2C%22aN%22%3A%22r1a2%22%7D%2C%7B%22cN%22%3A%22PromotionalItem%22%2C%22cT%22%3A%22Container%22%2C%22id%22%3A%22c1m2r1a2%22%2C%22sN%22%3A1%2C%22aN%22%3A%22m2r1a2%22%7D%5D'&*baseType='Ms.Content.ContentUpdate'&*timings='%7B%22HeadDuration%22%3A555%2C%22HtmlDuration%22%3A2326%2C%22BodyDuration%22%3A1771%2C%22HeaderAreaDuration%22%3A23%2C%22MainAreaDuration%22%3A31%2C%22FooterAreaDuration%22%3A2%2C%22PostFooterDuration%22%3A1714%7D'&*title='Internet%20Explorer%20Welcome'&*cookieEnabled=true&*isJs=true&*isManual=true&*isDomComplete=false&*isLoggedIn=false&*serverImpressionGuid='8c1df773-5852-4eec-9683-f9adcdbfb8cc'&ext-app-env='onerf_prod'&ext-app-expId='EX%3Asfwaab%2CEX%3A1786t1a%2CEX%3A969t2%2CEX%3Atasmigration010%2CEX%3Acartemberpl%2CEX%3Adisablenorefunds'&ext-javascript-ver='1.1'&ext-javascript-libVer='4.2.8'&ext-javascript-domain='www.microsoft.com'&ext-javascript-msfpc='GUID%3Dd8cfa6e4cba6460cb6bb872bae9ec89c%26HASH%3Dd8cf%26LV%3D201909%26V%3D4%26LU%3D1568168537676'&ext-javascript-userConsent=false&ext-user-localId='t%3A2725464B6DC76C86260C4B9F6CC16D90'&$mscomCookies=true"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 156,
+              "EventId": 836,
+              "HttpStatus": 200,
+              "Size": 57,
+              "URL": "https://web.vortex.data.microsoft.com/collect/v1?$mscomCookies=true&ext-javascript-msfpc='GUID%3Dd8cfa6e4cba6460cb6bb872bae9ec89c%26HASH%3Dd8cf%26LV%3D201909%26V%3D4%26LU%3D1568168537676'"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 125,
+              "EventId": 816,
+              "HttpStatus": 200,
+              "Size": 57,
+              "URL": "https://web.vortex.data.microsoft.com/collect/v1?$mscomCookies=true&ext-javascript-msfpc='GUID%3Dd8cfa6e4cba6460cb6bb872bae9ec89c%26HASH%3Dd8cf%26LV%3D201909%26V%3D4%26LU%3D1568168537676'"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/javascript",
+              "DownloadTime": 125,
+              "EventId": 806,
+              "HttpStatus": 200,
+              "Size": 274,
+              "URL": "https://web.vortex.data.microsoft.com/collect/v1/t.js?ver='2.1'&name='Ms.Webi.PageView'&time='2019-12-03T05%3A45%3A05.249Z'&os='Windows'&appId='JS%3Awelcomeie11'&cV='1ZeB865tkkSBvIep.0'&-ver='1.0'&-impressionGuid='06be5f80-a688-43f7-8284-17099466f284'&-pageName='welcomeie11'&-uri='https%3A%2F%2Fwww.microsoft.com%2Fen-us%2Fwelcomeie11%2Fwelcomeie11'&-market='en-us'&-pageType='Authoring.AllModules'&-resHeight=1024&-resWidth=1280&-pageTags='%7B%22browserGroup%22%3A%22uplevel.web.pc.ie%22%2C%22isTentedPage%22%3Afalse%2C%22tasId%22%3A%228c1df773-5852-4eec-9683-f9adcdbfb8cc%22%2C%22tasMuid%22%3A%222725464B6DC76C86260C4B9F6CC16D90%22%2C%22pageVersion%22%3A%220.1%22%2C%22isCachedPage%22%3Afalse%2C%22enabledFeatures%22%3A%22uhf_retailstore2%3A1%2CUhfPb%3A1%2CUhfUsePh%3A1%2CEnableLocaleDetection%3A1%2CUhfSwp%3A1%2Cuhfgreenid%3A1%2Ccore_cookiecompliance_enabled%3A1%2Ccore_akamai_im_enabled%3A1%2Ccoreui_hero_image_resize_90%3A1%2Cuhf_as_iris%3A1%2Ccore_use_coreui_mwf%3A1%2Ccoreui_makeimagebackgroundtransparent%3A1%2Ccore_BypassJWTValidation%3A1%2CMSADisableForceSignin%3A1%2CIsRtoRuleDisabled%3A1%2CDisableToSkipMarketdetectionforUknownRoutes%3A1%2Cf_video_uselegacyservice%3A1%2Cuhf_magic_triangle%3A1%2CRelevanceOverride%3A1%2CEnableAzureActiveDirectory20%3A1%2CIsIrisV4Enabled%3A1%2Cf_video_useadaptive%3A1%2Ccore_uhf_access_policy%3A1%2Cuhf_st_enabled%3A1%2Cjquery_latest%3A1%2CDisableOneRFSearchRoute%3A1%2CResolveDataProviderByPartnerNameSpace%3A1%2Ccore_disable_extensibility%3A1%2CInvokeLoginAuthorizeAndRedirect%3A1%2CAllowIncludeExclusivityArguments%3A1%2Cuhf_stick_footer_to_bottom%3A1%2CEnableFetchOfKnownDocument%3A1%2Cboomerang_disabled%3A1%2CretailServerFromTenantConfig%3A1%2Cnode_scnr_blob%3A1%2Crushmore_gzip_html%3A1%2CDisableTATToken%3A1%2Cnode_legacy_getactiveprices%3A1%2Cuhf_enable_domain_check%3A1%2Cnode_disable_cors%3A1%2Cuhf_enable_promo_banner%3A1%2Ccore_useAfsRestApiForStatics%3A1%2CEnableNonceCookieMiddleware%3A1%22%2C%22pageSubType%22%3A%22RETVK5%22%2C%22canvasType%22%3A%22Web%22%2C%22deviceFamily%22%3Anull%2C%22isOneRf%22%3Atrue%2C%22isCorpNet%22%3Afalse%2C%22dataVersion%22%3A%2210%2F22%2F2018%204%3A31%3A56%20PM%20%2B00%3A00%22%2C%22serviceName%22%3A%22marketingsites-prod-odnortheurope%22%2C%22metaTags%22%3A%7B%7D%2C%22scripts%22%3A%22JQuery%22%7D'&-behavior=0&*baseType='Ms.Content.PageView'&*cookieEnabled=true&*isJs=true&*title='Internet%20Explorer%20Welcome'&*isLoggedIn=false&*serverImpressionGuid='8c1df773-5852-4eec-9683-f9adcdbfb8cc'&ext-app-env='onerf_prod'&ext-app-expId='EX%3Asfwaab%2CEX%3A1786t1a%2CEX%3A969t2%2CEX%3Atasmigration010%2CEX%3Acartemberpl%2CEX%3Adisablenorefunds'&ext-javascript-ver='1.1'&ext-javascript-libVer='4.2.8'&ext-javascript-domain='www.microsoft.com'&ext-javascript-userConsent=false&ext-user-localId='t%3A2725464B6DC76C86260C4B9F6CC16D90'&$mscomCookies=true"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES128-GCM-SHA256",
+          "SSLVersion": "TLS1.2"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "104.101.18.78",
+          "IncludeInScript": false,
+          "Name": "go.microsoft.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 78,
+              "EventId": 638,
+              "HttpStatus": 302,
+              "Size": 0,
+              "URL": "https://go.microsoft.com/fwlink/?LinkId=517287"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 79,
+              "EventId": 636,
+              "HttpStatus": 302,
+              "Size": 0,
+              "URL": "https://go.microsoft.com/fwlink/?LinkId=838604"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES256-GCM-SHA384",
+          "SSLVersion": "TLS1.2"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "40.81.31.55",
+          "IncludeInScript": false,
+          "Name": "c1.microsoft.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 109,
+              "EventId": 897,
+              "HttpStatus": 302,
+              "Size": 0,
+              "URL": "https://c1.microsoft.com/c.gif?DI=4050&did=1&t="
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES128-GCM-SHA256",
+          "SSLVersion": "TLS1.2"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "mem.gfx.ms",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "104.123.217.23",
+          "IncludeInScript": false,
+          "Name": "mem.gfx.ms",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 32,
+              "EventId": 830,
+              "HttpStatus": 200,
+              "Size": 13497,
+              "URL": "https://mem.gfx.ms/scripts/me/MeControl/10.19284.2/en-US/meCore.min.js"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 47,
+              "EventId": 789,
+              "HttpStatus": 200,
+              "Size": 27111,
+              "URL": "https://mem.gfx.ms/scripts/me/MeControl/10.19284.2/en-US/meBoot.min.js"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 109,
+              "EventId": 780,
+              "HttpStatus": 200,
+              "Size": 9244,
+              "URL": "https://mem.gfx.ms/meversion?partner=RetailStore2&market=en-us&uhf=1"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES256-GCM-SHA384",
+          "SSLVersion": "TLS1.2"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "live.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "40.90.22.191",
+          "IncludeInScript": false,
+          "Name": "login.live.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/html",
+              "DownloadTime": 282,
+              "EventId": 918,
+              "HttpStatus": 200,
+              "Size": 4106,
+              "URL": "https://login.live.com/me.srf?wa=wsignin1.0&wreply=https%3A%2F%2Fwww.microsoft.com&uaid=614f7728-dec9-44c7-07c4-64e4d50e7019&partnerId=retailstore2"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES256-GCM-SHA384",
+          "SSLVersion": "TLS1.2"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "likebtn.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "104.24.11.93",
+          "IncludeInScript": false,
+          "Name": "wi.likebtn.com",
+          "Port": 80,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 438,
+              "EventId": 523,
+              "HttpStatus": 200,
+              "Size": 89,
+              "URL": "http://wi.likebtn.com/w/i/?s=%7B%22h%22%3A%22lifecharger.org%22%2C%22s%22%3A%22%22%2C%22i%22%3A%5B%22aaa8d00854b6%22%5D%7D&lb=lb_json"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 437,
+              "EventId": 262,
+              "HttpStatus": 200,
+              "Size": 229,
+              "URL": "http://wi.likebtn.com/w/i/?s=%7B%22h%22%3A%22lifecharger.org%22%2C%22s%22%3A%22%22%2C%22i%22%3A%5B%2230a372efe501%22%2C%226ddd3264f934%22%2C%220cc801851931%22%2C%22e3400474fd1e%22%2C%2265f379085453%22%2C%228b4319ec1f5e%22%2C%224715a2e29eb8%22%2C%224b302f0c1bd3%22%2C%22a60cb9361a46%22%2C%22864bdf86dab3%22%2C%223a9de53c8db1%22%5D%7D&lb=lb_json"
+            }
+          ],
+          "SSLCipher": "None",
+          "SSLVersion": "None"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "104.24.11.93",
+          "IncludeInScript": false,
+          "Name": "w.likebtn.com",
+          "Port": 80,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/css",
+              "DownloadTime": 62,
+              "EventId": 166,
+              "HttpStatus": 200,
+              "Size": 28425,
+              "URL": "http://w.likebtn.com/css/w/widget.css?v=38"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 188,
+              "EventId": 157,
+              "HttpStatus": 200,
+              "Size": 34339,
+              "URL": "http://w.likebtn.com/js/w/widget.js"
+            }
+          ],
+          "SSLCipher": "None",
+          "SSLVersion": "None"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "104.24.11.93",
+          "IncludeInScript": false,
+          "Name": "pv.likebtn.com",
+          "Port": 80,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 312,
+              "EventId": 521,
+              "HttpStatus": 200,
+              "Size": 0,
+              "URL": "http://pv.likebtn.com/?nc=.php&t=1575351891412&h=lifecharger.org"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 516,
+              "EventId": 269,
+              "HttpStatus": 200,
+              "Size": 0,
+              "URL": "http://pv.likebtn.com/?nc=.php&t=1575351887180&h=lifecharger.org"
+            }
+          ],
+          "SSLCipher": "None",
+          "SSLVersion": "None"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "lifecharger.org",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "162.241.225.105",
+          "IncludeInScript": true,
+          "Name": "lifecharger.org",
+          "Port": 80,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 375,
+              "EventId": 518,
+              "HttpStatus": 200,
+              "Size": 11582,
+              "URL": "http://lifecharger.org/wp-content/uploads/2016/01/rising_sun_white_background-150x112.png"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 328,
+              "EventId": 502,
+              "HttpStatus": 200,
+              "Size": 1137,
+              "URL": "http://lifecharger.org/wp-includes/js/comment-reply.min.js?ver=9c8e13199db1dc0a9c27c778740aa6e2"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/html",
+              "DownloadTime": 1125,
+              "EventId": 494,
+              "HttpStatus": 200,
+              "Size": 13818,
+              "URL": "http://lifecharger.org/archives/"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 329,
+              "EventId": 418,
+              "HttpStatus": 200,
+              "Size": 54420,
+              "URL": "http://lifecharger.org/wp-content/plugins/google-language-translator/images/flags22.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 344,
+              "EventId": 353,
+              "HttpStatus": 200,
+              "Size": 54996,
+              "URL": "http://lifecharger.org/wp-content/plugins/google-language-translator/images/flags.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/vnd.ms-fontobject",
+              "DownloadTime": 329,
+              "EventId": 187,
+              "HttpStatus": 200,
+              "Size": 76518,
+              "URL": "http://lifecharger.org/wp-content/themes/salt/fonts/fontawesome-webfont.eot?"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 313,
+              "EventId": 162,
+              "HttpStatus": 200,
+              "Size": 750,
+              "URL": "http://lifecharger.org/wp-includes/js/wp-embed.min.js?ver=9c8e13199db1dc0a9c27c778740aa6e2"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 344,
+              "EventId": 148,
+              "HttpStatus": 200,
+              "Size": 17584,
+              "URL": "http://lifecharger.org/wp-content/uploads/pum/pum-site-scripts.js?defer&generated=1540899901&ver=1.7.30"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 344,
+              "EventId": 146,
+              "HttpStatus": 200,
+              "Size": 374,
+              "URL": "http://lifecharger.org/wp-content/plugins/newsletter/subscription/validate.js?ver=5.7.4"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 329,
+              "EventId": 143,
+              "HttpStatus": 200,
+              "Size": 2704,
+              "URL": "http://lifecharger.org/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 313,
+              "EventId": 136,
+              "HttpStatus": 200,
+              "Size": 143,
+              "URL": "http://lifecharger.org/wp-content/themes/salt/js/global.js?ver=1.0.1"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 328,
+              "EventId": 131,
+              "HttpStatus": 200,
+              "Size": 2394,
+              "URL": "http://lifecharger.org/wp-content/themes/salt/js/respond.min.js?ver=1.4.2"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 328,
+              "EventId": 123,
+              "HttpStatus": 200,
+              "Size": 3690,
+              "URL": "http://lifecharger.org/wp-content/plugins/google-language-translator/js/scripts.js?ver=5.0.48"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 344,
+              "EventId": 120,
+              "HttpStatus": 200,
+              "Size": 3149,
+              "URL": "http://lifecharger.org/wp-content/plugins/font/js/pluginscripts.js?pver=7.5.1&ver=9c8e13199db1dc0a9c27c778740aa6e2"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 312,
+              "EventId": 118,
+              "HttpStatus": 200,
+              "Size": 2704,
+              "URL": "http://lifecharger.org/wp-content/plugins/likebtn-like-button/public/js/frontend.js?ver=9c8e13199db1dc0a9c27c778740aa6e2"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 329,
+              "EventId": 114,
+              "HttpStatus": 200,
+              "Size": 33460,
+              "URL": "http://lifecharger.org/wp-content/plugins/font/js/jquery.fontPlugin.js?pver=7.5.1&ver=9c8e13199db1dc0a9c27c778740aa6e2"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 313,
+              "EventId": 111,
+              "HttpStatus": 200,
+              "Size": 8348,
+              "URL": "http://lifecharger.org/wp-includes/js/jquery/ui/sortable.min.js?ver=1.11.4"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 344,
+              "EventId": 109,
+              "HttpStatus": 200,
+              "Size": 4961,
+              "URL": "http://lifecharger.org/wp-content/plugins/font/js/colorpicker.js?ver=9c8e13199db1dc0a9c27c778740aa6e2"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 344,
+              "EventId": 105,
+              "HttpStatus": 200,
+              "Size": 3706,
+              "URL": "http://lifecharger.org/wp-includes/js/jquery/ui/slider.min.js?ver=1.11.4"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 359,
+              "EventId": 103,
+              "HttpStatus": 200,
+              "Size": 6200,
+              "URL": "http://lifecharger.org/wp-includes/js/jquery/ui/draggable.min.js?ver=1.11.4"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 328,
+              "EventId": 101,
+              "HttpStatus": 200,
+              "Size": 1128,
+              "URL": "http://lifecharger.org/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 328,
+              "EventId": 98,
+              "HttpStatus": 200,
+              "Size": 2901,
+              "URL": "http://lifecharger.org/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 328,
+              "EventId": 95,
+              "HttpStatus": 200,
+              "Size": 1905,
+              "URL": "http://lifecharger.org/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 375,
+              "EventId": 90,
+              "HttpStatus": 200,
+              "Size": 1794,
+              "URL": "http://lifecharger.org/wp-content/plugins/cleantalk-spam-protect/js/apbct-public.js?ver=5.107"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 344,
+              "EventId": 88,
+              "HttpStatus": 200,
+              "Size": 5399,
+              "URL": "http://lifecharger.org/wp-content/plugins/font/js/jquery.fcarousel.min.js?ver=9c8e13199db1dc0a9c27c778740aa6e2"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 344,
+              "EventId": 86,
+              "HttpStatus": 200,
+              "Size": 2099,
+              "URL": "http://lifecharger.org/wp-content/plugins/cleantalk-spam-protect/inc/cleantalk_nocache.js?ver=5.107"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 328,
+              "EventId": 84,
+              "HttpStatus": 200,
+              "Size": 470,
+              "URL": "http://lifecharger.org/wp-content/plugins/cleantalk-spam-protect/js/apbct-public--gdpr.js?ver=5.107"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 343,
+              "EventId": 81,
+              "HttpStatus": 200,
+              "Size": 4444,
+              "URL": "http://lifecharger.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 328,
+              "EventId": 76,
+              "HttpStatus": 200,
+              "Size": 42766,
+              "URL": "http://lifecharger.org/wp-includes/js/jquery/jquery.js?ver=1.12.4"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/css",
+              "DownloadTime": 328,
+              "EventId": 70,
+              "HttpStatus": 200,
+              "Size": 4294,
+              "URL": "http://lifecharger.org/wp-content/uploads/pum/pum-site-styles.css?generated=1540899901&ver=1.7.30"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/css",
+              "DownloadTime": 328,
+              "EventId": 68,
+              "HttpStatus": 200,
+              "Size": 1843,
+              "URL": "http://lifecharger.org/wp-content/plugins/newsletter/style.css?ver=5.7.4"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/css",
+              "DownloadTime": 328,
+              "EventId": 65,
+              "HttpStatus": 200,
+              "Size": 1260,
+              "URL": "http://lifecharger.org/wp-content/themes/salt/css/social.css?ver=1.0.3"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/css",
+              "DownloadTime": 343,
+              "EventId": 62,
+              "HttpStatus": 200,
+              "Size": 13378,
+              "URL": "http://lifecharger.org/wp-content/themes/salt/css/main.css?ver=1.1.0"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/css",
+              "DownloadTime": 329,
+              "EventId": 59,
+              "HttpStatus": 200,
+              "Size": 27179,
+              "URL": "http://lifecharger.org/wp-content/themes/salt/css/bootstrap.min.css?ver=3.3.7"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/css",
+              "DownloadTime": 329,
+              "EventId": 56,
+              "HttpStatus": 200,
+              "Size": 6709,
+              "URL": "http://lifecharger.org/wp-content/themes/salt/css/font-awesome.min.css?ver=4.2.1"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/css",
+              "DownloadTime": 344,
+              "EventId": 54,
+              "HttpStatus": 200,
+              "Size": 13130,
+              "URL": "http://lifecharger.org/wp-content/plugins/google-language-translator/css/style.css?ver=5.0.48"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/css",
+              "DownloadTime": 312,
+              "EventId": 52,
+              "HttpStatus": 200,
+              "Size": 865,
+              "URL": "http://lifecharger.org/wp-content/plugins/likebtn-like-button/public/css/style.css?ver=9c8e13199db1dc0a9c27c778740aa6e2"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/css",
+              "DownloadTime": 312,
+              "EventId": 50,
+              "HttpStatus": 200,
+              "Size": 2292,
+              "URL": "http://lifecharger.org/wp-content/plugins/google-language-translator/css/toolbar.css?ver=5.0.48"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 328,
+              "EventId": 47,
+              "HttpStatus": 200,
+              "Size": 4661,
+              "URL": "http://lifecharger.org/wp-includes/js/wp-emoji-release.min.js?ver=9c8e13199db1dc0a9c27c778740aa6e2"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/css",
+              "DownloadTime": 359,
+              "EventId": 43,
+              "HttpStatus": 200,
+              "Size": 8796,
+              "URL": "http://lifecharger.org/wp-content/plugins/font/css/start/jquery-ui-1.8.14.custom.css?ver=9c8e13199db1dc0a9c27c778740aa6e2"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/css",
+              "DownloadTime": 344,
+              "EventId": 41,
+              "HttpStatus": 200,
+              "Size": 763,
+              "URL": "http://lifecharger.org/wp-content/plugins/font/css/colorpicker.css?ver=9c8e13199db1dc0a9c27c778740aa6e2"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/css",
+              "DownloadTime": 328,
+              "EventId": 39,
+              "HttpStatus": 200,
+              "Size": 5777,
+              "URL": "http://lifecharger.org/wp-content/plugins/font/css/fontsforwebstyle.css?pver=7.5.1&ver=9c8e13199db1dc0a9c27c778740aa6e2"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/css",
+              "DownloadTime": 344,
+              "EventId": 37,
+              "HttpStatus": 200,
+              "Size": 5622,
+              "URL": "http://lifecharger.org/wp-includes/css/dist/block-library/style.min.css?ver=9c8e13199db1dc0a9c27c778740aa6e2"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/css",
+              "DownloadTime": 328,
+              "EventId": 34,
+              "HttpStatus": 200,
+              "Size": 1328,
+              "URL": "http://lifecharger.org/wp-content/plugins/wysija-newsletters/css/validationEngine.jquery.css?ver=2.7.8"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/html",
+              "DownloadTime": 1109,
+              "EventId": 26,
+              "HttpStatus": 200,
+              "Size": 19751,
+              "URL": "http://lifecharger.org/"
+            }
+          ],
+          "SSLCipher": "None",
+          "SSLVersion": "None"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "gstatic.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "216.58.196.99",
+          "IncludeInScript": false,
+          "Name": "www.gstatic.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 187,
+              "EventId": 527,
+              "HttpStatus": 200,
+              "Size": 1847,
+              "URL": "https://www.gstatic.com/images/branding/product/2x/translate_24dp.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 15,
+              "EventId": 516,
+              "HttpStatus": 200,
+              "Size": 825,
+              "URL": "https://www.gstatic.com/images/branding/product/1x/translate_24dp.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 32,
+              "EventId": 470,
+              "HttpStatus": 200,
+              "Size": 873,
+              "URL": "https://www.gstatic.com/images/branding/product/2x/translate_24dp.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 16,
+              "EventId": 468,
+              "HttpStatus": 200,
+              "Size": 825,
+              "URL": "https://www.gstatic.com/images/branding/product/1x/translate_24dp.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 16,
+              "EventId": 458,
+              "HttpStatus": 200,
+              "Size": 910,
+              "URL": "https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_42x16dp.png"
+            }
+          ],
+          "SSLCipher": "ECDHE-ECDSA-AES128-GCM-SHA256",
+          "SSLVersion": "TLS1.2"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "googleapis.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "172.217.166.234",
+          "IncludeInScript": false,
+          "Name": "translate.googleapis.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 204,
+              "EventId": 525,
+              "HttpStatus": 200,
+              "Size": 910,
+              "URL": "https://translate.googleapis.com/translate_a/l?client=te&alpha=true&hl=en&cb=_callbacks____0k3pfub4t"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 109,
+              "EventId": 410,
+              "HttpStatus": 200,
+              "Size": 910,
+              "URL": "https://translate.googleapis.com/translate_a/l?client=te&alpha=true&hl=en&cb=_callbacks____0k3pfu8io"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/javascript",
+              "DownloadTime": 31,
+              "EventId": 282,
+              "HttpStatus": 200,
+              "Size": 88005,
+              "URL": "https://translate.googleapis.com/element/TE_20190916_00/e/js/element/element_main.js"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/javascript",
+              "DownloadTime": 31,
+              "EventId": 260,
+              "HttpStatus": 200,
+              "Size": 1528,
+              "URL": "https://translate.googleapis.com/translate_static/js/element/main.js"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/css",
+              "DownloadTime": 15,
+              "EventId": 244,
+              "HttpStatus": 200,
+              "Size": 3619,
+              "URL": "https://translate.googleapis.com/translate_static/css/translateelement.css"
+            }
+          ],
+          "SSLCipher": "ECDHE-ECDSA-AES128-GCM-SHA256",
+          "SSLVersion": "TLS1.2"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "172.217.160.234",
+          "IncludeInScript": false,
+          "Name": "fonts.googleapis.com",
+          "Port": 80,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/css",
+              "DownloadTime": 94,
+              "EventId": 72,
+              "HttpStatus": 200,
+              "Size": 245,
+              "URL": "http://fonts.googleapis.com/css?family=Acme|Montserrat"
+            }
+          ],
+          "SSLCipher": "None",
+          "SSLVersion": "None"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "google.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "216.58.221.46",
+          "IncludeInScript": false,
+          "Name": "translate.google.com",
+          "Port": 80,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/javascript",
+              "DownloadTime": 94,
+              "EventId": 498,
+              "HttpStatus": 200,
+              "Size": 735,
+              "URL": "http://translate.google.com/translate_a/element.js?cb=GoogleLanguageTranslatorInit"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/javascript",
+              "DownloadTime": 109,
+              "EventId": 45,
+              "HttpStatus": 200,
+              "Size": 735,
+              "URL": "http://translate.google.com/translate_a/element.js?cb=GoogleLanguageTranslatorInit"
+            }
+          ],
+          "SSLCipher": "None",
+          "SSLVersion": "None"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "google-analytics.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "172.217.161.14",
+          "IncludeInScript": false,
+          "Name": "www.google-analytics.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 16,
+              "EventId": 500,
+              "HttpStatus": 200,
+              "Size": 35,
+              "URL": "https://www.google-analytics.com/collect?v=1&_v=j79&aip=1&a=184990216&t=pageview&_s=1&dl=http%3A%2F%2Flifecharger.org%2Farchives%2F&ul=en-us&de=utf-8&dt=Archives%20%E2%80%93%20Life%20Charger&sd=24-bit&sr=1280x1024&vp=784x554&je=1&fl=32.0%20r0&_u=QCCAgUQAC~&jid=&gjid=&cid=1417406969.1575350714&tid=UA-71929327-1&_gid=1302636320.1575350714&z=389895229"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 31,
+              "EventId": 201,
+              "HttpStatus": 200,
+              "Size": 35,
+              "URL": "https://www.google-analytics.com/collect?v=1&_v=j79&aip=1&a=319993307&t=pageview&_s=1&dl=http%3A%2F%2Flifecharger.org%2F&ul=en-us&de=utf-8&dt=Life%20Charger%20%E2%80%93%20%E2%80%A6%20a%20new%20beginning&sd=24-bit&sr=1280x1024&vp=784x554&je=1&fl=32.0%20r0&_u=QCCAgUQAC~&jid=759358860&gjid=992935051&cid=1417406969.1575350714&tid=UA-71929327-1&_gid=1302636320.1575350714&z=168692159"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/javascript",
+              "DownloadTime": 32,
+              "EventId": 171,
+              "HttpStatus": 200,
+              "Size": 17803,
+              "URL": "https://www.google-analytics.com/analytics.js"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES128-GCM-SHA256",
+          "SSLVersion": "TLS1.2"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "fbcdn.net",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "157.240.198.15",
+          "IncludeInScript": false,
+          "Name": "static.xx.fbcdn.net",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/x-javascript",
+              "DownloadTime": 15,
+              "EventId": 991,
+              "HttpStatus": 200,
+              "Size": 363622,
+              "URL": "https://static.xx.fbcdn.net/rsrc.php/v3iRf94/y4/l/en_US/_9RZ3OZ6m80.js?_nc_x=Ij3Wp8lg5Kz"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 47,
+              "EventId": 576,
+              "HttpStatus": 200,
+              "Size": 400,
+              "URL": "https://static.xx.fbcdn.net/rsrc.php/v3/y5/r/OqOE21UvWe3.png"
+            }
+          ],
+          "SSLCipher": "ECDHE-ECDSA-AES128-GCM-SHA256",
+          "SSLVersion": "TLS1.2"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "facebook.net",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "157.240.198.15",
+          "IncludeInScript": false,
+          "Name": "connect.facebook.net",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/x-javascript",
+              "DownloadTime": 16,
+              "EventId": 434,
+              "HttpStatus": 200,
+              "Size": 60953,
+              "URL": "https://connect.facebook.net/en_US/sdk.js?hash=ca07cbfc462ea859edaf7f91c80dd0a1"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/x-javascript",
+              "DownloadTime": 16,
+              "EventId": 428,
+              "HttpStatus": 200,
+              "Size": 1778,
+              "URL": "https://connect.facebook.net/en_US/sdk.js"
+            }
+          ],
+          "SSLCipher": "ECDHE-ECDSA-AES128-GCM-SHA256",
+          "SSLVersion": "TLS1.2"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "facebook.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "157.240.198.35",
+          "IncludeInScript": false,
+          "Name": "www.facebook.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "image/png",
+              "DownloadTime": 265,
+              "EventId": 1044,
+              "HttpStatus": 200,
+              "Size": 89,
+              "URL": "https://www.facebook.com/common/cavalry_endpoint.php?t_cstart=1575351893512&t_start=1575351893513&t_domcontent=1575351893564&t_layout=1575351923413&t_onload=1575351923413&t_paint=1575351923413&t_creport=1575351923413&t_tti=1575351893564&lid=6766084860283110711-0"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/html",
+              "DownloadTime": 282,
+              "EventId": 542,
+              "HttpStatus": 200,
+              "Size": 65659,
+              "URL": "https://www.facebook.com/v2.0/plugins/like.php?action=like&app_id=&channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D44%23cb%3Df10a38e221793c6%26domain%3Dlifecharger.org%26origin%3Dhttp%253A%252F%252Flifecharger.org%252Ff1690838ab3e4b4%26relation%3Dparent.parent&container_width=450&href=http%3A%2F%2Flifecharger.org%2Farchives%2F&layout=button_count&locale=en_US&sdk=joey&share=true&show_faces=true&size=large&width=450"
+            }
+          ],
+          "SSLCipher": "ECDHE-ECDSA-AES128-GCM-SHA256",
+          "SSLVersion": "TLS1.2"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "157.240.198.15",
+          "IncludeInScript": false,
+          "Name": "staticxx.facebook.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/html",
+              "DownloadTime": 31,
+              "EventId": 505,
+              "HttpStatus": 200,
+              "Size": 12395,
+              "URL": "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/html",
+              "DownloadTime": 31,
+              "EventId": 477,
+              "HttpStatus": 200,
+              "Size": 12395,
+              "URL": "https://staticxx.facebook.com/connect/xd_arbiter.php?version=44"
+            }
+          ],
+          "SSLCipher": "ECDHE-ECDSA-AES128-GCM-SHA256",
+          "SSLVersion": "TLS1.2"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "doubleclick.net",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "74.125.130.156",
+          "IncludeInScript": false,
+          "Name": "stats.g.doubleclick.net",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 94,
+              "EventId": 492,
+              "HttpStatus": 200,
+              "Size": 35,
+              "URL": "https://stats.g.doubleclick.net/r/collect?t=dc&aip=1&_r=3&v=1&_v=j79&tid=UA-71929327-1&cid=1417406969.1575350714&jid=759358860&gjid=992935051&_gid=1302636320.1575350714&_u=QCCAgUQAC~&z=39275757"
+            }
+          ],
+          "SSLCipher": "ECDHE-ECDSA-AES128-GCM-SHA256",
+          "SSLVersion": "TLS1.2"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "akamaized.net",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "112.196.161.50",
+          "IncludeInScript": false,
+          "Name": "img-prod-cms-rt-microsoft-com.akamaized.net",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 156,
+              "EventId": 793,
+              "HttpStatus": 200,
+              "Size": 56874,
+              "URL": "https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWeTGO?ver=8c74&q=90&m=6&h=406&w=542&b=%23FFFFFFFF&l=f&o=t&aim=true"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 31,
+              "EventId": 778,
+              "HttpStatus": 200,
+              "Size": 4054,
+              "URL": "https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31"
+            }
+          ],
+          "SSLCipher": "ECDHE-ECDSA-AES256-GCM-SHA384",
+          "SSLVersion": "TLS1.2"
+        }
+      ],
+      "IncludeInScript": true
+    }
+  ],
+  "WebSocket": {
+    "IncludeInScript": false,
+    "IsScriptIncludeWebSocket": false
+  },
+  "NumberOfCorrelations": 0
+}
