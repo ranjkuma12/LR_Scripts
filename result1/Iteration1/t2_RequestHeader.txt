@@ -1,0 +1,10 @@
+GET /archives/ HTTP/1.1
+Referer: http://lifecharger.org/
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US
+Accept: */*
+Connection: Keep-Alive
+Host: lifecharger.org
+Cookie: apbct_timestamp=1575352938; apbct_site_landing_ts=1575352938; apbct_page_hits=1; apbct_cookies_test=%7B%22cookies_names%22%3A%5B%22apbct_timestamp%22%2C%22apbct_site_landing_ts%22%2C%22apbct_page_hits%22%5D%2C%22check_value%22%3A%22b757bdfffbabe435c20c31b5a31353eb%22%7D; ct_sfw_pass_key=73583901c55454b7e00ed8a1ff7fc85a; wfvt_1303749874=5de5fa6aab267; ct_fkp_timestamp=1575351889; ct_pointer_data=%5B%5B276%2C495%2C2320%5D%2C%5B276%2C494%2C2618%5D%5D; ct_ps_timestamp=1575351890
+

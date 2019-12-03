@@ -1,34 +1,6 @@
 Action()
 {
 
-	web_add_cookie("wordfence_verifiedHuman=16f450cce4b36bc427f9cb6a32108834; DOMAIN=lifecharger.org");
-
-	web_add_cookie("wfvt_1303749874=5de5f1d5ab37c; DOMAIN=lifecharger.org");
-
-	web_add_cookie("_gid=GA1.2.1302636320.1575350714; DOMAIN=lifecharger.org");
-
-	web_add_cookie("_ga=GA1.2.1417406969.1575350714; DOMAIN=lifecharger.org");
-
-	web_add_cookie("ct_checkjs=1267664244; DOMAIN=lifecharger.org");
-
-	web_add_cookie("ct_ps_timestamp=1575351885; DOMAIN=lifecharger.org");
-
-	web_add_cookie("ct_fkp_timestamp=0; DOMAIN=lifecharger.org");
-
-	web_add_cookie("ct_pointer_data=0; DOMAIN=lifecharger.org");
-
-	web_add_cookie("ct_timezone=0; DOMAIN=lifecharger.org");
-
-	web_add_cookie("ct_pointer_data=%5B%5D; DOMAIN=lifecharger.org");
-
-	web_add_cookie("ct_timezone=5.5; DOMAIN=lifecharger.org");
-
-	web_add_cookie("_gat=1; DOMAIN=lifecharger.org");
-
-	web_add_cookie("apbct_visible_fields=0; DOMAIN=lifecharger.org");
-
-	web_add_cookie("apbct_visible_fields_count=0; DOMAIN=lifecharger.org");
-
 	web_url("lifecharger.org", 
 		"URL=http://lifecharger.org/", 
 		"Resource=0", 

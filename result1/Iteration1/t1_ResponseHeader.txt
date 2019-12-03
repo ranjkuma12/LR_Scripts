@@ -1,0 +1,21 @@
+HTTP/1.1 200 OK
+Date: Tue, 03 Dec 2019 06:02:18 GMT
+Server: nginx/1.17.3
+Content-Type: text/html; charset=UTF-8
+Link: <http://lifecharger.org/wp-json/>; rel="https://api.w.org/"
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+Cache-Control: no-cache, must-revalidate, max-age=0
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Accept-Ranges: none
+X-Endurance-Cache-Level: 2
+X-Server-Cache: true
+X-Proxy-Cache: MISS
+Set-Cookie: apbct_timestamp=1575352938; path=/
+Set-Cookie: apbct_site_landing_ts=1575352938; path=/
+Set-Cookie: apbct_page_hits=1; path=/
+Set-Cookie: apbct_cookies_test=%7B%22cookies_names%22%3A%5B%22apbct_timestamp%22%2C%22apbct_site_landing_ts%22%2C%22apbct_page_hits%22%5D%2C%22check_value%22%3A%22b757bdfffbabe435c20c31b5a31353eb%22%7D; path=/
+Set-Cookie: ct_sfw_pass_key=73583901c55454b7e00ed8a1ff7fc85a; path=/
+Set-Cookie: wfvt_1303749874=5de5fa6aab267; expires=Tue, 03-Dec-2019 06:32:18 GMT; path=/; httponly
+Transfer-Encoding: chunked
+

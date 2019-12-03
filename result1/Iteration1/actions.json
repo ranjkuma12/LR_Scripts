@@ -1,0 +1,20 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Url: lifecharger.org",
+                "infFile": "t1.inf",
+                "time": 1575352942030
+            },
+            {
+                "stepId": "STEP2",
+                "stepName": "Link: Archives",
+                "infFile": "t2.inf",
+                "time": 1575352943531
+            }
+        ],
+        "transactions": []
+    }
+]
